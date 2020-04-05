@@ -1,27 +1,113 @@
 # awesome-automotive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome Automotive
+> Intro
 
 
 ## Contents
 
-- [Section](#section)
+- [Autosar](#autosar)
+- [Automotive SPICE](#automotive-spice)
+- [Bus Systems](#bus-systems)
+  - [Automotive Ethernet](#automotive-ethernet)
+  - [CAN](#can)
+  - [FlexRay](#flexray)
+  - [LIN](#lin)
+  - [MOST](#most)
+- [Functional Safety](#functional-safety)
+- [Cyber Security](#cyber-security)
+- [Vehicle Diagnostics](#vehicle-diagnostics)
+- [Requirements Engineering](#requirements-engineering)
+  - [Polarion Software](#polarion-software)
+  - [Rational DOORS](#rational-doors)
+- [Blogs](#blogs)
+- [Books](#books)
+- [Miscellaneous](#miscellaneous)
+- [Learning](#learning)
 - [Another Section](#another-section)
 
+## Autosar
 
-## Section
+- [autosar.org](https://www.autosar.org/) - Find out more about AUTOSAR’s standards, publications, media releases and further information.
+- [Vector Informatik GmbH](https://www.vector.com/int/en/) - supplier of AUTOSAR implementation (MICROSAR) and tools
+- ["Introduction to Autosar"](https://elearning.vector.com/mod/page/view.php?id=437) - Vector e-learning module
 
-About this section. Optional. Keep this short and focus on the list.
+## Automotive SPICE
 
+- [ASPICE ](http://www.automotivespice.com/download/) - latest version of the Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM)
+
+## Bus Systems
+
+### Automotive Ethernet
+
+- ["Introduction to Automotive Ethernet"](https://elearning.vector.com/mod/page/view.php?id=149) - Vector e-learning module
+- [OPEN Alliance. "Open Alliance"](http://opensig.org/) - non-profit, special interest group (SIG) of mainly automotive industry and technology providers collaborating to encourage wide scale adoption of Ethernet-based communication as the standard in automotive networking applications
+- [ OPEN Alliance. "Automotive Ethernet Specifications"](http://opensig.org/about/specifications/)
+- [OPEN Alliance. "Press Releases"](http://opensig.org/news/press-releases/)
+- [SOME/IP Specifications/Standards](http://some-ip.com/papers.shtml)
+- [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) - SOME/IP introduction based on GENIVI implementation
+
+### CAN
+
+- [Bosch specification PDF](http://esd.cs.ucr.edu/webres/can20.pdf) - old document, superseded by the standard [ISO 11898](https://www.iso.org/standard/63648.html)
+- [Bosch CAN FD specification Version 1.0 PDF](https://web.archive.org/web/20151211125301/http://www.bosch-semiconductors.de/media/ubk_semiconductors/pdf_1/canliteratur/can_fd_spec.pdf)
+- [Controller Area Network (CAN) Schedulability Analysis: Refuted, Revisited and Revised](https://link.springer.com/article/10.1007%2Fs11241-007-9012-7)
+- [Controller Area Network (CAN) Implementation Guide PDF](https://www.analog.com/media/en/technical-documentation/application-notes/AN-1123.pdf)
+- ["Introduction to CAN"](https://elearning.vector.com/mod/page/view.php?id=333) - Vector e-learning module
+- [Controller Area Network](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) -  presentation from UC Berkeley
+- [Understanding and Using the Controller Area Network](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) - material from UC Berkeley about CAN 2.0b
+- [CAN Protocol Tutorial](https://www.kvaser.com/course/can-protocol-tutorial/) - prepared by Kvaser (CAN products supplier). On their [site](https://www.kvaser.com/) can find lots of great resources
+
+### FlexRay
+
+- ["Introduction to FlexRay"](https://elearning.vector.com/mod/page/view.php?id=371) - Vector e-learning module
+
+
+### LIN
+
+- ["Introduction to LIN"](https://elearning.vector.com/mod/page/view.php?id=309) - Vector e-learning module
+
+
+### MOST
+
+## Functional Safety
+- [ISO 26262-1:2011(en) (Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - at ISO Online Browsing Platform (OBP)
+
+## Cyber Security
+
+## Vehicle Diagnostics
+
+- [ISO 14229-1:2006(E)](http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf) - Unified diagnostic services (UDS) specification, old document, superseded by the standard [ISO 14229-1:2013](https://www.iso.org/standard/55283.html)
+
+## Requirements Engineering
+### Polarion Software
+- [Polarion tutorial videos](https://polarion.plm.automation.siemens.com/tutorials) 
+
+### Rational DOORS
+- [Getting started](https://www.ibm.com/developerworks/rational/library/getting-started-ibm-rational-doors/index.html) - A tutorial for IBM Rational DOORS and IBM Rational DOORS Web Access
+- [Documentation](https://www.ibm.com/support/pages/node/594725) - library pages contain documentation for earlier versions of Rational products
+- [Essentials videos](https://www.youtube.com/playlist?list=PLFB5C518530CFEC93) 
+- [Using DXL](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.configuring.doc/topics/c_dxl.html) - The Rational® DOORS® eXtension Language (DXL) is an easy-to-learn scripting language that you can use to control and extend Rational DOORS functions.
+- [The DXL Reference Manual](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.requirements.doc/topics/dxl_reference_manual.pdf?view=kc)
+
+
+
+## Blogs
+
+- [automotivetechis](https://automotivetechis.wordpress.com/)
 - [List item](http://example.com)
-- [List item](http://example.com)
 
+## Books 
 
-## Another Section
+- [Automotive Embedded Systems Handbook](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Edited by Nicolas Navet and Françoise Simonot-Lion, 2009
 
-### Subsection
+## Learning
 
-- [List item](http://example.com)
+- [Vector Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Vector database with articles, webinars, demo tools and more
+- [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
+- [Virtual VectorAcademy](https://elearning.vector.com/) - Vector E-Learning platform, free introductions to the topics CAN, Ethernet, FlexRay, LIN, J1939 and AUTOSAR
+
+## Miscellaneous
+
 - [List item](http://example.com)
 
 
