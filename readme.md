@@ -27,7 +27,9 @@
 
 ## Autosar
 
-- [autosar.org](https://www.autosar.org/) - Find out more about AUTOSAR’s standards, publications, media releases and further information.
+- [autosar.org](https://www.autosar.org/) - official website
+- [Classic Platform](https://www.autosar.org/standards/classic-platform/)
+- [Adaptive Platform](https://www.autosar.org/standards/adaptive-platform/)
 - [Vector Informatik GmbH](https://www.vector.com/int/en/) - supplier of AUTOSAR implementation (MICROSAR) and tools
 - ["Introduction to Autosar"](https://elearning.vector.com/mod/page/view.php?id=437) - Vector e-learning module
 
@@ -59,15 +61,22 @@
 
 ### FlexRay
 
+- [FlexRay Specification](https://svn.ipd.kit.edu/nlrp/public/FlexRay/FlexRay%E2%84%A2%20Protocol%20Specification%20Version%203.0.1.pdf)
+- [FlexRay Overview](https://www.ni.com/pl-pl/innovations/white-papers/06/flexray-automotive-communication-bus-overview.html) - Technical Overview of FlexRay by National Instruments
 - ["Introduction to FlexRay"](https://elearning.vector.com/mod/page/view.php?id=371) - Vector e-learning module
+- ["The FlexRay Electrical Physical Layer Evolution"](https://web.archive.org/web/20150216112537/http://www.hanser-automotive.de/fileadmin/heftarchiv/FLEX_10_ONL_NXP-Y.pdf) - Lorenz Steffen, magazine Automotive 2010
 
 
 ### LIN
 
 - ["Introduction to LIN"](https://elearning.vector.com/mod/page/view.php?id=309) - Vector e-learning module
+- [LIN Supplier ID Registration Authority](https://www.lin-cia.org/id/) - Registration Authority for the LIN Supplier ID standardized in the ISO 17987 series
+- ["The LIN Short Story"](https://www.nxp.com/files-static/training_pdf/29021_S08_SLIN_WBT.pdf)
 
 
 ### MOST
+
+- [MOST Cooperation Website](https://www.mostcooperation.com/)
 
 ## Functional Safety
 - [ISO 26262-1:2011(en) (Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - at ISO Online Browsing Platform (OBP)
@@ -94,21 +103,28 @@
 ## Blogs
 
 - [automotivetechis](https://automotivetechis.wordpress.com/)
-- [List item](http://example.com)
+
 
 ## Books 
 
-- [Automotive Embedded Systems Handbook](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Edited by Nicolas Navet and Françoise Simonot-Lion, 2009
+- [Automotive Embedded Systems Handbook](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Nicolas Navet, 2009
+- [Understanding Automotive Electronics](https://www.engbookspdf.com/uploads/pdf-books/UnderstandingAutomotiveElectronics8theditionbyWilliamB.Ribbens-1.pdf) - Eighth Edition, William B. Ribbens, 2017
+- [Ford FMEA Handbook](https://fsp.portal.covisint.com/documents/106025/14555722/FMEA%20Handbook%20v4.2/4c14da5c-0842-4e60-a88b-75c18e143cf7) - 2011
+- [engineeringbookspdf](https://www.engineeringbookspdf.com/automobile-engineering/) - portal which offers free access to about 150 automotive books
+- [engbookspdf](https://www.engbookspdf.com/Automobile/)  - portal which offers free access to about 35 automotive books
+- [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html)  - portal which offers free access to about 5 automotive books
+
+
 
 ## Learning
 
 - [Vector Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Vector database with articles, webinars, demo tools and more
 - [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
-- [Virtual VectorAcademy](https://elearning.vector.com/) - Vector E-Learning platform, free introductions to the topics CAN, Ethernet, FlexRay, LIN, J1939 and AUTOSAR
+- [Virtual VectorAcademy](https://elearning.vector.com/) - Vector e-learning platform, free introductions to the topics CAN, Ethernet, FlexRay, LIN, J1939 and AUTOSAR
 
 ## Miscellaneous
 
-- [List item](http://example.com)
+- [Matrickz Podcasts](https://www.matrickz.de/en/podcasts.html) - by Matrickz GmbH mainly related to ASPICE, Security and ISO26262
 
 
 ## Contribute
