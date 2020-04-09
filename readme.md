@@ -53,29 +53,29 @@
 
 ### CAN
 
-- [Bosch specification <img src="icons/pdf.png" width="18"/>](http://esd.cs.ucr.edu/webres/can20.pdf) - old document, superseded by the standard [ISO 11898](https://www.iso.org/standard/63648.html)
-- [Bosch CAN FD specification Version 1.0 <img src="icons/pdf.png" width="18"/>](https://web.archive.org/web/20151211125301/http://www.bosch-semiconductors.de/media/ubk_semiconductors/pdf_1/canliteratur/can_fd_spec.pdf)
+- [Bosch specification <img src="media/icons/pdf.png" width="18"/>](http://esd.cs.ucr.edu/webres/can20.pdf) - old document, superseded by the standard [ISO 11898](https://www.iso.org/standard/63648.html)
+- [Bosch CAN FD specification Version 1.0 <img src="media/icons/pdf.png" width="18"/>](https://web.archive.org/web/20151211125301/http://www.bosch-semiconductors.de/media/ubk_semiconductors/pdf_1/canliteratur/can_fd_spec.pdf)
 - [Controller Area Network (CAN) Schedulability Analysis: Refuted, Revisited and Revised](https://link.springer.com/article/10.1007%2Fs11241-007-9012-7)
-- [Controller Area Network (CAN) Implementation Guide <img src="icons/pdf.png" width="18"/>](https://www.analog.com/media/en/technical-documentation/application-notes/AN-1123.pdf)
+- [Controller Area Network (CAN) Implementation Guide <img src="media/icons/pdf.png" width="18"/>](https://www.analog.com/media/en/technical-documentation/application-notes/AN-1123.pdf)
 - ["Introduction to CAN"](https://elearning.vector.com/mod/page/view.php?id=333) - Vector e-learning module
-- [Controller Area Network <img src="icons/pdf.png" width="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) -  presentation from UC Berkeley
-- [Understanding and Using the Controller Area Network <img src="icons/pdf.png" width="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) - material from UC Berkeley about CAN 2.0b
+- [Controller Area Network <img src="media/icons/pdf.png" width="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) -  presentation from UC Berkeley
+- [Understanding and Using the Controller Area Network <img src="media/icons/pdf.png" width="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) - material from UC Berkeley about CAN 2.0b
 - [CAN Protocol :man_student:](https://www.kvaser.com/course/can-protocol-tutorial/) - tutorial prepared by Kvaser (CAN products supplier). On their [site](https://www.kvaser.com/) can find lots of great resources
 - [CAN Newsletter magazine :heavy_exclamation_mark:](https://can-newsletter.org/magazine)
 
 ### FlexRay
 
-- [FlexRay Specification <img src="icons/pdf.png" width="18"/>](https://svn.ipd.kit.edu/nlrp/public/FlexRay/FlexRay%E2%84%A2%20Protocol%20Specification%20Version%203.0.1.pdf)
+- [FlexRay Specification <img src="media/icons/pdf.png" width="18"/>](https://svn.ipd.kit.edu/nlrp/public/FlexRay/FlexRay%E2%84%A2%20Protocol%20Specification%20Version%203.0.1.pdf)
 - [FlexRay Overview](https://www.ni.com/pl-pl/innovations/white-papers/06/flexray-automotive-communication-bus-overview.html) - Technical Overview of FlexRay by National Instruments
 - ["Introduction to FlexRay"](https://elearning.vector.com/mod/page/view.php?id=371) - Vector e-learning module
-- ["The FlexRay Electrical Physical Layer Evolution" <img src="icons/pdf.png" width="18"/>](https://web.archive.org/web/20150216112537/http://www.hanser-automotive.de/fileadmin/heftarchiv/FLEX_10_ONL_NXP-Y.pdf) - Lorenz Steffen, magazine Automotive 2010
+- ["The FlexRay Electrical Physical Layer Evolution" <img src="media/icons/pdf.png" width="18"/>](https://web.archive.org/web/20150216112537/http://www.hanser-automotive.de/fileadmin/heftarchiv/FLEX_10_ONL_NXP-Y.pdf) - Lorenz Steffen, magazine Automotive 2010
 
 
 ### LIN
 
 - ["Introduction to LIN"](https://elearning.vector.com/mod/page/view.php?id=309) - Vector e-learning module
 - [LIN Supplier ID Registration Authority](https://www.lin-cia.org/id/) - Registration Authority for the LIN Supplier ID standardized in the ISO 17987 series
-- ["The LIN Short Story" <img src="icons/pdf.png" width="18"/>](https://www.nxp.com/files-static/training_pdf/29021_S08_SLIN_WBT.pdf)
+- ["The LIN Short Story" <img src="media/icons/pdf.png" width="18"/>](https://www.nxp.com/files-static/training_pdf/29021_S08_SLIN_WBT.pdf)
 
 
 ### MOST
@@ -89,7 +89,7 @@
 
 ## Vehicle Diagnostics
 
-- [ISO 14229-1:2006(E) <img src="icons/pdf.png" width="18"/>](http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf) - Unified diagnostic services (UDS) specification, old document, superseded by the standard [ISO 14229-1:2013](https://www.iso.org/standard/55283.html) 
+- [ISO 14229-1:2006(E) <img src="media/icons/pdf.png" width="18"/>](http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf) - Unified diagnostic services (UDS) specification, old document, superseded by the standard [ISO 14229-1:2013](https://www.iso.org/standard/55283.html) 
 
 ## Requirements Engineering
 ### Polarion Software
@@ -107,16 +107,16 @@
 - [Awesome C/C++](https://github.com/fffaraz/awesome-cpp#readme) list with general-purpose language with a bias toward system programming and embedded, resource-constrained software
 - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books#readme) 
 ## Testing
-- [Programming with CAPL <img src="icons/pdf.png" width="18"/>](https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf)
+- [Programming with CAPL <img src="media/icons/pdf.png" width="18"/>](https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf)
 - [List of Free Software Testing Resources](https://github.com/ligurio/awesome-software-quality#readme) 
 ## Resources
 ### Blogs
 - [automotivetechis](https://automotivetechis.wordpress.com/)
 
 ### Books 
-- [Automotive Embedded Systems Handbook :blue_book: <img src="icons/pdf.png" width="18"/>](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Nicolas Navet, 2009
-- [Understanding Automotive Electronics :blue_book: <img src="icons/pdf.png" width="18"/>](https://www.engbookspdf.com/uploads/pdf-books/UnderstandingAutomotiveElectronics8theditionbyWilliamB.Ribbens-1.pdf) - Eighth Edition, William B. Ribbens, 2017
-- [Ford FMEA Handbook :blue_book: <img src="icons/pdf.png" width="18"/>](https://fsp.portal.covisint.com/documents/106025/14555722/FMEA%20Handbook%20v4.2/4c14da5c-0842-4e60-a88b-75c18e143cf7) - 2011
+- [Automotive Embedded Systems Handbook :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Nicolas Navet, 2009
+- [Understanding Automotive Electronics :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://www.engbookspdf.com/uploads/pdf-books/UnderstandingAutomotiveElectronics8theditionbyWilliamB.Ribbens-1.pdf) - Eighth Edition, William B. Ribbens, 2017
+- [Ford FMEA Handbook :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://fsp.portal.covisint.com/documents/106025/14555722/FMEA%20Handbook%20v4.2/4c14da5c-0842-4e60-a88b-75c18e143cf7) - 2011
 - [engineeringbookspdf](https://www.engineeringbookspdf.com/automobile-engineering/) - portal offers free access to about 150 automotive books
 - [engbookspdf](https://www.engbookspdf.com/Automobile/)  - portal offers free access to about 35 automotive books
 - [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html)  - portal offers free access to about 5 automotive books
