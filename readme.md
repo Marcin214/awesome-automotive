@@ -130,7 +130,7 @@
 - [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
 - [Virtual VectorAcademy](https://elearning.vector.com/) - Vector e-learning platform, free introductions to the topics CAN, Ethernet, FlexRay, LIN, J1939 and AUTOSAR
 
-
+- [Vehicle Electronics](https://vehicle-electronics.biz/) - Vehicle Electronics is the free monthly magazine for automotive electronics engineers.
 
 
 ## Contribute
