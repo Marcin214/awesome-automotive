@@ -86,7 +86,7 @@
 - [ISO 26262-1:2011(en) (Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - at ISO Online Browsing Platform (OBP)
 
 ## Cyber Security
-
+- [Awesome Vehicle Security ](https://www.mostcooperation.com/) list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.
 ## Vehicle Diagnostics
 
 - [ISO 14229-1:2006(E) <img src="media/icons/pdf.png" width="18"/>](http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf) - Unified diagnostic services (UDS) specification, old document, superseded by the standard [ISO 14229-1:2013](https://www.iso.org/standard/55283.html) 
@@ -128,9 +128,7 @@
 
 - [Vector Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Vector database with articles, webinars, demo tools and more
 - [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
-- [Virtual VectorAcademy](https://elearning.vector.com/) - Vector e-learning platform, free introductions to the topics CAN, Ethernet, FlexRay, LIN, J1939 and AUTOSAR
-
-- [Vehicle Electronics](https://vehicle-electronics.biz/) - Vehicle Electronics is the free monthly magazine for automotive electronics engineers.
+- [Vehicle Electronics :heavy_exclamation_mark:](https://vehicle-electronics.biz/) - Vehicle Electronics is the free monthly magazine for automotive electronics engineers.
 
 
 ## Contribute
