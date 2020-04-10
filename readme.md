@@ -25,6 +25,7 @@
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Books](#books)
+  - [Magazines](#magazine)
   - [Podcasts](#podcasts)
   - [Miscellaneous](#miscellaneous)
 
@@ -35,12 +36,14 @@
   - [Adaptive Platform](https://www.autosar.org/standards/adaptive-platform/)
 - [Vector Informatik GmbH](https://www.vector.com/int/en/) - supplier of AUTOSAR implementation (MICROSAR) and tools
 - ["Introduction to Autosar"](https://elearning.vector.com/mod/page/view.php?id=437) - Vector e-learning module
+- [Technical Papers on the Development of Embedded Electronics - **chapter 6** :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ## Automotive SPICE
 
 - [ASPICE ](http://www.automotivespice.com/download/) - latest version of the Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM)
 
 ## Bus Systems
+- [Technical Papers on the Development of Embedded Electronics - **chapter 1** :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=3) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ### Automotive Ethernet
 
@@ -61,7 +64,8 @@
 - [Controller Area Network <img src="media/icons/pdf.png" width="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) -  presentation from UC Berkeley
 - [Understanding and Using the Controller Area Network <img src="media/icons/pdf.png" width="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) - material from UC Berkeley about CAN 2.0b
 - [CAN Protocol :man_student:](https://www.kvaser.com/course/can-protocol-tutorial/) - tutorial prepared by Kvaser (CAN products supplier). On their [site](https://www.kvaser.com/) can find lots of great resources
-- [CAN Newsletter magazine :heavy_exclamation_mark:](https://can-newsletter.org/magazine)
+- [CAN Newsletter :heavy_exclamation_mark:](https://can-newsletter.org/magazine)
+
 
 ### FlexRay
 
@@ -84,12 +88,15 @@
 
 ## Functional Safety
 - [ISO 26262-1:2011(en) (Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - at ISO Online Browsing Platform (OBP)
+- [Technical Papers on the Development of Embedded Electronics - **chapter 7** :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ## Cyber Security
 - [Awesome Vehicle Security ](https://www.mostcooperation.com/) list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.
+- [Technical Papers on the Development of Embedded Electronics - **chapter 8** :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 ## Vehicle Diagnostics
 
 - [ISO 14229-1:2006(E) <img src="media/icons/pdf.png" width="18"/>](http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf) - Unified diagnostic services (UDS) specification, old document, superseded by the standard [ISO 14229-1:2013](https://www.iso.org/standard/55283.html) 
+- [Technical Papers on the Development of Embedded Electronics - **chapter 4** :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ## Requirements Engineering
 ### Polarion Software
@@ -108,27 +115,37 @@
 - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books#readme) 
 ## Testing
 - [Programming with CAPL <img src="media/icons/pdf.png" width="18"/>](https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf)
+- [Tips and Tricks for the Use of CAPL](https://kb.vector.com/entry/875/) three consecutive articles, for all levels of user knowledge [Part One](https://kb.vector.com/upload_551/file/CAPL_1_CANNewsletter_201406_PressArticle_EN.pdf), [Part Two](https://kb.vector.com/upload_551/file/CAPL_2_CANNewsletter_201409_PressArticle_EN.pdf), [Part Three](https://kb.vector.com/upload_551/file/CAPL_3_CANNewsletter_201411_PressArticle_EN.pdf)
+- [Technical Papers on the Development of Embedded Electronics - **chapter 3** :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=3) - Vector – Automotive. Embedded. Engineering, 2018 
 - [List of Free Software Testing Resources](https://github.com/ligurio/awesome-software-quality#readme) 
 ## Resources
 ### Blogs
 - [automotivetechis](https://automotivetechis.wordpress.com/)
 
-### Books 
+### Books
+- [Technical Papers on the Development of Embedded Electronics :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf) - Vector – Automotive. Embedded. Engineering, 2018
 - [Automotive Embedded Systems Handbook :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Nicolas Navet, 2009
 - [Understanding Automotive Electronics :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://www.engbookspdf.com/uploads/pdf-books/UnderstandingAutomotiveElectronics8theditionbyWilliamB.Ribbens-1.pdf) - Eighth Edition, William B. Ribbens, 2017
 - [Ford FMEA Handbook :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://fsp.portal.covisint.com/documents/106025/14555722/FMEA%20Handbook%20v4.2/4c14da5c-0842-4e60-a88b-75c18e143cf7) - 2011
+- [XCP – The Standard Protocol for ECU Development :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/application-areas/ecu-calibration/xcp/XCP_ReferenceBook_V3.0_EN.pdf) - Andreas Patzer, Rainer Zaiser
+Vector Informatik GmbH, 2016
 - [engineeringbookspdf](https://www.engineeringbookspdf.com/automobile-engineering/) - portal offers free access to about 150 automotive books
 - [engbookspdf](https://www.engbookspdf.com/Automobile/)  - portal offers free access to about 35 automotive books
 - [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html)  - portal offers free access to about 5 automotive books
+
+### Magazines
+
+- [Vehicle Electronics :heavy_exclamation_mark:](https://vehicle-electronics.biz/) - Vehicle Electronics is the free monthly magazine for automotive electronics engineers.
+- [CAN Newsletter](https://can-newsletter.org/magazine)
 
 ### Podcasts
 
 - [Matrickz :radio:](https://www.matrickz.de/en/podcasts.html) - by Matrickz GmbH mainly related to ASPICE, Security and ISO26262
 ### Miscellaneous
 
-- [Vector Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Vector database with articles, webinars, demo tools and more
-- [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
-- [Vehicle Electronics :heavy_exclamation_mark:](https://vehicle-electronics.biz/) - Vehicle Electronics is the free monthly magazine for automotive electronics engineers.
+- [Vector search :heavy_exclamation_mark:](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Vector database with articles, webinars and more
+- [Vector knowledge base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
+- [TOP 100 OEM suppliers](https://www.autonews.com/assets/PDF/CA89220617.PDF)
 
 
 ## Contribute
