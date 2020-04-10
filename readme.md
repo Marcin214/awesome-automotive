@@ -34,7 +34,6 @@
 - [autosar.org](https://www.autosar.org/) - official website
   - [Classic Platform](https://www.autosar.org/standards/classic-platform/)
   - [Adaptive Platform](https://www.autosar.org/standards/adaptive-platform/)
-- [Vector Informatik GmbH](https://www.vector.com/int/en/) - supplier of AUTOSAR implementation (MICROSAR) and tools
 - ["Introduction to Autosar"](https://elearning.vector.com/mod/page/view.php?id=437) - Vector e-learning module
 - [Technical Papers on the Development of Embedded Electronics - **chapter 6** :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 
@@ -111,6 +110,8 @@
 
 
 ## Software Development
+- [Lauterbach ](https://www.lauterbach.com/frames.html?home.html) - tutorials, webinars, publications
+- [Nohau Lauterbach :tv:](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) 
 - [Awesome C/C++](https://github.com/fffaraz/awesome-cpp#readme) list with general-purpose language with a bias toward system programming and embedded, resource-constrained software
 - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books#readme) 
 ## Testing
