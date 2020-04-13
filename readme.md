@@ -1,8 +1,9 @@
-# awesome-automotive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img src="media/logo/auto.png"/>
+--- 
 
-> A curated list of delightful and free automotive resources
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![HitCount](http://hits.dwyl.com/Marcin214/awesome-automotive.svg)](http://hits.dwyl.com/Marcin214/awesome-automotive)
 
-*Please read the [contribution guidelines](contributing.md) and start contributing :heavy_exclamation_mark:*
+> *Awesome Automotive is curated list of delightful and free automotive resources. Please read the [contribution guidelines](contributing.md) and start contributing :heavy_exclamation_mark:*
 
 ## Contents
 
@@ -21,6 +22,7 @@
   - [Polarion Software](#polarion-software)
   - [Rational DOORS](#rational-doors)
 - [Software Development](#software-development)
+  - [C/C++](#c/c++)
   - [MULTI](#multi)
   - [Trace32](#trace32)
 - [Testing](#testing)
@@ -186,8 +188,10 @@
 
 ## Software Development
 
-- [Awesome C/C++](https://github.com/fffaraz/awesome-cpp#readme) list with general-purpose language with a bias toward system programming and embedded, resource-constrained software
-- [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books#readme) 
+### C/C++
+
+- [Modern Embedded Systems Programming :man_student::tv:](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
+- [awesome C/C++ resources list](https://github.com/fffaraz/awesome-cpp#readme)
 
 ### MULTI
 - [MULTI Integrated Development Environment ](https://www.ghs.com/products/MULTI_IDE.html)
@@ -216,6 +220,7 @@ Vector Informatik GmbH, 2016
 - [engineeringbookspdf](https://www.engineeringbookspdf.com/automobile-engineering/) - portal offers free access to about 150 automotive books
 - [engbookspdf](https://www.engbookspdf.com/Automobile/)  - portal offers free access to about 35 automotive books
 - [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html)  - portal offers free access to about 5 automotive books
+- [list of free programming books](https://github.com/EbookFoundation/free-programming-books#readme) 
 
 ### Magazines
 
