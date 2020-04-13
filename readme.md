@@ -21,6 +21,7 @@
   - [Polarion Software](#polarion-software)
   - [Rational DOORS](#rational-doors)
 - [Software Development](#software-development)
+  - [MULTI](#multi)
   - [Trace32](#trace32)
 - [Testing](#testing)
 - [Resources](#resources)
@@ -35,24 +36,26 @@
 
 - [autosar.org](https://www.autosar.org/) - official website
   - [Classic Platform](https://www.autosar.org/standards/classic-platform/)
+  - [Layered Software Architecture](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_EXP_LayeredSoftwareArchitecture.pdf/)
   - [Adaptive Platform](https://www.autosar.org/standards/adaptive-platform/)
 - ["Introduction to Autosar"](https://elearning.vector.com/mod/page/view.php?id=437) - Vector e-learning module
-- [Technical Papers on the Development of Embedded Electronics - chapter 6 :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
+- [Technical Papers on the Development of Embedded Electronics - chapter 6 :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ## Automotive SPICE
 
 - [ASPICE ](http://www.automotivespice.com/download/) - latest version of the Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM)
 
 ## Bus Systems
-- [Technical Papers on the Development of Embedded Electronics - chapter 1 :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=3) - Vector – Automotive. Embedded. Engineering, 2018 
+- [Technical Papers on the Development of Embedded Electronics - chapter 1 :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=3) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ### Automotive Ethernet
 
 - ["Introduction to Automotive Ethernet"](https://elearning.vector.com/mod/page/view.php?id=149) - Vector e-learning module
+- [A TCP/IP Tutorial :man_student:](https://tools.ietf.org/html/rfc1180l) - RFC1180, short overview on ethernet
 - [OPEN Alliance. "Automotive Ethernet Specifications"](http://opensig.org/about/specifications/)
 - [SOME/IP specifications and standards](http://some-ip.com/papers.shtml)
 - [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) - SOME/IP introduction based on GENIVI implementation
-- Automotive Ethernet Stack, (*) - superseded by newer version of standard:
+- Automotive Ethernet Stack
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -131,6 +134,7 @@
     <td class="tg-ted4" colspan="7">Automotive Ethernet Physical <br>(Ethernet, <a href="http://opensig.org/about/specifications/">OPEN Alliance BroadR-Reach</a>, Reduced twisted-pair Gigabit Eth)</td>
   </tr>
 </table>
+(*) - superseded by newer version of standard
 
 ### CAN
 
@@ -142,7 +146,7 @@
 - [Controller Area Network <img src="media/icons/pdf.png" width="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) -  presentation from UC Berkeley
 - [Understanding and Using the Controller Area Network <img src="media/icons/pdf.png" width="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) - material from UC Berkeley about CAN 2.0b
 - [CAN Protocol :man_student:](https://www.kvaser.com/course/can-protocol-tutorial/) - tutorial prepared by Kvaser (CAN products supplier). On their [site](https://www.kvaser.com/) can find lots of great resources
-- [CAN Newsletter :heavy_exclamation_mark:](https://can-newsletter.org/magazine)
+- [CAN Newsletter](https://can-newsletter.org/magazine)
 
 
 ### FlexRay
@@ -174,6 +178,7 @@
 ## Vehicle Diagnostics
 
 - [ISO 14229-1:2006(E) <img src="media/icons/pdf.png" width="18"/>](http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf) - Unified diagnostic services (UDS) specification, old document, superseded by the standard [ISO 14229-1:2013](https://www.iso.org/standard/55283.html) 
+- [ ISO 13400-2:2012 <img src="media/icons/pdf.png" width="18"/>](http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf) - Road vehicles - Diagnostic communication over Internet Protoco (DoIP)
 - [Technical Papers on the Development of Embedded Electronics - chapter 4 :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ## Requirements Engineering
@@ -193,14 +198,18 @@
 - [Awesome C/C++](https://github.com/fffaraz/awesome-cpp#readme) list with general-purpose language with a bias toward system programming and embedded, resource-constrained software
 - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books#readme) 
 
+### MULTI
+- [MULTI Integrated Development Environment ](https://www.ghs.com/products/MULTI_IDE.html)
+
 ### Trace32
-- [Lauterbach ](https://www.lauterbach.com/frames.html?home.html) - tutorials, webinars, publications
-- [Nohau Lauterbach :tv:](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) 
+- [Lauterbach GmbH](https://www.lauterbach.com/frames.html?home.html) - tutorials, webinars, publications
+- [Lauterbach GmbH :tv:](https://www.youtube.com/channel/UCwHuwQUTt_FquA86O6DaLnQ) - YouTube channel
+- [Nohau Lauterbach :tv:](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) -playlist with examples
 
 ## Testing
 - [Programming with CAPL <img src="media/icons/pdf.png" width="18"/>](https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf)
 - [Tips and Tricks for the Use of CAPL](https://kb.vector.com/entry/875/) three consecutive articles, for all levels of user knowledge [Part One](https://kb.vector.com/upload_551/file/CAPL_1_CANNewsletter_201406_PressArticle_EN.pdf), [Part Two](https://kb.vector.com/upload_551/file/CAPL_2_CANNewsletter_201409_PressArticle_EN.pdf), [Part Three](https://kb.vector.com/upload_551/file/CAPL_3_CANNewsletter_201411_PressArticle_EN.pdf)
-- [Technical Papers on the Development of Embedded Electronics - chapter 3 :heavy_exclamation_mark::blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=3) - Vector – Automotive. Embedded. Engineering, 2018 
+- [Technical Papers on the Development of Embedded Electronics - chapter 3 :blue_book: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=3) - Vector – Automotive. Embedded. Engineering, 2018 
 - [List of Free Software Testing Resources](https://github.com/ligurio/awesome-software-quality#readme) 
 ## Resources
 ### Blogs
