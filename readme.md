@@ -51,81 +51,81 @@
 ### Automotive Ethernet
 
 - ["Introduction to Automotive Ethernet"](https://elearning.vector.com/mod/page/view.php?id=149) - Vector e-learning module
-- [A TCP/IP Tutorial :man_student:](https://tools.ietf.org/html/rfc1180l) - RFC1180, short overview on ethernet
+- [A TCP/IP Tutorial :man_student:](https://tools.ietf.org/html/rfc1180l) - RFC 1180, short overview on ethernet
 - [OPEN Alliance. "Automotive Ethernet Specifications"](http://opensig.org/about/specifications/)
 - [SOME/IP specifications and standards](http://some-ip.com/papers.shtml)
 - [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) - SOME/IP introduction based on GENIVI implementation
-- Automotive Ethernet Stack
-<table style="undefined;table-layout: fixed; width: 663px">
-<colgroup>
-<col style="width: 86px">
-<col style="width: 85px">
-<col style="width: 78px">
-<col style="width: 92px">
-<col style="width: 72px">
-<col style="width: 79px">
-<col style="width: 65px">
-<col style="width: 106px">
-</colgroup>
-  <tr>
-    <th>Use Case</th>
-    <th>Audio<br>Video<br></th>
-    <th>Time Sync</th>
-    <th>Network Managment</th>
-    <th>Service Control</th>
-    <th>Diagnostic and Flash Update</th>
-    <th>Address <br>Config</th>
-    <th>Helper<br>Protocols</th>
-  </tr>
-  <tr>
-    <td>Application</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td rowspan="2"><a href="http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf">UDS*</a></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Presentation</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Session</td>
-    <td rowspan="3">IEEE 1722 (AVTP)<br></td>
-    <td rowspan="3">IEEE 802.1AS (gPTP)<br></td>
-    <td>UDP-NM</td>
-    <td><a href="http://some-ip.com/papers.shtml">SOME/IP</a></td>
-    <td><a href="http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf">DoIP*</a></td>
-    <td><a href="https://tools.ietf.org/html/rfc2131">DHCP</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Transport</td>
-    <td colspan="4"><a href="https://tools.ietf.org/html/rfc793">TCP</a> and/or <a href="https://tools.ietf.org/html/rfc768">UDP</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Network<br></td>
-    <td colspan="4"><a href="https://tools.ietf.org/html/rfc791">IPv4</a>/<a href="https://tools.ietf.org/html/rfc2460">IPv6</a></td>
-    <td><a href="https://tools.ietf.org/html/rfc4443">ICMPv6</a>, <a href="https://tools.ietf.org/html/rfc4861">NDP</a><br><a href="https://tools.ietf.org/html/rfc792">ICMP</a>, <a href="https://tools.ietf.org/html/rfc826">ARP</a></td>
-  </tr>
-  <tr>
-    <td>Data Link</td>
-    <td colspan="7">Ethernet MAC + VLAN (802.1Q)</td>
-  </tr>
-  <tr>
-    <td>Physical</td>
-    <td colspan="7">Automotive Ethernet Physical <br>(Ethernet, <a href="http://opensig.org/about/specifications/">OPEN Alliance BroadR-Reach</a>, Reduced twisted-pair Gigabit Eth)</td>
-  </tr>
-</table>
-(*) - superseded by newer version of standard
+- Automotive Ethernet Stack with rederence to free standards
+  <table style="undefined">
+  <colgroup>
+  <col style="width: 86px">
+  <col style="width: 85px">
+  <col style="width: 78px">
+  <col style="width: 92px">
+  <col style="width: 72px">
+  <col style="width: 79px">
+  <col style="width: 65px">
+  <col style="width: 127px">
+  </colgroup>
+    <tr>
+      <th>Use Case</th>
+      <th>Audio<br>Video<br></th>
+      <th>Time Sync</th>
+      <th>Network Managment</th>
+      <th>Service Control</th>
+      <th>Diagnostic and Flash Update</th>
+      <th>Address <br>Config</th>
+      <th>Helper<br>Protocols</th>
+    </tr>
+    <tr>
+      <td>Application</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td rowspan="2"><a href="http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf">UDS*</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Presentation</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Session</td>
+      <td rowspan="3">IEEE 1722 (AVTP)<br></td>
+      <td rowspan="3">IEEE 802.1AS (gPTP)<br></td>
+      <td>UDP-NM</td>
+      <td><a href="http://some-ip.com/papers.shtml">SOME/IP</a></td>
+      <td><a href="http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf">DoIP*</a></td>
+      <td><a href="https://tools.ietf.org/html/rfc2131">DHCP</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Transport</td>
+      <td colspan="4"><a href="https://tools.ietf.org/html/rfc793">TCP</a> and/or <a href="https://tools.ietf.org/html/rfc768">UDP</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Network<br></td>
+      <td colspan="4"><a href="https://tools.ietf.org/html/rfc791">IPv4</a>/<a href="https://tools.ietf.org/html/rfc2460">IPv6</a></td>
+      <td><a href="https://tools.ietf.org/html/rfc4443">ICMPv6</a>, <a href="https://tools.ietf.org/html/rfc4861">NDP</a><br><a href="https://tools.ietf.org/html/rfc792">ICMP</a>, <a href="https://tools.ietf.org/html/rfc826">ARP</a></td>
+    </tr>
+    <tr>
+      <td>Data Link</td>
+      <td colspan="7">Ethernet MAC + VLAN (802.1Q)</td>
+    </tr>
+    <tr>
+      <td>Physical</td>
+      <td colspan="7">Automotive Ethernet Physical <br>(Ethernet, <a href="http://opensig.org/about/specifications/">OPEN Alliance BroadR-Reach</a>, Reduced twisted-pair Gigabit Eth)</td>
+    </tr>
+  </table>
+  (*) - superseded by newer version of standard
 
 ### CAN
 
@@ -238,9 +238,11 @@ Vector Informatik GmbH, 2016
 
 ### Miscellaneous
 
-- [Vector knowledge base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
-- [TOP 100 OEM suppliers](https://www.autonews.com/assets/PDF/CA89220617.PDF)
+- [Vector Support & Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Over 1000 :heavy_exclamation_mark: great materials: webinars, articles ...
+- [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
 - [Vector Consulting Services :tv:](https://www.youtube.com/channel/UC-yhIPWuNcXm-DRPPsC8wiA/featured)
+- [TOP 100 OEM suppliers](https://www.autonews.com/assets/PDF/CA89220617.PDF)
+
 
 
 ## Contribute
