@@ -14,16 +14,16 @@
   - [FlexRay](#flexray)
   - [LIN](#lin)
   - [MOST](#most)
-- [Functional Safety](#functional-safety)
+- [Functional Safety :safety_vest:](#functional-safety)
 - [Cyber Security](#cyber-security)
 - [Vehicle Diagnostics](#vehicle-diagnostics)
 - [Requirements Engineering](#requirements-engineering)
-  - [Polarion Software](#polarion-software)
-  - [Rational DOORS](#rational-doors)
-- [Software Development](#software-development)
+  - [Polarion Software :hammer_and_wrench:](#polarion-software)
+  - [Rational DOORS :hammer_and_wrench:](#rational-doors)
+- [Software Development :man_technologist:](#software-development)
   - [C/C++](#c/c++)
-  - [MULTI](#multi)
-  - [Trace32 :wrench: ](#trace32)
+  - [MULTI :hammer_and_wrench:](#multi)
+  - [Trace32 :hammer_and_wrench:](#trace32)
 - [Testing](#testing)
 - [Resources](#resources)
   - [Blogs :calendar:](#blogs-calendar)
@@ -92,7 +92,7 @@
 
 - [MOST Cooperation Website](https://www.mostcooperation.com/)
 
-## Functional Safety
+## Functional Safety :safety_vest:
 - [ISO 26262-1:2011(en) (Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) -  ISO Online Browsing Platform (OBP)
 - [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - National Instruments White Paper on ISO 26262 functional safety standard
 - [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" width="18"/>](https://web1.see.asso.fr/erts2012/Site/0P2RUC89/1A-1.pdf) - ERTS2 Congress. Embedded Real Time Software and Systems.
@@ -119,17 +119,17 @@
 - [The DXL Reference Manual](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.requirements.doc/topics/dxl_reference_manual.pdf?view=kc)
 
 
-## Software Development
+## Software Development :man_technologist:
 
 ### C/C++
 
 - [Modern Embedded Systems Programming :man_student::tv:](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
 - [awesome C/C++ resources list](https://github.com/fffaraz/awesome-cpp#readme)
 
-### MULTI
+### MULTI :hammer_and_wrench:
 - [MULTI Integrated Development Environment ](https://www.ghs.com/products/MULTI_IDE.html)
 
-### Trace32
+### Trace32 :hammer_and_wrench:
 - [Lauterbach GmbH](https://www.lauterbach.com/frames.html?home.html) - tutorials, webinars, publications
 - [Lauterbach GmbH :tv:](https://www.youtube.com/channel/UCwHuwQUTt_FquA86O6DaLnQ) - YouTube channel
 - [Nohau Lauterbach :tv:](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) - playlist with examples
@@ -181,7 +181,7 @@ Vector Informatik GmbH, 2016
 
 ### Miscellaneous
 
-- [Vector Support & Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Over 1000 :heavy_exclamation_mark: great materials: webinars, articles ...
+- [Vector Support & Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Over 1000 great materials: webinars, articles ...
 - [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
 - [Vector Consulting Services :tv:](https://www.youtube.com/channel/UC-yhIPWuNcXm-DRPPsC8wiA/featured)
 - [TOP 100 OEM suppliers](https://www.autonews.com/assets/PDF/CA89220617.PDF)
