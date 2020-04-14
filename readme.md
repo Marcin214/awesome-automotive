@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![HitCount](http://hits.dwyl.com/Marcin214/awesome-automotive.svg)](http://hits.dwyl.com/Marcin214/awesome-automotive)
 
-> *Awesome Automotive is curated list of delightful and free automotive resources. Please read the [contribution guidelines](contributing.md) and start contributing :heavy_exclamation_mark:*
+> *Awesome Automotive is curated list of delightful and free automotive resources. Please read the [contribution guidelines](contributing.md) and start contributing !*
 
 ## Contents
 
@@ -22,7 +22,7 @@
   - [Rational DOORS :hammer_and_wrench:](#rational-doors)
 - [Software Development :man_technologist:](#software-development)
   - [C/C++](#c/c++)
-  - [MULTI :hammer_and_wrench:](#multi)
+  - [MULTI](#multi) :hammer_and_wrench:
   - [Trace32 :hammer_and_wrench:](#trace32)
 - [Testing](#testing)
 - [Resources](#resources)
