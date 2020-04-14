@@ -57,76 +57,8 @@
 - [SOME/IP specifications and standards](http://some-ip.com/papers.shtml)
 - [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) - SOME/IP introduction based on GENIVI implementation
 - Automotive Ethernet Stack with rederence to free standards
-  <table style="undefined">
-  <colgroup>
-  <col style="width: 86px">
-  <col style="width: 85px">
-  <col style="width: 78px">
-  <col style="width: 92px">
-  <col style="width: 72px">
-  <col style="width: 79px">
-  <col style="width: 65px">
-  <col style="width: 127px">
-  </colgroup>
-    <tr>
-      <th>Use Case</th>
-      <th>Audio<br>Video<br></th>
-      <th>Time Sync</th>
-      <th>Network Managment</th>
-      <th>Service Control</th>
-      <th>Diagnostic and Flash Update</th>
-      <th>Address <br>Config</th>
-      <th>Helper<br>Protocols</th>
-    </tr>
-    <tr>
-      <td>Application</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td rowspan="2"><a href="http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf">UDS*</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Presentation</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Session</td>
-      <td rowspan="3">IEEE 1722 (AVTP)<br></td>
-      <td rowspan="3">IEEE 802.1AS (gPTP)<br></td>
-      <td>UDP-NM</td>
-      <td><a href="http://some-ip.com/papers.shtml">SOME/IP</a></td>
-      <td><a href="http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf">DoIP*</a></td>
-      <td><a href="https://tools.ietf.org/html/rfc2131">DHCP</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Transport</td>
-      <td colspan="4"><a href="https://tools.ietf.org/html/rfc793">TCP</a> and/or <a href="https://tools.ietf.org/html/rfc768">UDP</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Network<br></td>
-      <td colspan="4"><a href="https://tools.ietf.org/html/rfc791">IPv4</a>/<a href="https://tools.ietf.org/html/rfc2460">IPv6</a></td>
-      <td><a href="https://tools.ietf.org/html/rfc4443">ICMPv6</a>, <a href="https://tools.ietf.org/html/rfc4861">NDP</a><br><a href="https://tools.ietf.org/html/rfc792">ICMP</a>, <a href="https://tools.ietf.org/html/rfc826">ARP</a></td>
-    </tr>
-    <tr>
-      <td>Data Link</td>
-      <td colspan="7">Ethernet MAC + VLAN (802.1Q)</td>
-    </tr>
-    <tr>
-      <td>Physical</td>
-      <td colspan="7">Automotive Ethernet Physical <br>(Ethernet, <a href="http://opensig.org/about/specifications/">OPEN Alliance BroadR-Reach</a>, Reduced twisted-pair Gigabit Eth)</td>
-    </tr>
-  </table>
-  (*) - superseded by newer version of standard
+ <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 612px" class="tg"><colgroup><col style="width: 87px"><col style="width: 61px"><col style="width: 66px"><col style="width: 76px"><col style="width: 66px"><col style="width: 77px"><col style="width: 62px"><col style="width: 117px"></colgroup><tr><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:normal;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Use Case</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Audio<br>Video<br></th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Time<br> Sync</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Network <br>Managment</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Service <br>Control</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Diagnostic</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Address <br>Config</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Helper<br>Protocols</th></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Application</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" rowspan="2"><a href="http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf">UDS*</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Presentation</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Session</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" rowspan="3">IEEE<br>1722<br> <br>(AVTP)<br></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" rowspan="3">IEEE <br>802.1AS<br><br>(PTP)<br></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">UDP-NM</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"><a href="http://some-ip.com/papers.shtml">SOME/IP</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"><a href="http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf">DoIP*</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"><a href="https://tools.ietf.org/html/rfc2131">DHCP</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Transport</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" colspan="4"><a href="https://tools.ietf.org/html/rfc793">TCP</a> and/or <a href="https://tools.ietf.org/html/rfc768">UDP</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Network<br></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" colspan="4"><a href="https://tools.ietf.org/html/rfc791">IPv4</a>/<a href="https://tools.ietf.org/html/rfc2460">IPv6</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"><a href="https://tools.ietf.org/html/rfc792">ICMP</a>, <a href="https://tools.ietf.org/html/rfc4443">ICMPv6</a>, <a href="https://tools.ietf.org/html/rfc826">ARP</a>, <a href="https://tools.ietf.org/html/rfc4861">NDP</a></td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Data Link</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" colspan="7">Ethernet MAC + VLAN (802.1Q)</td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Physical</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" colspan="7">Automotive Ethernet Physical <br>(Ethernet, <a href="http://opensig.org/about/specifications/">OPEN Alliance BroadR-Reach</a>, Reduced twisted-pair Gigabit Ethernet)</td></tr></table>
+(*) - superseded by newer version of standard
 
 ### CAN
 
@@ -207,6 +139,7 @@
 - [List of Free Software Testing Resources](https://github.com/ligurio/awesome-software-quality#readme) 
 ## Resources
 ### Blogs
+- [just auto](https://www.just-auto.com/) - Global automotive industry news, data and analysis. Recent information about OEMs and suppliers
 - [automotivetechis](https://automotivetechis.wordpress.com/)
 
 ### Books
