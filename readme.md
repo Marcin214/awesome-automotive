@@ -14,24 +14,24 @@
   - [FlexRay](#flexray)
   - [LIN](#lin)
   - [MOST](#most)
-- [Functional Safety :safety_vest:](#functional-safety)
-- [Cyber Security :policeman:](#cyber-security)
-- [Vehicle Diagnostics](#vehicle-diagnostics) 👨‍⚕️
-- [Requirements Engineering :man_office_worker:](#requirements-engineering)
-  - [Polarion Software :hammer_and_wrench:](#polarion-software)
-  - [Rational DOORS :hammer_and_wrench:](#rational-doors)
-- [Software Development :man_technologist:](#software-development)
+- [Functional Safety](#functional-safety)
+- [Cyber Security](#cyber-security)
+- [Vehicle Diagnostics](#vehicle-diagnostics)
+- [Requirements Engineering](#requirements-engineering)
+  - [Polarion Software :hammer_and_wrench:](#polarion-software-hammer_and_wrench)
+  - [Rational DOORS :hammer_and_wrench:](#rational-doors-hammer_and_wrench)
+- [Software Development](#software-development)
   - [C/C++](#c/c++)
-  - [MULTI](#multi) :hammer_and_wrench:
-  - [Trace32 :hammer_and_wrench:](#trace32)
-- [Testing :male_detective:](#testing)
+  - [MULTI :hammer_and_wrench:](#multi-hammer_and_wrench) 
+  - [Trace32 :hammer_and_wrench:](#trace32-hammer_and_wrench)
+- [Testing](#testing)
 - [Resources](#resources)
   - [Blogs :calendar:](#blogs-calendar)
   - [Books :books:](#books-books)
   - [Magazines :newspaper:](#magazine-newspaper)
-  - [Podcasts :radio:](#podcasts-radio)
+  - [Podcasts :studio_microphone:](#podcasts-studio_microphone)
   - [Press releases :newspaper_roll:](#press-releases-newspaper_roll)
-  - [Miscellaneous](#miscellaneous)
+  - [Miscellaneous :card_file_box:](#miscellaneous-card_file_box)
 
 ## Autosar
 
@@ -40,14 +40,14 @@
   - [Layered Software Architecture](https://www.autosar.org/fileadmin/user_upload/standards/classic/4-3/AUTOSAR_EXP_LayeredSoftwareArchitecture.pdf/)
   - [Adaptive Platform](https://www.autosar.org/standards/adaptive-platform/)
 - ["Introduction to Autosar"](https://elearning.vector.com/mod/page/view.php?id=437) - Vector e-learning module
-- [Technical Papers on the Development of Embedded Electronics - chapter 6 <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
+- [Technical Papers on the Development of Embedded Electronics - chapter 6 :bookmark_tabs: <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ## Automotive SPICE
 
 - [ASPICE ](http://www.automotivespice.com/download/) - latest version of the Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM)
 
 ## Bus Systems
-- [Technical Papers on the Development of Embedded Electronics - chapter 1 <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=3) - Vector – Automotive. Embedded. Engineering, 2018 
+- [Technical Papers on the Development of Embedded Electronics - chapter 1 :bookmark_tabs:<img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=3) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ### Automotive Ethernet
 
@@ -92,38 +92,38 @@
 
 - [MOST Cooperation Website](https://www.mostcooperation.com/)
 
-## Functional Safety :safety_vest:
+## Functional Safety
 - [ISO 26262-1:2011(en) (Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) -  ISO Online Browsing Platform (OBP)
 - [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - National Instruments White Paper on ISO 26262 functional safety standard
 - [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" width="18"/>](https://web1.see.asso.fr/erts2012/Site/0P2RUC89/1A-1.pdf) - ERTS2 Congress. Embedded Real Time Software and Systems.
-- [Technical Papers on the Development of Embedded Electronics - chapter 7 <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
+- [Technical Papers on the Development of Embedded Electronics - chapter 7 :bookmark_tabs:<img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ## Cyber Security
 - [Awesome Vehicle Security ](https://www.mostcooperation.com/) list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.
-- [Technical Papers on the Development of Embedded Electronics - chapter 8 <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
+- [Technical Papers on the Development of Embedded Electronics - chapter 8 :bookmark_tabs:<img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 ## Vehicle Diagnostics
 
 - [ISO 14229-1:2006(E) <img src="media/icons/pdf.png" width="18"/>](http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf) - Unified diagnostic services (UDS) specification, old document, superseded by the standard [ISO 14229-1:2013](https://www.iso.org/standard/55283.html) 
 - [ ISO 13400-2:2012 <img src="media/icons/pdf.png" width="18"/>](http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf) - Road vehicles - Diagnostic communication over Internet Protoco (DoIP)
-- [Technical Papers on the Development of Embedded Electronics - chapter 4 <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
+- [Technical Papers on the Development of Embedded Electronics - chapter 4 :bookmark_tabs:<img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ## Requirements Engineering
 ### Polarion Software
-- [Polarion course :man_student::tv:](https://polarion.plm.automation.siemens.com/tutorials) 
+- [Polarion course :man_student::movie_camera:](https://polarion.plm.automation.siemens.com/tutorials) 
 
 ### Rational DOORS 
 - [Getting started :man_student:](https://www.ibm.com/developerworks/rational/library/getting-started-ibm-rational-doors/index.html) - tutorial for IBM Rational DOORS and IBM Rational DOORS Web Access
 - [Documentation](https://www.ibm.com/support/pages/node/594725) - library pages contain documentation for earlier versions of Rational products
-- [Essentials :tv:](https://www.youtube.com/playlist?list=PLFB5C518530CFEC93) 
+- [Essentials :movie_camera:](https://www.youtube.com/playlist?list=PLFB5C518530CFEC93) 
 - [Using DXL](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.configuring.doc/topics/c_dxl.html) - The Rational® DOORS® eXtension Language (DXL) is an easy-to-learn scripting language that you can use to control and extend Rational DOORS functions
 - [The DXL Reference Manual](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.requirements.doc/topics/dxl_reference_manual.pdf?view=kc)
 
 
-## Software Development :man_technologist:
+## Software Development
 
 ### C/C++
 
-- [Modern Embedded Systems Programming :man_student::tv:](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
+- [Modern Embedded Systems Programming :man_student::movie_camera:](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
 - [awesome C/C++ resources list](https://github.com/fffaraz/awesome-cpp#readme)
 
 ### MULTI :hammer_and_wrench:
@@ -131,8 +131,8 @@
 
 ### Trace32 :hammer_and_wrench:
 - [Lauterbach GmbH](https://www.lauterbach.com/frames.html?home.html) - tutorials, webinars, publications
-- [Lauterbach GmbH :tv:](https://www.youtube.com/channel/UCwHuwQUTt_FquA86O6DaLnQ) - YouTube channel
-- [Nohau Lauterbach :tv:](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) - playlist with examples
+- [Lauterbach GmbH :movie_camera:](https://www.youtube.com/channel/UCwHuwQUTt_FquA86O6DaLnQ) - YouTube channel
+- [Nohau Lauterbach :movie_camera:](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) - playlist with examples
 
 ## Testing
 - [Programming with CAPL <img src="media/icons/pdf.png" width="18"/>](https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf)
@@ -162,7 +162,7 @@ Vector Informatik GmbH, 2016
 - [Vehicle Electronics](https://vehicle-electronics.biz/) - free monthly magazine for automotive electronics engineers
 - [CAN Newsletter](https://can-newsletter.org/magazine)
 
-### Podcasts :radio:
+### Podcasts :studio_microphone:
 
 - [SAE Tomorrow Today ](https://www.sae.org/podcasts) - from SAE International, provides unique and dynamic perspectives from innovative industry leaders on the challenges of tomorrow
 - [Matrickz](https://www.matrickz.de/en/podcasts.html) - by Matrickz GmbH mainly related to ASPICE, Security and ISO26262
@@ -179,11 +179,11 @@ Vector Informatik GmbH, 2016
 
 
 
-### Miscellaneous
+### Miscellaneous :card_file_box:
 
 - [Vector Support & Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Over 1000 great materials: webinars, articles ...
 - [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
-- [Vector Consulting Services :tv:](https://www.youtube.com/channel/UC-yhIPWuNcXm-DRPPsC8wiA/featured)
+- [Vector Consulting Services :movie_camera:](https://www.youtube.com/channel/UC-yhIPWuNcXm-DRPPsC8wiA/featured)
 - [TOP 100 OEM suppliers](https://www.autonews.com/assets/PDF/CA89220617.PDF)
 - [Information Post](https://automotive.softing.com/en/service/order-of-information-poster.html) -  Softing Automotive information posters relatd to Vehicle Diagnostic
 
