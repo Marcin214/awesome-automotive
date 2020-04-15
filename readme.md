@@ -10,29 +10,29 @@
 - [Automotive SPICE](#automotive-spice)
 - [Bus Systems](#bus-systems)
   - [Automotive Ethernet](#automotive-ethernet)
-  - [CAN <img src="media/icons/pdf.png" width="18"/>](#can)
-  - [FlexRay](#flexray) <img src="media/icons/pdf.png" width="18"/>
+  - [CAN](#can)
+  - [FlexRay](#flexray)
   - [LIN](#lin)
   - [MOST](#most)
 - [Functional Safety](#functional-safety)
 - [Cyber Security](#cyber-security)
 - [Vehicle Diagnostics](#vehicle-diagnostics)
 - [Requirements Engineering](#requirements-engineering)
-  - [Polarion Software :hammer_and_wrench:](#polarion-software-hammer_and_wrench)
-  - [Rational DOORS :hammer_and_wrench:](#rational-doors-hammer_and_wrench)
+  - [Polarion Software](#polarion-software-hammer_and_wrench)
+  - [Rational DOORS](#rational-doors-hammer_and_wrench)
 - [Software Development](#software-development)
   - [C/C++](#c/c++)
-  - [Enterprise Architect :hammer_and_wrench:](#enterprise-architect-hammer_and_wrench) 
-  - [MULTI :hammer_and_wrench:](#multi-hammer_and_wrench) 
-  - [Trace32 :hammer_and_wrench:](#trace32-hammer_and_wrench)
+  - [Enterprise Architect](#enterprise-architect) 
+  - [MULTI](#multi) 
+  - [Trace32](#trace32)
 - [Testing](#testing)
 - [Resources](#resources)
-  - [Blogs :calendar:](#blogs-calendar)
-  - [Books :books:](#books-books)
-  - [Magazines :newspaper:](#magazine-newspaper)
-  - [Podcasts :studio_microphone:](#podcasts-studio_microphone)
-  - [Press releases :newspaper_roll:](#press-releases-newspaper_roll)
-  - [Miscellaneous :card_file_box:](#miscellaneous-card_file_box)
+  - [Blogs](#blogs)
+  - [Books](#books)
+  - [Magazines](#magazine)
+  - [Podcasts](#podcasts)
+  - [Press releases](#press-releases)
+  - [Miscellaneous](#miscellaneous)
 
 ## Autosar
 
@@ -61,10 +61,11 @@
  <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 612px" class="tg"><colgroup><col style="width: 87px"><col style="width: 61px"><col style="width: 66px"><col style="width: 76px"><col style="width: 66px"><col style="width: 77px"><col style="width: 62px"><col style="width: 117px"></colgroup><tr><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:normal;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Use Case</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Audio<br>Video<br></th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Time<br> Sync</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Network <br>Managment</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Service <br>Control</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;borgit statusder-color:inherit;text-align:center;vertical-align:middle">Diagnostic</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Address <br>Config</th><th style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;font-weight:bold;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">Helper<br>Protocols</th></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Application</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" rowspan="2"><a href="http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf">UDS*</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Presentation</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Session</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" rowspan="3">IEEE<br>1722<br> <br>(AVTP)<br></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" rowspan="3">IEEE <br>802.1AS<br><br>(PTP)<br></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle">UDP-NM</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"><a href="http://some-ip.com/papers.shtml">SOME/IP</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"><a href="http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf">DoIP*</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"><a href="https://tools.ietf.org/html/rfc2131">DHCP</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Transport</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" colspan="4"><a href="https://tools.ietf.org/html/rfc793">TCP</a> and/or <a href="https://tools.ietf.org/html/rfc768">UDP</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"></td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Network<br></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" colspan="4"><a href="https://tools.ietf.org/html/rfc791">IPv4</a>/<a href="https://tools.ietf.org/html/rfc2460">IPv6</a></td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle"><a href="https://tools.ietf.org/html/rfc792">ICMP</a>, <a href="https://tools.ietf.org/html/rfc4443">ICMPv6</a>, <a href="https://tools.ietf.org/html/rfc826">ARP</a>, <a href="https://tools.ietf.org/html/rfc4861">NDP</a></td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Data Link</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" colspan="7">Ethernet MAC + VLAN (802.1Q)</td></tr><tr><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:12px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle">Physical</td><td style="font-family:Tahoma, Geneva, sans-serif !important;;font-size:14px;padding:6px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:center;vertical-align:middle" colspan="7">Automotive Ethernet Physical <br>(Ethernet, <a href="http://opensig.org/about/specifications/">OPEN Alliance BroadR-Reach</a>, Reduced twisted-pair Gigabit Ethernet)</td></tr></table>
 (*) - superseded by newer version of standard
 
-### CAN <img src="media/icons/pdf.png" width="18"/>
+
+### CAN
 
 - [Bosch specification <img src="media/icons/pdf.png" width="18"/>](http://esd.cs.ucr.edu/webres/can20.pdf) - old document, superseded by the standard [ISO 11898](https://www.iso.org/standard/63648.html)
-- [Bosch CAN FD specification Version 1.0  ](https://web.archive.org/web/20151211125301/http://www.bosch-semiconductors.de/media/ubk_semiconductors/pdf_1/canliteratur/can_fd_spec.pdf)
+- [Bosch CAN FD specification Version 1.0 <img src="media/icons/pdf.png" width="18"/>](https://web.archive.org/web/20151211125301/http://www.bosch-semiconductors.de/media/ubk_semiconductors/pdf_1/canliteratur/can_fd_spec.pdf)
 - [Controller Area Network (CAN) Schedulability Analysis: Refuted, Revisited and Revised](https://link.springer.com/article/10.1007%2Fs11241-007-9012-7)
 - [Controller Area Network (CAN) Implementation Guide <img src="media/icons/pdf.png" width="18"/>](https://www.analog.com/media/en/technical-documentation/application-notes/AN-1123.pdf)
 - ["Introduction to CAN"](https://elearning.vector.com/mod/page/view.php?id=333) - Vector e-learning module
@@ -74,7 +75,7 @@
 - [CAN Newsletter](https://can-newsletter.org/magazine)
 
 
-### FlexRay <img src="media/icons/pdf.png" width="18"/>
+### FlexRay
 
 - [FlexRay Specification <img src="media/icons/pdf.png" width="18"/>](https://svn.ipd.kit.edu/nlrp/public/FlexRay/FlexRay%E2%84%A2%20Protocol%20Specification%20Version%203.0.1.pdf)
 - [FlexRay Overview](https://www.ni.com/pl-pl/innovations/white-papers/06/flexray-automotive-communication-bus-overview.html) - Technical Overview of FlexRay by National Instruments
@@ -127,13 +128,13 @@
 - [Modern Embedded Systems Programming :man_student::movie_camera:](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
 - [awesome C/C++ resources list](https://github.com/fffaraz/awesome-cpp#readme)
 
-###  Enterprise Architect :hammer_and_wrench:
+###  Enterprise Architect
 - [Enterprise Architect ](https://sparxsystems.com/products/ea/) - official product page, Sparx Systems
 
-### MULTI :hammer_and_wrench:
+### MULTI
 - [MULTI Integrated Development Environment ](https://www.ghs.com/products/MULTI_IDE.html)
 
-### Trace32 :hammer_and_wrench:
+### Trace32 
 - [Lauterbach GmbH](https://www.lauterbach.com/frames.html?home.html) - tutorials, webinars, publications
 - [Lauterbach GmbH :movie_camera:](https://www.youtube.com/channel/UCwHuwQUTt_FquA86O6DaLnQ) - YouTube channel
 - [Nohau Lauterbach :movie_camera:](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) - playlist with examples
@@ -144,11 +145,11 @@
 - [Technical Papers on the Development of Embedded Electronics - chapter 3 <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=3) - Vector – Automotive. Embedded. Engineering, 2018 
 - [List of Free Software Testing Resources](https://github.com/ligurio/awesome-software-quality#readme) 
 ## Resources
-### Blogs :calendar:
+### Blogs
 - [just auto](https://www.just-auto.com/) - Global automotive industry news, data and analysis. Recent information about OEMs and suppliers
 - [automotivetechis](https://automotivetechis.wordpress.com/)
 - [automotive wiki](https://automotive.wiki/index.php/Main_Page) - provided by [SCHEID automotive GmbH ](https://www.scheid-automotive.com/)
-### Books :books:
+### Books
 - [Technical Papers on the Development of Embedded Electronics <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf) - Vector – Automotive. Embedded. Engineering, 2018
 - [Automotive Embedded Systems Handbook <img src="media/icons/pdf.png" width="18"/>](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Nicolas Navet, 2009
 - [Understanding Automotive Electronics <img src="media/icons/pdf.png" width="18"/>](https://www.engbookspdf.com/uploads/pdf-books/UnderstandingAutomotiveElectronics8theditionbyWilliamB.Ribbens-1.pdf) - Eighth Edition, William B. Ribbens, 2017
@@ -160,18 +161,18 @@ Vector Informatik GmbH, 2016
 - [engbookspdf](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html)  - portal offers free access to about 5 automotive books
 - [list of free programming books](https://github.com/EbookFoundation/free-programming-books#readme) 
 
-### Magazines :newspaper:
+### Magazines
 
 - [SAE Magazines](https://www.sae.org/publications/magazines) - set of free magazines from automotive industry
 - [Vehicle Electronics](https://vehicle-electronics.biz/) - free monthly magazine for automotive electronics engineers
 - [CAN Newsletter](https://can-newsletter.org/magazine)
 
-### Podcasts :studio_microphone:
+### Podcasts
 
 - [SAE Tomorrow Today ](https://www.sae.org/podcasts) - from SAE International, provides unique and dynamic perspectives from innovative industry leaders on the challenges of tomorrow
 - [Matrickz](https://www.matrickz.de/en/podcasts.html) - by Matrickz GmbH mainly related to ASPICE, Security and ISO26262
 
-### Press releases :newspaper_roll:
+### Press releases
 
 - [Continental AG](https://www.continental.com/en/press/press-releases)
 - [Elektrobit (EB)](https://www.elektrobit.com/tech-corner/)
@@ -183,7 +184,7 @@ Vector Informatik GmbH, 2016
 
 
 
-### Miscellaneous :card_file_box:
+### Miscellaneous
 
 - [Vector Support & Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Over 1000 great materials: webinars, articles ...
 - [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products
