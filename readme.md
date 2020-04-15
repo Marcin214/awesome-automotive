@@ -1,8 +1,7 @@
-![alt text](media/logo/auto_logo.png "Awesome Automotive")
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![HitCount](http://hits.dwyl.com/Marcin214/awesome-automotive.svg)](http://hits.dwyl.com/Marcin214/awesome-automotive)
+![alt text](media/logo/logo.gif "Awesome Automotive")
 
-> *Awesome Automotive is curated list of delightful and free automotive resources. Please read the [contribution guidelines](contributing.md) and start contributing !*
+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   list of delightful and free automotive resources. Please read the [contribution guidelines](contributing.md) and start contributing !
 
 ## Contents
 
