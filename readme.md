@@ -1,10 +1,11 @@
 
-<img style="float: right;" src="https://media.giphy.com/media/26tPaq7bbN3Fax8Sk/giphy.gif">
 
-# Awesome Automotive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img align="right"  src="https://media.giphy.com/media/26tPaq7bbN3Fax8Sk/giphy.gif">
+
+# Awesome Automotive
 
 
-    
+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   
  
 List of delightful and free automotive resources. Please read the [contribution guidelines](contributing.md) and start contributing !
 
