@@ -1,8 +1,12 @@
 
-![alt text](media/logo/logo.gif "Awesome Automotive")
-___
+<img style="float: right;" src="https://media.giphy.com/media/26tPaq7bbN3Fax8Sk/giphy.gif">
 
- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   list of delightful and free automotive resources. Please read the [contribution guidelines](contributing.md) and start contributing !
+# Awesome Automotive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
+    
+ 
+List of delightful and free automotive resources. Please read the [contribution guidelines](contributing.md) and start contributing !
 
 ## Contents
 
@@ -33,6 +37,19 @@ ___
   - [Podcasts](#podcasts)
   - [Press releases](#press-releases)
   - [Miscellaneous](#miscellaneous)
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0lax"></th>
+  </tr>
+</table>
 
 ## Autosar
 
