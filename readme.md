@@ -1,11 +1,12 @@
+
+
+# Awesome Automotive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+
 <img align="right"  src="https://media.giphy.com/media/26tPaq7bbN3Fax8Sk/giphy.gif">
 
-# Awesome Automotive 
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![HitCount](http://hits.dwyl.com/Marcin214/awesome-automotive.svg)](http://hits.dwyl.com/Marcin214/awesome-automotive)
+[![HitCount](http://hits.dwyl.com/Marcin214/awesome-automotive.svg)](http://hits.dwyl.com/Marcin214/awesome-automotive)
 
 >Awesome Automotive is curated list of delightful and free automotive resources. Please read the [contribution guidelines](contributing.md) and start contributing !
-
 
 ## Contents
 
@@ -21,13 +22,7 @@
 - [Cyber Security](#cyber-security)
 - [Vehicle Diagnostics](#vehicle-diagnostics)
 - [Requirements Engineering](#requirements-engineering)
-  - [Polarion Software](#polarion-software-hammer_and_wrench)
-  - [Rational DOORS](#rational-doors-hammer_and_wrench)
 - [Software Development](#software-development)
-  - [C/C++](#c/c++)
-  - [Enterprise Architect](#enterprise-architect) 
-  - [MULTI](#multi) 
-  - [Trace32](#trace32)
 - [Testing](#testing)
 - [Resources](#resources)
   - [Blogs](#blogs)
@@ -113,10 +108,10 @@
 - [Technical Papers on the Development of Embedded Electronics - chapter 4 <img src="media/icons/pdf.png" width="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf#page=4) - Vector – Automotive. Embedded. Engineering, 2018 
 
 ## Requirements Engineering
-### Polarion Software
+##### Polarion Software
 - [Polarion course <img src="media/icons/student.png" width="18"/><img src="media/icons/video.png" width="18"/>](https://polarion.plm.automation.siemens.com/tutorials) 
 
-### Rational DOORS 
+##### Rational DOORS 
 - [Getting started <img src="media/icons/student.png" width="18"/>](https://www.ibm.com/developerworks/rational/library/getting-started-ibm-rational-doors/index.html) - tutorial for IBM Rational DOORS and IBM Rational DOORS Web Access
 - [Documentation](https://www.ibm.com/support/pages/node/594725) - library pages contain documentation for earlier versions of Rational products
 - [Essentials <img src="media/icons/video.png" width="18"/>](https://www.youtube.com/playlist?list=PLFB5C518530CFEC93) 
@@ -126,18 +121,18 @@
 
 ## Software Development
 
-### C/C++
+##### C/C++
 
 - [Modern Embedded Systems Programming <img src="media/icons/student.png" width="18"/><img src="media/icons/video.png" width="18"/>](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
 - [awesome C/C++ resources list](https://github.com/fffaraz/awesome-cpp#readme)
 
-###  Enterprise Architect
+#####  Enterprise Architect
 - [Enterprise Architect ](https://sparxsystems.com/products/ea/) - official product page, Sparx Systems
 
-### MULTI
+##### MULTI
 - [MULTI Integrated Development Environment ](https://www.ghs.com/products/MULTI_IDE.html)
 
-### Trace32 
+##### Trace32 
 - [Lauterbach GmbH](https://www.lauterbach.com/frames.html?home.html) - tutorials, webinars, publications
 - [Lauterbach GmbH <img src="media/icons/video.png" width="18"/>](https://www.youtube.com/channel/UCwHuwQUTt_FquA86O6DaLnQ) - YouTube channel
 - [Nohau Lauterbach <img src="media/icons/video.png" width="18"/>](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) - playlist with examples
