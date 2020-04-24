@@ -2,7 +2,7 @@
 
 # Awesome Automotive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-<img align="right"  src="https://media.giphy.com/media/26tPaq7bbN3Fax8Sk/giphy.gif">
+<img align="right"  src="https://media.giphy.com/media/26tPaq7bbN3Fax8Sk/giphy.gif" width="310"/>
 
 [![HitCount](http://hits.dwyl.com/Marcin214/awesome-automotive.svg)](http://hits.dwyl.com/Marcin214/awesome-automotive)
 
