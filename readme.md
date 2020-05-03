@@ -34,8 +34,8 @@
   - [Magazines](#magazine)
   - [Podcasts](#podcasts)
   - [Press releases](#press-releases)
+  - [Videos](#videos)
   - [Miscellaneous](#miscellaneous)
-
 
 ## Autosar
 
@@ -47,7 +47,7 @@
 
 ## Automotive SPICE
 
-- [ASPICE ](http://www.automotivespice.com/download/) - latest version of the Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM).
+- [ASPICE ](http://www.automotivespice.com/download/) - Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM).
 
 ## Bus Systems
 
@@ -75,7 +75,7 @@
 - [Controller Area Network <img src="media/icons/pdf.png" height="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) -  presentation UC Berkeley.
 - [Understanding and Using the Controller Area Network <img src="media/icons/pdf.png" height="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) -  UC Berkeley, CAN 2.0b.
 - [CAN Protocol <img src="media/icons/student.png" height="18"/>](https://www.kvaser.com/course/can-protocol-tutorial/) - tutorial prepared by Kvaser, company [site](https://www.kvaser.com/) with more resources.
-- [CAN Newsletter](https://can-newsletter.org/magazine)
+- [CAN Newsletter magazine](https://can-newsletter.org/magazine)
 
 
 ### FlexRay
@@ -104,13 +104,13 @@
 
 
 ## Cyber Security
-- [Awesome Vehicle Security <img src="media/icons/awesome.png" height="16"/>](https://www.mostcooperation.com/) - books, hardware, software, applications, people to follow, car hacking and tinkering.
+- [Awesome Vehicle Security <img src="media/icons/awesome.png" height="14"/>](https://www.mostcooperation.com/) - books, hardware, software, applications, people to follow, car hacking and tinkering.
 
 ## Vehicle Diagnostics
 
 - [ISO 14229-1:2006(E) <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf) - Unified Diagnostic Services (UDS) specification, superseded by the standard [ISO 14229-1:2013](https://www.iso.org/standard/55283.html).
 - [ ISO 13400-2:2012 <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf) - Road vehicles - Diagnostic communication over Internet Protoco (DoIP).
-- [Information Post](https://automotive.softing.com/en/service/order-of-information-poster.html) - information posters from Softing Automotive.
+- [Information Post](https://automotive.softing.com/en/service/order-of-information-poster.html) - by Softing Automotive. Posters about UDS, ODX, OTX, DoIP.
 
 ## Requirements Engineering
 #### Polarion Software
@@ -132,14 +132,14 @@
 #### Embedded C, C, C++
 
 - [Modern Embedded Systems Programming <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - series of short, focused, hands-on lessons that teach you how to program embedded microcontrollers in C.
-- [Awesome C <img src="media/icons/awesome.png" height="16"/>](https://github.com/aleksandar-todorovic/awesome-c)
-- [Awesome C++ <img src="media/icons/awesome.png" height="16"/>](https://github.com/fffaraz/awesome-cpp#readme)
+- [Awesome C <img src="media/icons/awesome.png" height="14"/>](https://github.com/aleksandar-todorovic/awesome-c)
+- [Awesome C++ <img src="media/icons/awesome.png" height="14"/>](https://github.com/fffaraz/awesome-cpp#readme)
 
 ####  Enterprise Architect
 - [Sparx Systems](https://sparxsystems.com/products/ea/) - official tool vendor page,c ontains: demo, tutorial, webinars, white papers, guides.
 
 #### Matlab
-- [Awesome MATLAB <img src="media/icons/awesome.png" height="16"/>](https://github.com/mikecroucher/awesome-MATLAB)
+- [Awesome MATLAB <img src="media/icons/awesome.png" height="14"/>](https://github.com/mikecroucher/awesome-MATLAB)
 
 
 #### MULTI
@@ -153,7 +153,7 @@
 ## Testing
 
 ##### General
-- [Awesome Software Quality <img src="media/icons/awesome.png" height="16"/>](https://github.com/ligurio/awesome-software-quality#readme) - free software testing resources.
+- [Awesome Software Quality <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme) - free software testing resources.
 
 ##### Canoe and CAPL 
 - [Programming with CAPL <img src="media/icons/pdf.png" height="18"/>](https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf)
@@ -165,23 +165,23 @@
 - [automotivetechis](https://automotivetechis.wordpress.com/)
 - [automotive wiki](https://automotive.wiki/index.php/Main_Page) - by [SCHEID automotive GmbH ](https://www.scheid-automotive.com/).
 ### Books
-- [Technical Papers on the Development of Embedded Electronics <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/><img src="media/icons/warning.png" height="24"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf) - Vector – Automotive. Embedded. Engineering, 2018
-- [Automotive Embedded Systems Handbook <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/><img src="media/icons/warning.png" height="24"/>](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Nicolas Navet, 2009
-- [Understanding Automotive Electronics <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://www.engbookspdf.com/uploads/pdf-books/UnderstandingAutomotiveElectronics8theditionbyWilliamB.Ribbens-1.pdf) - Eighth Edition, William B. Ribbens, 2017
-- [Ford FMEA Handbook <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://fsp.portal.covisint.com/documents/106025/14555722/FMEA%20Handbook%20v4.2/4c14da5c-0842-4e60-a88b-75c18e143cf7) - 2011
-- [XCP – The Standard Protocol for ECU Development <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://assets.vector.com/cms/content/application-areas/ecu-calibration/xcp/XCP_ReferenceBook_V3.0_EN.pdf) - Andreas Patzer, Rainer Zaiser
-Vector Informatik GmbH, 2016
+- [Technical Papers on the Development of Embedded Electronics <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/><img src="media/icons/warning.png" height="24"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf) - Vector Informatik GmbH, 2018
+- [Automotive Embedded Systems Handbook <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/><img src="media/icons/warning.png" height="24"/>](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Nicolas Navet, 2009.
+- [Understanding Automotive Electronics Eighth Edition <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://www.engbookspdf.com/uploads/pdf-books/UnderstandingAutomotiveElectronics8theditionbyWilliamB.Ribbens-1.pdf) - William B. Ribbens, 2017.
+- [FMEA Handbook <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://fsp.portal.covisint.com/documents/106025/14555722/FMEA%20Handbook%20v4.2/4c14da5c-0842-4e60-a88b-75c18e143cf7) - Ford, 2011.
+- [XCP – The Standard Protocol for ECU Development <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://assets.vector.com/cms/content/application-areas/ecu-calibration/xcp/XCP_ReferenceBook_V3.0_EN.pdf) - Andreas Patzer, Rainer Zaiser,
+Vector Informatik GmbH, 2016.
 - [engineeringbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engineeringbookspdf.com/automobile-engineering/) - offers free access to about 150 automotive books.
 - [engbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engbookspdf.com/Automobile/) - offers free access to about 35 automotive books.
 - [engbookspdf <img src="media/icons/search.png" height="18"/>](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) - offers free access to about 5 automotive books.
-- [Free Programming Books <img src="media/icons/awesome.png" height="16"/>](https://github.com/sindresorhus/awesome) 
-- [Free Software Testing Books <img src="media/icons/awesome.png" height="16"/>](https://github.com/ligurio/awesome-software-quality#readme) 
+- [Free Programming Books <img src="media/icons/awesome.png" height="14"/>](https://github.com/sindresorhus/awesome) 
+- [Free Software Testing Books <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme) 
 
 ### Magazines
 
 - [SAE Magazines <img src="media/icons/warning.png" height="24"/>](https://www.sae.org/publications/magazines) - set of free magazines from automotive industry
 - [Vehicle Electronics](https://vehicle-electronics.biz/) - free monthly magazine for automotive electronics engineers
-- [CAN Newsletter](https://can-newsletter.org/magazine)
+- [CAN Newsletter magazine](https://can-newsletter.org/magazine)
 
 ### Podcasts
 
@@ -198,16 +198,20 @@ Vector Informatik GmbH, 2016
 - [Softing Automotive Electronics GmbH](https://automotive.softing.com/en/service/press-publications/press-releases.html)
 - [Vector Informatik GmbH](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10)
 
+### Videos
 
+- [Automotive Logistics <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/user/autologisticschannel)
+- [Elektrobit <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/user/EBAutomotiveSoftware/featured)
+- [MATLAB Videos and Webinars <img src="media/icons/video.png" height="18"/>](https://www.mathworks.com/videos.html)
+- [Vector Consulting Services <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/channel/UC-yhIPWuNcXm-DRPPsC8wiA/featured)
 
 ### Miscellaneous
 
 - [Vector Support & Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Over 1000 great materials: webinars, articles and more.
 - [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products.
-- [Vector Consulting Services <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/channel/UC-yhIPWuNcXm-DRPPsC8wiA/featured)
 - [TOP 100 OEM suppliers](https://www.autonews.com/assets/PDF/CA89220617.PDF)
-- [Awesome Indexed <img src="media/icons/search.png" height="18"/><img src="media/icons/awesome.png" height="16"/>](https://awesome-indexed.mathew-davies.co.uk/) - Search the Awesome dataset.
-- [Awesome Search <img src="media/icons/search.png" height="18"/><img src="media/icons/awesome.png" height="16"/>](https://awesomelists.top/) - Quick search for Awesome lists.
+- [Awesome Indexed <img src="media/icons/awesome.png" height="14"/> <img src="media/icons/search.png" height="18"/>](https://awesome-indexed.mathew-davies.co.uk/) - Search the Awesome dataset.
+- [Awesome Search <img src="media/icons/awesome.png" height="14"/><img src="media/icons/search.png" height="18"/>](https://awesomelists.top/) - Quick search for Awesome lists.
 
 
 
