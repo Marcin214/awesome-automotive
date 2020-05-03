@@ -90,7 +90,7 @@
 
 - [Introduction to LIN](https://elearning.vector.com/mod/page/view.php?id=309) - Vector e-learning module.
 - [LIN Supplier ID Registration Authority](https://www.lin-cia.org/id/) - standardized in the ISO 17987 series.
-- [The LIN Short Story <img src="media/icons/pdf.png" height="18"/>](https://www.nxp.com/files-static/training_pdf/29021_S08_SLIN_WBT.pdf) - NXP course.
+- [The LIN Short Story <img src="media/icons/pdf.png" height="18"/>](https://www.nxp.com/files-static/training_pdf/29021_S08_SLIN_WBT.pdf) - by NXP.
 
 
 ### MOST
@@ -104,7 +104,8 @@
 
 
 ## Cyber Security
-- [Awesome Vehicle Security <img src="media/icons/awesome.png" height="14"/>](https://www.mostcooperation.com/) - books, hardware, software, applications, people to follow, car hacking and tinkering.
+- [The Car Hacker's Handbook - A Guide for the Penetration Tester <img src="media/icons/book.png" height="18"/>](http://opengarages.org/handbook/http://opengarages.org/handbook/ebook/#calibre_link-256) - Craig Smith, 2016.
+- [Awesome Vehicle Security <img src="media/icons/awesome.png" height="14"/>](https://github.com/jaredthecoder/awesome-vehicle-security) - books, hardware, software, applications, people to follow, car hacking and tinkering.
 
 ## Vehicle Diagnostics
 
@@ -134,6 +135,8 @@
 - [Modern Embedded Systems Programming <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - series of short, focused, hands-on lessons that teach you how to program embedded microcontrollers in C.
 - [Awesome C <img src="media/icons/awesome.png" height="14"/>](https://github.com/aleksandar-todorovic/awesome-c)
 - [Awesome C++ <img src="media/icons/awesome.png" height="14"/>](https://github.com/fffaraz/awesome-cpp#readme)
+- [Awesome Embedded <img src="media/icons/awesome.png" height="14"/>](https://github.com/nhivp/Awesome-Embedded)
+
 
 ####  Enterprise Architect
 - [Sparx Systems](https://sparxsystems.com/products/ea/) - official tool vendor page,c ontains: demo, tutorial, webinars, white papers, guides.
@@ -171,6 +174,7 @@
 - [FMEA Handbook <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://fsp.portal.covisint.com/documents/106025/14555722/FMEA%20Handbook%20v4.2/4c14da5c-0842-4e60-a88b-75c18e143cf7) - Ford, 2011.
 - [XCP – The Standard Protocol for ECU Development <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://assets.vector.com/cms/content/application-areas/ecu-calibration/xcp/XCP_ReferenceBook_V3.0_EN.pdf) - Andreas Patzer, Rainer Zaiser,
 Vector Informatik GmbH, 2016.
+- [The Car Hacker's Handbook - A Guide for the Penetration Tester <img src="media/icons/book.png" height="18"/>](http://opengarages.org/handbook/http://opengarages.org/handbook/ebook/#calibre_link-256) - Craig Smith, 2016.
 - [engineeringbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engineeringbookspdf.com/automobile-engineering/) - offers free access to about 150 automotive books.
 - [engbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engbookspdf.com/Automobile/) - offers free access to about 35 automotive books.
 - [engbookspdf <img src="media/icons/search.png" height="18"/>](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) - offers free access to about 5 automotive books.
@@ -210,7 +214,7 @@ Vector Informatik GmbH, 2016.
 - [Vector Support & Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Over 1000 great materials: webinars, articles and more.
 - [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products.
 - [TOP 100 OEM suppliers](https://www.autonews.com/assets/PDF/CA89220617.PDF)
-- [Awesome Indexed <img src="media/icons/awesome.png" height="14"/> <img src="media/icons/search.png" height="18"/>](https://awesome-indexed.mathew-davies.co.uk/) - Search the Awesome dataset.
+- [Awesome Indexed <img src="media/icons/awesome.png" height="14"/><img src="media/icons/search.png" height="18"/>](https://awesome-indexed.mathew-davies.co.uk/) - Search the Awesome dataset.
 - [Awesome Search <img src="media/icons/awesome.png" height="14"/><img src="media/icons/search.png" height="18"/>](https://awesomelists.top/) - Quick search for Awesome lists.
 
 
