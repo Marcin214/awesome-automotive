@@ -4,7 +4,7 @@
 
 <img align="right"  src="https://media.giphy.com/media/26tPaq7bbN3Fax8Sk/giphy.gif" height="130"/>
 
-[![HitCount](http://hits.dwyl.com/Marcin214/awesome-automotive.svg)](http://hits.dwyl.com/Marcin214/awesome-automotive)
+<img src="https://img.shields.io/github/license/Marcin214/awesome-automotive"/> [![HitCount](http://hits.dwyl.com/Marcin214/awesome-automotive.svg)](http://hits.dwyl.com/Marcin214/awesome-automotive)
 >Awesome Automotive is curated list of delightful and free automotive resources. Please read the [contribution guidelines](contributing.md) and start contributing !
 
 ## Contents
