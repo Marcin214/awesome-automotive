@@ -3,7 +3,7 @@
 <!--lint enable no-unused-definitions-->
 
 <div align="center">
-	<img width="600" src="media/logo/new3.svg" alt="Awesome">
+	<img width="600" src="media/logo/new4.svg" alt="Awesome">
   <br>
   <hr>
 </div>
