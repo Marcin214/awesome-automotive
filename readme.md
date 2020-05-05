@@ -3,14 +3,20 @@
 <!--lint enable no-unused-definitions-->
 
 <div align="center">
-	<img width="600" src="media/logo/new4.svg" alt="Awesome">
   <br>
+	<img width="500" src="media/logo/new4.svg" alt="Awesome">
+  <br>
+  <br>
+  <br>
+  <br>
+  <p align="center">
+    <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
+    <img src="https://img.shields.io/github/license/Marcin214/awesome-automotive"/>
+    <img alt="PullRequests Welcome" src="https://img.shields.io/badge/pull request-welcome-blue.svg" />
+    <a href="http://hits.dwyl.com/Marcin214/awesome-automotive"><img alt="HitCount" src="http://hits.dwyl.com/Marcin214/awesome-automotive.svg" /></a>
+  </p>
   <hr>
 </div>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<img src="https://img.shields.io/github/license/Marcin214/awesome-automotive"/>
-[![HitCount](http://hits.dwyl.com/Marcin214/awesome-automotive.svg)](http://hits.dwyl.com/Marcin214/awesome-automotive)
 
 <!--lint disable list-item-bullet-indent-->
 ## Contents
