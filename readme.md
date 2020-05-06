@@ -51,10 +51,12 @@
   - [Classic Platform](https://www.autosar.org/standards/classic-platform/)
   - [Adaptive Platform](https://www.autosar.org/standards/adaptive-platform/)
 - ["Introduction to Autosar"](https://elearning.vector.com/mod/page/view.php?id=437) - Vector e-learning module.
+- [Artop](https://www.artop.org/) - The **A**UTOSA**R** **T**ool **P**latform is an implementation of common base functionality for AUTOSAR development tools.
 
 ## Automotive SPICE
 
 - [ASPICE](http://www.automotivespice.com/download/) - Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM).
+- [Automotive SPICE: Ensuring ASPICE Compliance <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL5VAskozuQ3DwQIE3A8dGKWIRKPeNBTCG) 
 
 ## Bus Systems
 
@@ -160,7 +162,7 @@
 - [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components, [Artop](https://www.artop.org) sub-project.
 - [Google Test](https://github.com/google/googletest) - Google's C++ test framework.
 - [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) - Google's framework for writing and using C++ mock classes.
-
+- [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) - Micro-framework for creating fake C functions for tests. 
 
 ## Testing
 
