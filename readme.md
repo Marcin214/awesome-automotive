@@ -8,12 +8,18 @@
   <br>
   <br>
   <br>
-  <br>
   <p align="center">
-    <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
+      <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
     <img src="https://img.shields.io/github/license/Marcin214/awesome-automotive"/>
-    <a href="https://github.com/Marcin214/awesome-automotive/blob/master/contributing.md"><img alt="PullRequests Welcome" src="https://img.shields.io/badge/pull request-welcome-blue.svg" /></a>
     <a href="http://hits.dwyl.com/Marcin214/awesome-automotive"><img alt="HitCount" src="http://hits.dwyl.com/Marcin214/awesome-automotive.svg" /></a>
+    <hr>
+    <sup>
+    We all know that automotive engineering is awesome, but here's a list of especially awesome things related to that world.<br>Let's not afraid, click on badge below and make it this list better !
+    </sup>
+    <br>
+    <br>
+    <a href="https://github.com/Marcin214/awesome-automotive/blob/master/contributing.md"><img alt="PullRequests Welcome" src="https://img.shields.io/badge/pull request-welcome-blue.svg" /></a>
+    <img src="https://img.shields.io/github/issues/Marcin214/awesome-automotive?color=yellow"/>
   </p>
   <hr>
 </div>
@@ -163,6 +169,7 @@
 - [Google Test](https://github.com/google/googletest) - Google's C++ test framework.
 - [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) - Google's framework for writing and using C++ mock classes.
 - [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) - Micro-framework for creating fake C functions for tests. 
+- [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1&tab=votes#tab-top) - Discussion with overview on available C unit test frameworks.
 
 ## Testing
 
