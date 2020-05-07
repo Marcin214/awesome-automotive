@@ -19,7 +19,7 @@
     <br>
     <br>
     <a href="https://github.com/Marcin214/awesome-automotive/blob/master/contributing.md"><img alt="PullRequests Welcome" src="https://img.shields.io/badge/pull request-welcome-blue.svg" /></a>
-    <img src="https://img.shields.io/github/issues/Marcin214/awesome-automotive?color=yellow"/>
+    <a href="https://github.com/Marcin214/awesome-automotive/issues"><img src="https://img.shields.io/github/issues/Marcin214/awesome-automotive?color=yellow"/></a>
   </p>
   <hr>
 </div>
