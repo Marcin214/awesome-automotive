@@ -29,6 +29,7 @@
 
 - [Autosar](#autosar)
 - [Automotive SPICE](#automotive-spice)
+- [Autonomous Driving](autonomous-driving)
 - [Bus Systems](#bus-systems)
   - [Automotive Ethernet](#automotive-ethernet)
   - [CAN](#can)
@@ -63,6 +64,12 @@
 
 - [ASPICE](http://www.automotivespice.com/download/) - Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM).
 - [Automotive SPICE: Ensuring ASPICE Compliance <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL5VAskozuQ3DwQIE3A8dGKWIRKPeNBTCG) 
+
+## Autonomous Driving
+- [Awesome Autonomous Driving <img src="media/icons/awesome.png" height="14"/>](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving)
+- [Awesome Autonomous Vehicles <img src="media/icons/awesome.png" height="14"/>](https://github.com/manfreddiaz/awesome-autonomous-vehicles)
+- [Awesome Self-Driving Cars <img src="media/icons/awesome.png" height="14"/>](https://github.com/philbort/awesome-self-driving-cars)
+
 
 ## Bus Systems
 
