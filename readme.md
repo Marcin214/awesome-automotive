@@ -29,7 +29,7 @@
 
 - [Autosar](#autosar)
 - [Automotive SPICE](#automotive-spice)
-- [Autonomous Driving](autonomous-driving)
+- [Autonomous Driving](#autonomous-driving)
 - [Bus Systems](#bus-systems)
   - [Automotive Ethernet](#automotive-ethernet)
   - [CAN](#can)
@@ -39,9 +39,11 @@
 - [Functional Safety](#functional-safety)
 - [Cyber Security](#cyber-security)
 - [Vehicle Diagnostics](#vehicle-diagnostics)
-- [Requirements Engineering](#requirements-engineering)
-- [Software Development](#software-development)
-- [Testing](#testing)
+- [Software Development Process](#software-development-process)
+  - [Requirements](#requirements)
+  - [Design](#design)
+  - [Implementation](#implementation)
+  - [Testing](#testing)
 - [Resources](#resources)
   - [Blogs](#blogs)
   - [Books](#books)
@@ -140,63 +142,73 @@
 - [Information Posters](https://automotive.softing.com/en/service/order-of-information-poster.html) - From Softing Automotive about UDS, ODX, OTX, DoIP.
 - [Diagnostics and Flashing <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFZ0ueLgYRZfSa6l-eTcwBh) - From Vector Informatik GmbH, read more [here](https://vctr.it/2B8hbJh).
 
-## Requirements Engineering
-#### Polarion Software
+## Software Development Process
+### Requirements
+<div><sup>Polarion Software</sup></div>
+
 - [Polarion Tutorial Videoss <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://polarion.plm.automation.siemens.com/tutorials) 
 - [Vector Polarion Connection Utility <img src="media/icons/video.png" height="18"/>](https://elearning.vector.com/mod/page/view.php?id=149) - Add-on tool for Vector vTESTstudio that serves to integrate Siemens Polarion ALM into the Vector testing tool chain.
 
-#### Rational DOORS 
+<div><sup>Rational DOORS</sup></div>
+
 - [Getting started <img src="media/icons/student.png" height="18"/>](https://www.ibm.com/developerworks/rational/library/getting-started-ibm-rational-doors/index.html) - Tutorial for IBM Rational DOORS and IBM Rational DOORS Web Access.
 - [Documentation](https://www.ibm.com/support/pages/node/594725) - Library pages contain documentation for earlier versions of Rational products.
-- [Essentials <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLFB5C518530CFEC93) - Hands-on examples
+- [Essentials <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLFB5C518530CFEC93) - Hands-on examples.
 - [Using DXL](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.configuring.doc/topics/c_dxl.html) - The Rational® DOORS® eXtension Language (DXL) is an easy-to-learn scripting language that you can use to control and extend Rational DOORS functions.
 - [The DXL Reference Manual](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.requirements.doc/topics/dxl_reference_manual.pdf?view=kc)
 
-## Software Development
+### Design
 
-#### EB tresos Studio
-- [EB tresos®Studio documentation  <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf)
+- [Enterprise Architect](https://sparxsystems.com/products/ea/) - Official tool vendor Sparx Systems website. Contains demo, tutorials and more.
+- [Awesome Software Architecture <img src="media/icons/awesome.png" height="14"/>](https://github.com/simskij/awesome-software-architecture)
 
-#### Embedded C, C, C++
-- [Modern Embedded Systems Programming <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - Series of short, focused, hands-on lessons that teach you how to program embedded microcontrollers in C.
+### Implementation
+<div><sup>Programming</sup></div>
+
+- [Guidelines for the use of the C++14 language in critical and safety-related systems <img src="media/icons/pdf.png" height="18"/>](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-03/AUTOSAR_RS_CPP14Guidelines.pdf) - AUTOSAR standard.
+- [MISRA](https://www.misra.org.uk/Publications/tabid/57/Default.aspx) - Publications from world-leading best practice guidelines for the safe and secure application.
+- [Modern Embedded Systems Programming <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - Series of hands-on lessons about embedded microcontrollers in C.
+- [SEI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - Languages such as C, C++, Java, and Perl, and the Android™ platform.
 - [Awesome C <img src="media/icons/awesome.png" height="14"/>](https://github.com/aleksandar-todorovic/awesome-c)
 - [Awesome C++ <img src="media/icons/awesome.png" height="14"/>](https://github.com/fffaraz/awesome-cpp#readme)
 - [Awesome Embedded <img src="media/icons/awesome.png" height="14"/>](https://github.com/nhivp/Awesome-Embedded)
 
-#### Enterprise Architect
-- [Sparx Systems](https://sparxsystems.com/products/ea/) - Official tool vendor page,c ontains: demo, tutorial, webinars, white papers, guides.
+<div><sup>Configuration</sup></div>
 
-#### Matlab
+- [EB tresos®Studio documentation  <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf)
 - [Awesome MATLAB <img src="media/icons/awesome.png" height="14"/>](https://github.com/mikecroucher/awesome-MATLAB)
 
-#### MULTI
+<div><sup>Debugging</sup></div>
+
 - [MULTI Integrated Development Environment](https://www.ghs.com/products/MULTI_IDE.html)
+- [Trace32 Lauterbach GmbH](https://www.lauterbach.com/frames.html?home.html) - High-tech company for microprocessor development tools. 
+- [Trace32 basic examples of usage <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLlgTI9rjcm35NUgKufepfqgn6Fd4zBe88) - From Lauterbach GmbH. 
+- [Trace32: Debug your embedded systems <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) - From Nohau Solutions.
 
-#### Trace32 
-- [Lauterbach GmbH](https://www.lauterbach.com/frames.html?home.html) - High-tech company for microprocessor development tools. Contains tutorials, webinars, publications.
-- [Basic examples of usage <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLlgTI9rjcm35NUgKufepfqgn6Fd4zBe88) - From Lauterbach GmbH. 
-- [Video: Debug your embedded systems <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) - From Nohau Solutions.
 
-#### Unit tests
+
+
+### Testing
+<div><sup>General</sup></div>
+
+- [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd)
+- [Vector Testing Symposium 2017: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJEpfR5iAZBNjpl1NIpRA7Gw)
+- [Vector Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFxt_WSazEXShViv_jnlu0K)
+- [Awesome Software Quality <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme) - Free software testing resources.
+
+<div><sup>Unit tests</sup></div>
+
 - [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components, [Artop](https://www.artop.org) sub-project.
 - [Google Test](https://github.com/google/googletest) - Google's C++ test framework.
 - [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) - Google's framework for writing and using C++ mock classes.
 - [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) - Micro-framework for creating fake C functions for tests. 
 - [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1&tab=votes#tab-top) - Discussion with overview on available C unit test frameworks.
-- [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd)
 
-## Testing
+<div><sup>CANoe and CAPL </sup></div>
 
-##### CANoe and CAPL 
 - [CANoe: Product Videos <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL9EA087B9E8301D23)
 - [Programming with CAPL <img src="media/icons/pdf.png" height="18"/>](https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf)
 - [Tips and Tricks for the Use of CAPL](https://kb.vector.com/entry/875/) - Three consecutive articles, for all levels of user knowledge [Part One](https://kb.vector.com/upload_551/file/CAPL_1_CANNewsletter_201406_PressArticle_EN.pdf), [Part Two](https://kb.vector.com/upload_551/file/CAPL_2_CANNewsletter_201409_PressArticle_EN.pdf), [Part Three](https://kb.vector.com/upload_551/file/CAPL_3_CANNewsletter_201411_PressArticle_EN.pdf).
-
-##### Other
-
-- [Vector Testing Symposium 2017: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJEpfR5iAZBNjpl1NIpRA7Gw)
-- [Vector Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFxt_WSazEXShViv_jnlu0K)
-- [Awesome Software Quality <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme) - Free software testing resources.
 
 ## Resources
 
