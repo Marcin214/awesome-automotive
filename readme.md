@@ -16,10 +16,10 @@
     <a href="http://hits.dwyl.com/Marcin214/awesome-automotive"><img alt="HitCount" src="http://hits.dwyl.com/Marcin214/awesome-automotive.svg" /></a>
     <hr>
     <sup>
-    We all know that automotive engineering is awesome, but here's a list of especially awesome things related to that world.<br>Let's help make it this list 🔥🔥🔥:&emsp;&emsp;&emsp;&emsp;&emsp;<br>
-     ✅ perform review and leave comment <a href="https://github.com/Marcin214/awesome-automotive/issues/2">here</a><br>
-     ✅ add new awesome record like <a href="https://github.com/Marcin214/awesome-automotive/blob/master/contributing.md">here</a>&emsp;&emsp;&nbsp;&nbsp;<br>&emsp;&emsp;
-     ✅ if sth needs to be improved, create issue <a href="https://github.com/Marcin214/awesome-automotive/issues">here</a>
+    We all know that automotive engineering is awesome, but here's a list of especially awesome things related to that world.<br>Let's help make it this list 🔥🔥🔥:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br>
+     ✅ perform review and leave a comment <a href="https://github.com/Marcin214/awesome-automotive/issues/2">here</a><br>
+     ✅ add new awesome record like <a href="https://github.com/Marcin214/awesome-automotive/blob/master/contributing.md">here</a>&emsp;&emsp;&nbsp;&emsp;<br>&emsp;&emsp;&emsp;
+     ✅ if sth needs to be improved, create an issue <a href="https://github.com/Marcin214/awesome-automotive/issues">here</a>&nbsp;
     </sup>
     <br>
   </p>
