@@ -60,6 +60,7 @@
 ## Autosar
 
 - [AUTOSAR](https://www.autosar.org/) - (**AUT**omotive **O**pen **S**ystem **AR**chitecture) is a worldwide development partnership of vehicle manufacturers, suppliers, service providers and companies from the automotive electronics, semiconductor and software industry.
+- [AUTOSAR Technical Overview](https://web.archive.org/web/20161201222022/http://www.autosar.org/about/technical-overview/) - From official autosar.org website, web archive from 1st December 2016.
 - [Artop](https://www.artop.org/) - The **A**UTOSA**R** **T**ool **P**latform is an implementation of common base functionality for AUTOSAR development tools.
 - [About AUTomotive Open System ARchitecture (AUTOSAR)](https://www.renesas.com/us/en/solutions/automotive/technology/autosar.html) - From Renesas Electronics, overview on key AUTOSAR features.
 - [AUTOSAR Development Tools](https://www.renesas.com/us/en/solutions/automotive/manual-softtools.html) - From Renesas Electronics, overview AUTOSAR toolse from different suppliers.
@@ -210,6 +211,11 @@
 - [Fake Function Framework (fff) <img src="media/icons/github.png" height="18"/>](https://github.com/meekrosoft/fff) - Micro-framework for creating fake C functions for tests. 
 - [Unit Testing C Code <img src="media/icons/stackoverflow.png" height="18"/>](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1&tab=votes#tab-top) - Discussion with overview on available C unit test frameworks.
 
+<div><sup>MC/DC</sup></div>
+
+- [A Practical Tutorial on Modified Condition/Decision Coverage <img src="media/icons/pdf.png" height="18"/>](https://shemesh.larc.nasa.gov/fm/papers/Hayhurst-2001-tm210876-MCDC.pdf)
+- [The Effect of Program and Model Structure on MC⁄DC Test Adequacy Coverage <img src="media/icons/pdf.png" height="18"/>](http://se.inf.ethz.ch/old/teaching/2009-S/0276/slides/fiva.pdf)
+
 ### Functional Test
 
 - [Vector Testing Symposium 2017: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJEpfR5iAZBNjpl1NIpRA7Gw) - From official Vector Informatik YouTube channel.
@@ -223,7 +229,7 @@
 
 ## Blogs
 - [just auto](https://www.just-auto.com/) - Global automotive industry news, data and analysis. Recent information about OEMs and suppliers.
-- [automotivetechis](https://automotivetechis.wordpress.com/)
+- [automotivetechis](https://automotivetechis.wordpress.com/) -  From engineer with 10 years in automotive domain.
 - [automotive wiki](https://automotive.wiki/index.php/Main_Page) - From [SCHEID automotive GmbH](https://www.scheid-automotive.com/).
 
 ## Books
