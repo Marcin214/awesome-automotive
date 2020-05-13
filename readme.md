@@ -100,15 +100,16 @@
 
 ### CAN
 
+- [CiA – CAN In Automation <img src="media/icons/warning.png" height="18"/>](https://www.can-cia.org/) - A user organization for people interested in CAN.
 - [Bosch specification <img src="media/icons/pdf.png" height="18"/>](http://esd.cs.ucr.edu/webres/can20.pdf) - Specification superseded by the standard [ISO 11898](https://www.iso.org/standard/63648.html).
 - [Bosch CAN FD specification Version 1.0 <img src="media/icons/pdf.png" height="18"/>](https://web.archive.org/web/20151211125301/http://www.bosch-semiconductors.de/media/ubk_semiconductors/pdf_1/canliteratur/can_fd_spec.pdf)
 - [Controller Area Network (CAN) Schedulability Analysis: Refuted, Revisited and Revised](https://link.springer.com/article/10.1007%2Fs11241-007-9012-7)
 - [Controller Area Network (CAN) Implementation Guide <img src="media/icons/pdf.png" height="18"/>](https://www.analog.com/media/en/technical-documentation/application-notes/AN-1123.pdf)
 - [Introduction to CAN](https://elearning.vector.com/mod/page/view.php?id=333) - From Vector Informatik, e-learning module.
-- [Controller Area Network <img src="media/icons/pdf.png" height="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) - Presentation from UC Berkeley.
-- [Understanding and Using the Controller Area Network <img src="media/icons/pdf.png" height="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) -  UC Berkeley, CAN 2.0b.
-- [CAN Protocol <img src="media/icons/student.png" height="18"/>](https://www.kvaser.com/course/can-protocol-tutorial/) - Tutorial prepared by Kvaser, company [site](https://www.kvaser.com/) with more resources.
-- [CAN Newsletter magazine](https://can-newsletter.org/magazine)
+- [Controller Area Network <img src="media/icons/pdf.png" height="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) - From UC Berkeley, presentation.
+- [Understanding and Using the Controller Area Network <img src="media/icons/pdf.png" height="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) - From UC Berkeley, CAN 2.0b.
+- [CAN Protocol <img src="media/icons/student.png" height="18"/>](https://www.kvaser.com/course/can-protocol-tutorial/) - From Kvaser, tutorial.
+- [CAN magazine](https://can-newsletter.org/magazine) - From CiA publications.
 
 
 ### FlexRay
@@ -250,7 +251,7 @@ Vector Informatik GmbH, 2016.
 
 - [SAE Magazines <img src="media/icons/warning.png" height="18"/>](https://www.sae.org/publications/magazines) - set of free magazines from automotive industry.
 - [Vehicle Electronics](https://vehicle-electronics.biz/) - Free monthly magazine for automotive electronics engineers.
-- [CAN Newsletter magazine](https://can-newsletter.org/magazine)
+- [CAN magazine](https://can-newsletter.org/magazine) - From CiA publications.
 
 ## Podcasts
 
