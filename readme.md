@@ -135,7 +135,7 @@
 ## Functional Safety
 - [ISO 26262-1:2011 Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - ISO Online Browsing Platform (OBP).
 - [IEC 61508-1:2010 <img src="media/icons/github.png" height="18"/>](https://github.com/wangdong412/Consen-SIS/tree/master/IEC61508) - Functional safety of electrical/electronic/programmable electronic safety-related systems.
-- [exida webinars <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - From exida, world’s leading company for certification, automation system safety, alarm management, cybersecurity.
+- [exida webinars <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - From exida, world’s leading company for certification, safety, alarm management, cybersecurity.
 - [Matrickz podcasts <img src="media/icons/podcast.png" height="18"/>](https://www.matrickz.de/en/podcasts.html) - From Matrickz mainly related to ASPICE, Security and ISO26262.
 - [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - From National Instruments, white paper.
 - [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" height="18"/>](https://web1.see.asso.fr/erts2012/Site/0P2RUC89/1A-1.pdf) - From ERTS2 Congress. Embedded Real Time Software and Systems.
