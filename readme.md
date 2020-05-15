@@ -140,6 +140,8 @@
 
 
 ## Cyber Security
+- [Automotive Cybersecurity Overview](https://www.nhtsa.gov/crash-avoidance/automotive-cybersecurity) - From NHTSA (United States Department of Transportation), set of articles.
+- [Cyber Security - SIG](https://site.ieee.org/ocs-cssig/?page_id=736) - From IEEE.org, numbers of great resources. 
 - [The Car Hacker's Handbook - A Guide for the Penetration Tester <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://docs.alexomar.com/biblioteca/thecarhackershandbook.pdf) - Craig Smith, 2016.
 - [Vector Cybersecurity Symposium 2016: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHdtX4Vmw8n8DBFuDlmQCQy) - From official Vector Informatik YouTube channel. On 23rd June 2016.
 - [Vector Cybersecurity Symposium 2017: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJGvyWfoPaTMw0QN3306wTPm) - From official Vector Informatik YouTube channel.
@@ -213,6 +215,8 @@ Vector Informatik GmbH, 2016.
 ### Software Test
 
 - [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) - From official Vector Informatik YouTube channel.
+- [TA Tool Suite - Managing the Timing Behavior of AUTOSAR Multi-Core ECUs](https://www.vector.com/int/en/products/products-a-z/software/ta-tool-suite/) - From Vector Informatik.
+- [Runtime Analysis of AUTOSAR Embedded Projects <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=C2NFKwUOpMk&list=PLLUr1-D7UabianTZOBIPKH1sA4M4nKhTw&index=2&t=5767s) - By Florian Sommer and Sebastian Ziegler.
 - [Awesome Software Quality <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme)
 
 <div><sup>Unit test</sup></div>
@@ -253,12 +257,13 @@ Vector Informatik GmbH, 2016.
 - [engineeringbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engineeringbookspdf.com/automobile-engineering/) - Offers free access to about 150 automotive books.
 - [engbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engbookspdf.com/Automobile/) - Offers free access to about 35 automotive books.
 - [engbookspdf <img src="media/icons/search.png" height="18"/>](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) - Offers free access to about 5 automotive books.
+- [eBooks-IT.org <img src="media/icons/search.png" height="18"/>](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) - Online library for IT ebooks.
 - [Free Programming Books <img src="media/icons/awesome.png" height="14"/>](https://github.com/sindresorhus/awesome) 
 - [Free Software Testing Books <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme) 
 
 ## Magazines
 
-- [SAE Magazines <img src="media/icons/warning.png" height="18"/>](https://www.sae.org/publications/magazines) - set of free magazines from automotive industry.
+- [SAE Magazines <img src="media/icons/warning.png" height="18"/>](https://www.sae.org/publications/magazines) - Set of free magazines from automotive industry.
 - [Vehicle Electronics](https://vehicle-electronics.biz/) - Free monthly magazine for automotive electronics engineers.
 - [CAN magazine](https://can-newsletter.org/magazine) - From CiA publications.
 
@@ -280,7 +285,8 @@ Vector Informatik GmbH, 2016.
 ## Videos
 
 - [Automotive Logistics <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/user/autologisticschannel)
-- [Elektrobit <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/user/EBAutomotiveSoftware/featured)
+- [Embedded Meetup Egypt <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/channel/UC4iQ7Bz-3MKeMsfs3Bb4QjQ/featured) - Webinars related to software development for automotive embedded systems.
+- [Official Elektrobit <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/user/EBAutomotiveSoftware/featured)
 - [MATLAB Videos and Webinars <img src="media/icons/video.png" height="18"/>](https://www.mathworks.com/videos.html)
 - [Official Vector Informatik YouTube channel <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/channel/UC7P-ggVSMhM28LmVzwf2BQw)
 
