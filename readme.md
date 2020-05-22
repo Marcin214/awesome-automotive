@@ -74,20 +74,15 @@
 </details>
 <div><sup>Publications</sup></div>
 
-- [Tool support for seamless system development based on AUTOSAR timing extensions <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/ToolSupportforSeamlessSystemDevelopmentBasedonAUTOSARTimingExtensions.pdf) - Oliver Scheickl, Christoph Ainhauser, Peter Gliwa, ERTS 2012 - Embedded Real Time Software and Systems, Toulouse, February 2012
-- [Interoperable AUTOSAR tooling with Artop <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Interoperable%20AUTOSAR%20tooling%20with%20Artop.pdf) - Sebastian Benz, Michael Rudorfer, Christian Knuechel, HoPES Workshop, Paris, June 2010
-- [Artop – An ecosystem approach for collaborative AUTOSAR tool development <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Artop-AnEcosystemApproachforCollaborativeAUTOSARToolDevelopment.pdf) - Christian Knüchel, Michael Rudorfer, Stefan Voget, Stephan Eberle, Romain Sezestre, Aldric Loyer, ERTS 2010, Toulouse, May 2010
-- [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/UsageofAUTOSARDiagnosticModulesinaMOSTElectronicControlUnit.pdf) - Paul Hoser, MOST Forum 2008, 	Stuttgart, September 2008
-- [How timing interfaces in AUTOSAR can improve distributed development of real-time software <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/How%20Timing%20Interfaces%20in%20AUTOSAR%20can%20Improve%20%20Distributed%20Development%20of%20Real-Time%20Software.pdf) - Oliver Scheickl, Michael Rudorfer, Christoph Ainhauser, Nico Feiertag, Kai Richter, 6. Workshop Automotive Software Engineering, Munich, September 2008
-- [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Automotive%20Real%20Time%20Development%20Using%20a%20Timing-augmented%20%20AUTOSAR%20Specification.pdf) - Oliver Scheickl, Michael Rudorfer, ERTS EMBEDDED REAL TIME SOFTWARE, Toulouse, January 2008
-- [Enabling of AUTOSAR system design using Eclipse-based tooling <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Enabling%20of%20AUTOSAR%20system%20design%20using%20Eclipse-based%20tooling.pdf) - 	Harald Heinecke, Michael Rudorfer, Paul Hoser, Christoph Ainhauser, Oliver Scheickl, ERTS 2008, Toulouse, January 2008
-- [Achievements and exploitation of the AUTOSAR development partnership <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Achievements%20and%20exploitation%20of%20the%20%20%20AUTOSAR%20development%20partnership.pdf) - 	Helmut Fennel, Stefan Bunzel, ..., Convergence, Detroit, October 2006
-- [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf) - 	H. Ahmadian and R. Obermaisser,  In Proc. of the 12th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC), Hanoi, Vietnam, 2018
-- [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-pdp-2017.pdf) - M. Urbina and R. Obermaisser,  In Proc. of the 25th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP). St. Petersburg, Russia, 2017
-- [Co-simulation framework for AUTOSAR multi-core processors with message-based Network-on-Chips <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-indin-2016.pdf) - M. Urbina, H. Ahmadian and R. Obermaisser, In Proc. of the 14th IEEE International Conference on Industrial Informatics (INDIN). Futuroscope-Poitiers, France, 2016
-- [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core Platform <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf) - M. Urbina and R. Obermaisser,  In Proc. of the 7th GMM-Symposium on Automotive meets Electronics (AmE 2016). Dortmund, Germany, 2016
-- [Multi-core architecture for AUTOSAR based on virtual Electronic Control Units <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf) - M. Urbina and R. Obermaisser, In Proc. of the 20th IEEE Conference on Emerging Technologies & Factory Automation (ETFA). Luxembourg, Luxembourg, 2015
-- [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR ECUs <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf) - M. Urbina, Z. Owda and R. Obermaisser, In Proc. of the IEEE International Conference on Computer and Information Technology (CIT). Liverpool, United Kingdom, 2015
+- [Achievements and exploitation of the AUTOSAR development partnership <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Achievements%20and%20exploitation%20of%20the%20%20%20AUTOSAR%20development%20partnership.pdf) - Helmut Fennel, Stefan Bunzel, +21 authors, 2006
+- [AUTomotive Open System ARchitecture – An industry-wide initiative to manage the complexity of emerging Automotive E/E-Architectures <img src="media/icons/pdf.png" height="18"/>](http://www.dii.unimo.it/~zanasi/didattica/Veicolo_OLD/AUTOSAR_Paper_Convergence_2004.pdf) - Heinecke, Harald , 2004 
+- [AUTOSAR Software Architecture <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/b834/d611b20ba32f1cf7be3097f56449c4c350e4.pdf?_ga=2.64870191.1632464626.1590175047-1154219747.1586112696) - Robert Warschofsky, 2009
+- [AUTOSAR Runtime Environment and Virtual Function Bus <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/5f71/5e1b0192706de045b7d167b02441b90c2cbd.pdf?_ga=2.107492994.1632464626.1590175047-1154219747.1586112696) - N. A. Naumann, 2009
+- [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-pdp-2017.pdf) - M. Urbina and R. Obermaisser, 2017
+- [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf) - H. Ahmadian and R. Obermaisser, 2018
+- [How timing interfaces in AUTOSAR can improve distributed development of real-time software <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/How%20Timing%20Interfaces%20in%20AUTOSAR%20can%20Improve%20%20Distributed%20Development%20of%20Real-Time%20Software.pdf) - Oliver Scheickl, Michael Rudorfer, Christoph Ainhauser, Nico Feiertag, Kai Richter, 2008
+- [Multi-core architecture for AUTOSAR based on virtual Electronic Control Units <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf) - M. Urbina and R. Obermaisser, 2015
+- [Methodology and Templates in AUTOSAR <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/235d/35baee4cdea3033492625d96bdc32a51813e.pdf?_ga=2.70596240.1632464626.1590175047-1154219747.1586112696) - Regina Hebig, 2009
 
 ## Automotive SPICE
 
@@ -155,6 +150,8 @@
 - [Matrickz podcasts <img src="media/icons/podcast.png" height="18"/>](https://www.matrickz.de/en/podcasts.html) - From Matrickz mainly related to ASPICE, Security and ISO26262.
 - [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - From National Instruments, white paper.
 - [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" height="18"/>](https://web1.see.asso.fr/erts2012/Site/0P2RUC89/1A-1.pdf) - From ERTS2 Congress. Embedded Real Time Software and Systems.
+- [Tools and Methods for Validation and Verification as requested by ISO26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.1932&rep=rep1&type=pdf) - Markus Gebhardt , Axel Kaske , Etas Gmbh
+- [A Reference Example on the Specification of Safety Requirements using ISO 26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.372.2716&rep=rep1&type=pdf) - Jonas Westman , Mattias Nyberg, 2013
 
 
 ## Cyber Security
@@ -180,6 +177,7 @@ Vector Informatik GmbH, 2016.
 - [ISO 13400-2:2012 <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf) - Road vehicles - Diagnostic communication over Internet Protoco (DoIP).
 - [Information Posters](https://automotive.softing.com/en/service/order-of-information-poster.html) - From Softing Automotive about UDS, ODX, OTX, DoIP.
 - [Diagnostics and Flashing <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFZ0ueLgYRZfSa6l-eTcwBh) - From official Vector Informatik YouTube channel, more [here](https://vctr.it/2B8hbJh).
+- [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/UsageofAUTOSARDiagnosticModulesinaMOSTElectronicControlUnit.pdf) - Paul Hoser, MOST Forum 2008, 	Stuttgart, September 2008
 
 ## Software Development Process
 ### Requirements
@@ -206,20 +204,27 @@ Vector Informatik GmbH, 2016.
 ### Implementation
 <div><sup>Code</sup></div>
 
-- [Guidelines for the use of the C++14 language in critical and safety-related systems <img src="media/icons/pdf.png" height="18"/>](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-03/AUTOSAR_RS_CPP14Guidelines.pdf) - AUTOSAR standard.
 - [Driving Into the Future With Modern C++: A Look at Adaptive Autosar <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=YzyGgZ_RClw&feature=emb_title) - From CppCon 2017, Jan Babst.
-- [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=F4GzsA00s5I) - From CppCon, Michael Wong.
-- [Safe Software for Autonomous Mobility With Modern C++ <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=5WbdLUc9Jls) - From CppCon, Andreas Pasternak.
+- [Guidelines for the use of the C++14 language in critical and safety-related systems <img src="media/icons/pdf.png" height="18"/>](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-03/AUTOSAR_RS_CPP14Guidelines.pdf) - AUTOSAR standard.
 - [MISRA](https://www.misra.org.uk/Publications/tabid/57/Default.aspx) - Publications from world-leading best practice guidelines for the safe and secure application.
 - [Modern Embedded Systems Programming <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - Series of hands-on lessons about embedded microcontrollers in C.
+- [Safe Software for Autonomous Mobility With Modern C++ <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=5WbdLUc9Jls) - From CppCon, Andreas Pasternak.
 - [SEI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - Languages such as C, C++, Java, and Perl, and the Android™ platform.
+- [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=F4GzsA00s5I) - From CppCon, Michael Wong.
 - [Awesome C <img src="media/icons/awesome.png" height="14"/>](https://github.com/aleksandar-todorovic/awesome-c)
 - [Awesome C++ <img src="media/icons/awesome.png" height="14"/>](https://github.com/fffaraz/awesome-cpp#readme)
 - [Awesome Embedded <img src="media/icons/awesome.png" height="14"/>](https://github.com/nhivp/Awesome-Embedded)
 
 <div><sup>Configuration</sup></div>
 
+- [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core Platform <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf) - M. Urbina and R. Obermaisser, 2016
+- [Co-simulation framework for AUTOSAR multi-core processors with message-based Network-on-Chips <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-indin-2016.pdf) - M. Urbina, H. Ahmadian and R. Obermaisser, 2016
+- [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Automotive%20Real%20Time%20Development%20Using%20a%20Timing-augmented%20%20AUTOSAR%20Specification.pdf) - Oliver Scheickl, Michael Rudorfer, ERTS EMBEDDED REAL TIME SOFTWARE, Toulouse, January 2008
+- [Artop – An ecosystem approach for collaborative AUTOSAR tool development <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Artop-AnEcosystemApproachforCollaborativeAUTOSARToolDevelopment.pdf) - Christian Knüchel, Michael Rudorfer, Stefan Voget, Stephan Eberle, Romain Sezestre, Aldric Loyer, ERTS 2010, Toulouse, May 2010
+- [Enabling of AUTOSAR system design using Eclipse-based tooling <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Enabling%20of%20AUTOSAR%20system%20design%20using%20Eclipse-based%20tooling.pdf) - 	Harald Heinecke, Michael Rudorfer, Paul Hoser, Christoph Ainhauser, Oliver Scheickl, ERTS 2008, Toulouse, January 2008
 - [EB tresos®Studio documentation  <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf)
+- [Interoperable AUTOSAR tooling with Artop <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Interoperable%20AUTOSAR%20tooling%20with%20Artop.pdf) - Sebastian Benz, Michael Rudorfer, Christian Knuechel, HoPES Workshop, Paris, June 2010
+- [Tool support for seamless system development based on AUTOSAR timing extensions <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/ToolSupportforSeamlessSystemDevelopmentBasedonAUTOSARTimingExtensions.pdf) - Oliver Scheickl, Christoph Ainhauser, Peter Gliwa, ERTS 2012 - Embedded Real Time Software and Systems, Toulouse, February 2012
 - [Awesome MATLAB <img src="media/icons/awesome.png" height="14"/>](https://github.com/mikecroucher/awesome-MATLAB)
 
 <div><sup>Debug</sup></div>
@@ -233,6 +238,7 @@ Vector Informatik GmbH, 2016.
 
 ### Software Test
 
+- [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR ECUs <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf) - M. Urbina, Z. Owda and R. Obermaisser, In Proc. of the IEEE International Conference on Computer and Information Technology (CIT). Liverpool, United Kingdom, 2015
 - [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) - From official Vector Informatik YouTube channel.
 - [TA Tool Suite - Managing the Timing Behavior of AUTOSAR Multi-Core ECUs](https://www.vector.com/int/en/products/products-a-z/software/ta-tool-suite/) - From Vector Informatik.
 - [Runtime Analysis of AUTOSAR Embedded Projects <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=C2NFKwUOpMk&list=PLLUr1-D7UabianTZOBIPKH1sA4M4nKhTw&index=2&t=5767s) - By Florian Sommer and Sebastian Ziegler.
