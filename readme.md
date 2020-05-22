@@ -60,7 +60,7 @@
 <!--lint disable awesome-list-item-->
 ## Autosar
 
-<img align="right" width="200" src="media/icons/autosar.png" alt="Awesome">
+<img align="right" width="200" src="media/icons/autosar.png">
 
 - [AUTOSAR](https://www.autosar.org/) - (**AUT**omotive **O**pen **S**ystem **AR**chitecture) is a worldwide development partnership of vehicle manufacturers, suppliers, service providers and companies from the automotive electronics, semiconductor and software industry.
 
