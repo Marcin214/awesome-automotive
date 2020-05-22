@@ -92,8 +92,10 @@
 
 ## Automotive SPICE
 
+
 - [ASPICE](http://www.automotivespice.com/download/) - Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM).
-- [Automotive SPICE: Ensuring ASPICE Compliance <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL5VAskozuQ3DwQIE3A8dGKWIRKPeNBTCG) - From 321 Gang, Continuous Engineering Experts.
+- [Automotive SPICE: Ensuring ASPICE Compliance <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL5VAskozuQ3DwQIE3A8dGKWIRKPeNBTCG) - 321 Gang, Continuous Engineering Experts.
+- [A Seamless Model-Based Development Process for Automotive Systems <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.600.1988&rep=rep1&type=pdf) - Jan Meyer , Matthias Meyer
 
 ## Autonomous Driving
 - [Awesome Autonomous Driving <img src="media/icons/awesome.png" height="14"/>](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving)
@@ -105,8 +107,8 @@
 
 ### Automotive Ethernet
 
-- [Introduction to Automotive Ethernet](https://elearning.vector.com/mod/page/view.php?id=149) - From Vector Informatik, e-learning module.
-- [Vector Automotive Ethernet Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://elearning.vector.com/mod/page/view.php?id=149) - On 2th of April 2019. In 7 presentations - by Infineon, NXP, TÜV-Nord and Vector - the speakers showed the current status and solutions for the upcoming challenges.
+- [Introduction to Automotive Ethernet](https://elearning.vector.com/mod/page/view.php?id=149) - Vector Informatik, e-learning module.
+- [Vector Automotive Ethernet Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://elearning.vector.com/mod/page/view.php?id=149) -  In 7 presentations - by Infineon, NXP, TÜV-Nord and Vector - the speakers showed the current status and solutions for the upcoming challenges, 2019
 - [A TCP/IP Tutorial <img src="media/icons/student.png" height="18"/>](https://tools.ietf.org/html/rfc1180) - RFC 1180, short overview on ethernet.
 - [Automotive Grade Linux](http://opensig.org/about/specifications/) - Open software stack for the connected car.
 - [OPEN Alliance. "Automotive Ethernet Specifications"](http://opensig.org/about/specifications/)
@@ -123,26 +125,26 @@
 - [Bosch CAN FD specification Version 1.0 <img src="media/icons/pdf.png" height="18"/>](https://web.archive.org/web/20151211125301/http://www.bosch-semiconductors.de/media/ubk_semiconductors/pdf_1/canliteratur/can_fd_spec.pdf)
 - [Controller Area Network (CAN) Schedulability Analysis: Refuted, Revisited and Revised](https://link.springer.com/article/10.1007%2Fs11241-007-9012-7)
 - [Controller Area Network (CAN) Implementation Guide <img src="media/icons/pdf.png" height="18"/>](https://www.analog.com/media/en/technical-documentation/application-notes/AN-1123.pdf)
-- [Introduction to CAN](https://elearning.vector.com/mod/page/view.php?id=333) - From Vector Informatik, e-learning module.
-- [Controller Area Network <img src="media/icons/pdf.png" height="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) - From UC Berkeley, presentation.
-- [Understanding and Using the Controller Area Network <img src="media/icons/pdf.png" height="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) - From UC Berkeley, CAN 2.0b.
-- [CAN Protocol <img src="media/icons/student.png" height="18"/>](https://www.kvaser.com/course/can-protocol-tutorial/) - From Kvaser, tutorial.
-- [CAN magazine](https://can-newsletter.org/magazine) - From CiA publications.
+- [Introduction to CAN](https://elearning.vector.com/mod/page/view.php?id=333) - Vector Informatik, e-learning module.
+- [Controller Area Network <img src="media/icons/pdf.png" height="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) - UC Berkeley, presentation.
+- [Understanding and Using the Controller Area Network <img src="media/icons/pdf.png" height="18"/>](http://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) - UC Berkeley, CAN 2.0b.
+- [CAN Protocol <img src="media/icons/student.png" height="18"/>](https://www.kvaser.com/course/can-protocol-tutorial/) - Kvaser, tutorial.
+- [CAN magazine](https://can-newsletter.org/magazine) - CiA publications.
 
 
 ### FlexRay
 
 - [FlexRay Specification <img src="media/icons/pdf.png" height="18"/>](https://svn.ipd.kit.edu/nlrp/public/FlexRay/FlexRay%E2%84%A2%20Protocol%20Specification%20Version%203.0.1.pdf)
-- [FlexRay Overview](https://www.ni.com/pl-pl/innovations/white-papers/06/flexray-automotive-communication-bus-overview.html) - From National Instruments.
-- [Introduction to FlexRay](https://elearning.vector.com/mod/page/view.php?id=371) - From Vector Informatik, e-learning module.
+- [FlexRay Overview](https://www.ni.com/pl-pl/innovations/white-papers/06/flexray-automotive-communication-bus-overview.html) - National Instruments.
+- [Introduction to FlexRay](https://elearning.vector.com/mod/page/view.php?id=371) - Vector Informatik, e-learning module.
 - [The FlexRay Electrical Physical Layer Evolution <img src="media/icons/pdf.png" height="18"/>](https://web.archive.org/web/20150216112537/http://www.hanser-automotive.de/fileadmin/heftarchiv/FLEX_10_ONL_NXP-Y.pdf) - Lorenz Steffen, magazine Automotive 2010.
 
 
 ### LIN
 
-- [Introduction to LIN](https://elearning.vector.com/mod/page/view.php?id=309) - From Vector Informatik, e-learning module.
+- [Introduction to LIN](https://elearning.vector.com/mod/page/view.php?id=309) - Vector Informatik, e-learning module.
 - [LIN Supplier ID Registration Authority](https://www.lin-cia.org/id/) - Standardized in the ISO 17987 series.
-- [The LIN Short Story <img src="media/icons/pdf.png" height="18"/>](https://www.nxp.com/files-static/training_pdf/29021_S08_SLIN_WBT.pdf) - From NXP Semiconductors.
+- [The LIN Short Story <img src="media/icons/pdf.png" height="18"/>](https://www.nxp.com/files-static/training_pdf/29021_S08_SLIN_WBT.pdf) - NXP Semiconductors.
 
 
 ### MOST
@@ -152,10 +154,10 @@
 ## Functional Safety
 - [ISO 26262-1:2011 Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - ISO Online Browsing Platform (OBP).
 - [IEC 61508-1:2010 <img src="media/icons/github.png" height="18"/>](https://github.com/wangdong412/Consen-SIS/tree/master/IEC61508) - Functional safety of electrical/electronic/programmable electronic safety-related systems.
-- [exida webinars <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - From exida, world’s leading company for certification, safety, alarm management, cybersecurity.
-- [Matrickz podcasts <img src="media/icons/podcast.png" height="18"/>](https://www.matrickz.de/en/podcasts.html) - From Matrickz mainly related to ASPICE, Security and ISO26262.
-- [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - From National Instruments, white paper.
-- [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" height="18"/>](https://web1.see.asso.fr/erts2012/Site/0P2RUC89/1A-1.pdf) - From ERTS2 Congress. Embedded Real Time Software and Systems.
+- [exida <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - Webinars from world’s leading company for certification, safety, alarm management, cybersecurity.
+- [Matrickz <img src="media/icons/podcast.png" height="18"/>](https://www.matrickz.de/en/podcasts.html) - Podcasts mainly related to ASPICE, Security and ISO26262.
+- [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - National Instruments, white paper.
+- [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" height="18"/>](https://web1.see.asso.fr/erts2012/Site/0P2RUC89/1A-1.pdf) - ERTS2 Congress. Embedded Real Time Software and Systems.
 - [Tools and Methods for Validation and Verification as requested by ISO26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.1932&rep=rep1&type=pdf) - Markus Gebhardt , Axel Kaske , Etas Gmbh
 - [A Reference Example on the Specification of Safety Requirements using ISO 26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.372.2716&rep=rep1&type=pdf) - Jonas Westman , Mattias Nyberg, 2013
 
@@ -171,22 +173,26 @@
 - [Awesome Vehicle Security <img src="media/icons/awesome.png" height="14"/>](https://github.com/jaredthecoder/awesome-vehicle-security) - Books, hardware, software, applications, people to follow, car hacking and tinkering. 
 
 ## Measurement and Calibration
-- [ASAM MCD-1 XCP](https://www.asam.net/standards/detail/mcd-1-xcp/wiki/) - From ASAM (Association for Standardisation of Automation and Measuring Systems) website description of the standard.
+- [ASAM MCD-1 XCP](https://www.asam.net/standards/detail/mcd-1-xcp/wiki/) - ASAM (Association for Standardisation of Automation and Measuring Systems) website description of the standard.
 - [XCP – The Standard Protocol for ECU Development <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://assets.vector.com/cms/content/application-areas/ecu-calibration/xcp/XCP_ReferenceBook_V3.0_EN.pdf) - Andreas Patzer, Rainer Zaiser,
 Vector Informatik GmbH, 2016.
-- [XCP fundamentals: measuring, calibrating and bypassing based on the ASAM standard <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=Fo3S3vKn1dk) - From official Vector Informatik YouTube channel.
+- [XCP fundamentals: measuring, calibrating and bypassing based on the ASAM standard <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=Fo3S3vKn1dk) - Official Vector Informatik YouTube channel.
 
 
 ## Vehicle Diagnostics
 
 - [ISO 14229-1:2006 <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf) - Unified Diagnostic Services (UDS) specification, superseded by the standard [ISO 14229-1:2013](https://www.iso.org/standard/55283.html).
 - [ISO 13400-2:2012 <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf) - Road vehicles - Diagnostic communication over Internet Protoco (DoIP).
-- [Information Posters](https://automotive.softing.com/en/service/order-of-information-poster.html) - From Softing Automotive about UDS, ODX, OTX, DoIP.
-- [Diagnostics and Flashing <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFZ0ueLgYRZfSa6l-eTcwBh) - From official Vector Informatik YouTube channel, more [here](https://vctr.it/2B8hbJh).
-- [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/UsageofAUTOSARDiagnosticModulesinaMOSTElectronicControlUnit.pdf) - Paul Hoser, MOST Forum 2008, 	Stuttgart, September 2008
+- [Information Posters](https://automotive.softing.com/en/service/order-of-information-poster.html) - Softing Automotive, about UDS, ODX, OTX, DoIP.
+- [Diagnostics and Flashing <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFZ0ueLgYRZfSa6l-eTcwBh) - Official Vector Informatik YouTube channel, more [here](https://vctr.it/2B8hbJh).
+- [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/UsageofAUTOSARDiagnosticModulesinaMOSTElectronicControlUnit.pdf) - Paul Hoser, 2008
+- [Remote Vehicle Diagnostics over the Internet using the DoIP Protocol <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.5332&rep=rep1&type=pdf) - Mathias Johanson , Pål Dahle , Andreas Söderberg
 
 ## Software Development Process
 ### Requirements
+
+- [Requirements Engineering in Automotive Development: Experiences and Challenges <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.1707&rep=rep1&type=pdf) - Matthias Weber , Joachim Weisbrod, 2002
+
 <div><sup>Polarion Software</sup></div>
 
 - [Polarion Tutorial Videoss <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://polarion.plm.automation.siemens.com/tutorials) - From tool vendor - Siemens Industry Software.
@@ -201,6 +207,11 @@ Vector Informatik GmbH, 2016.
 - [Using DXL](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.configuring.doc/topics/c_dxl.html) - The Rational® DOORS® eXtension Language (DXL) is an easy-to-learn scripting language that you can use to control and extend Rational DOORS functions.
 - [The DXL Reference Manual](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.requirements.doc/topics/dxl_reference_manual.pdf?view=kc)
 
+<div><sup>SysML</sup></div>
+
+- [SysML for embedded automotive Systems : a practical approach <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/732a/11ca70fb34e05e47276500594c48f83e93d7.pdf?_ga=2.233208222.1632464626.1590175047-1154219747.1586112696) - E. Andrianarison, J-D. Piques, 2010
+- [SysML for embedded automotive Systems: lessons lear ned <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/8b50/8115cf085b6ec71c32bba83c553801ac8985.pdf?_ga=2.228990748.1632464626.1590175047-1154219747.1586112696) - J-D. Piques, E. Andrianarison, 2011
+- [Model synchronization at work: keeping SysML and AUTOSAR models consistent <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.455.7330&rep=rep1&type=pdf) - Holger Giese , Stephan Hildebr , Stefan Neumann, 2010
 
 ### Design
 
@@ -208,6 +219,9 @@ Vector Informatik GmbH, 2016.
 - [Awesome Software Architecture <img src="media/icons/awesome.png" height="14"/>](https://github.com/simskij/awesome-software-architecture)
 
 ### Implementation
+
+- [Software engineering for automotive systems: A roadmap <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6142&rep=rep1&type=pdf) - Alexander Pretschner , Manfred Broy , Ingolf H. Krüger , Thomas Stauner, 2007
+
 <div><sup>Code</sup></div>
 
 - [Driving Into the Future With Modern C++: A Look at Adaptive Autosar <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=YzyGgZ_RClw&feature=emb_title) - From CppCon 2017, Jan Babst.
