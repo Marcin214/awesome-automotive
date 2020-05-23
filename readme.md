@@ -203,6 +203,7 @@ Vector Informatik GmbH, 2016.
 <div><sup>Rational DOORS</sup></div>
 
 - [Getting started <img src="media/icons/student.png" height="18"/>](https://www.ibm.com/developerworks/rational/library/getting-started-ibm-rational-doors/index.html) - Tutorial for IBM Rational DOORS and IBM Rational DOORS Web Access.
+- [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Automotive%20Real%20Time%20Development%20Using%20a%20Timing-augmented%20%20AUTOSAR%20Specification.pdf) - Oliver Scheickl, Michael Rudorfer, 2008
 - [Documentation](https://www.ibm.com/support/pages/node/594725) - Library pages contain documentation for earlier versions of Rational products.
 - [Essentials <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLFB5C518530CFEC93) - Hands-on examples.
 - [IBM Rational Rhapsody tips and tricks <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLaBR7gZA1IOjxthOjpG3aAKeyRt04Wlhd) - Hands-on examples.
@@ -213,6 +214,7 @@ Vector Informatik GmbH, 2016.
 
 <div><sup>General</sup></div>
 
+- [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core Platform <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf) - M. Urbina and R. Obermaisser, 2016
 - [Enterprise Architect](https://sparxsystems.com/products/ea/) - Official tool vendor Sparx Systems website. Contains demo, tutorials and more.
 - [Awesome Software Architecture <img src="media/icons/awesome.png" height="14"/>](https://github.com/simskij/awesome-software-architecture)
 
@@ -242,24 +244,23 @@ Vector Informatik GmbH, 2016.
 - [Awesome C++ <img src="media/icons/awesome.png" height="14"/>](https://github.com/fffaraz/awesome-cpp#readme)
 - [Awesome Embedded <img src="media/icons/awesome.png" height="14"/>](https://github.com/nhivp/Awesome-Embedded)
 
-<div><sup>Configuration</sup></div>
+<div><sup>Configuration managment</sup></div>
 
-- [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core Platform <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf) - M. Urbina and R. Obermaisser, 2016
+
 - [Co-simulation framework for AUTOSAR multi-core processors with message-based Network-on-Chips <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-indin-2016.pdf) - M. Urbina, H. Ahmadian and R. Obermaisser, 2016
-- [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Automotive%20Real%20Time%20Development%20Using%20a%20Timing-augmented%20%20AUTOSAR%20Specification.pdf) - Oliver Scheickl, Michael Rudorfer, ERTS EMBEDDED REAL TIME SOFTWARE, Toulouse, January 2008
-- [Artop – An ecosystem approach for collaborative AUTOSAR tool development <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Artop-AnEcosystemApproachforCollaborativeAUTOSARToolDevelopment.pdf) - Christian Knüchel, Michael Rudorfer, Stefan Voget, Stephan Eberle, Romain Sezestre, Aldric Loyer, ERTS 2010, Toulouse, May 2010
-- [Enabling of AUTOSAR system design using Eclipse-based tooling <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Enabling%20of%20AUTOSAR%20system%20design%20using%20Eclipse-based%20tooling.pdf) - 	Harald Heinecke, Michael Rudorfer, Paul Hoser, Christoph Ainhauser, Oliver Scheickl, ERTS 2008, Toulouse, January 2008
+- [Artop – An ecosystem approach for collaborative AUTOSAR tool development <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Artop-AnEcosystemApproachforCollaborativeAUTOSARToolDevelopment.pdf) - Christian Knüchel, Michael Rudorfer, Stefan Voget, Stephan Eberle, Romain Sezestre, Aldric Loyer, 2010
+- [Enabling of AUTOSAR system design using Eclipse-based tooling <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Enabling%20of%20AUTOSAR%20system%20design%20using%20Eclipse-based%20tooling.pdf) - Harald Heinecke, Michael Rudorfer, Paul Hoser, Christoph Ainhauser, Oliver Scheickl, 2008
 - [EB tresos®Studio documentation  <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf)
-- [Interoperable AUTOSAR tooling with Artop <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Interoperable%20AUTOSAR%20tooling%20with%20Artop.pdf) - Sebastian Benz, Michael Rudorfer, Christian Knuechel, HoPES Workshop, Paris, June 2010
-- [Tool support for seamless system development based on AUTOSAR timing extensions <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/ToolSupportforSeamlessSystemDevelopmentBasedonAUTOSARTimingExtensions.pdf) - Oliver Scheickl, Christoph Ainhauser, Peter Gliwa, ERTS 2012 - Embedded Real Time Software and Systems, Toulouse, February 2012
+- [Interoperable AUTOSAR tooling with Artop <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Interoperable%20AUTOSAR%20tooling%20with%20Artop.pdf) - Sebastian Benz, Michael Rudorfer, Christian Knuechel, 2010
+- [Tool support for seamless system development based on AUTOSAR timing extensions <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/ToolSupportforSeamlessSystemDevelopmentBasedonAUTOSARTimingExtensions.pdf) - Oliver Scheickl, Christoph Ainhauser, Peter Gliwa, 2012
 - [Awesome MATLAB <img src="media/icons/awesome.png" height="14"/>](https://github.com/mikecroucher/awesome-MATLAB)
 
 <div><sup>Debug</sup></div>
 
 - [MULTI Integrated Development Environment](https://www.ghs.com/products/MULTI_IDE.html)
 - [Trace32 Lauterbach GmbH](https://www.lauterbach.com/frames.html?home.html) - High-tech company for microprocessor development tools. 
-- [Trace32 basic examples of usage <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLlgTI9rjcm35NUgKufepfqgn6Fd4zBe88) - From Lauterbach GmbH. 
-- [Trace32: Debug your embedded systems <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) - From Nohau Solutions.
+- [Trace32 basic examples of usage <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLlgTI9rjcm35NUgKufepfqgn6Fd4zBe88) - Lauterbach GmbH. 
+- [Trace32: Debug your embedded systems <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) - Nohau Solutions.
 - [iSYSTEM AG](https://www.isystem.com/products/id-3rd-party-software-support/autosar.html) - Debugging tools supplier WinIDEA, iC5000 Base Unit, testIDEA.
 
 
