@@ -69,12 +69,6 @@
 
 - [AUTOSAR Technical Overview](https://web.archive.org/web/20161201222022/http://www.autosar.org/about/technical-overview/) - Official AUTOSAR website, 2016.
 - [About AUTomotive Open System ARchitecture](https://www.renesas.com/us/en/solutions/automotive/technology/autosar.html) - Renesas Electronics.
-- [AUTOSAR Development Tools](https://www.renesas.com/us/en/solutions/automotive/manual-softtools.html) - Renesas Electronics, overview on toolset.
-- [Achievements and exploitation of the AUTOSAR development partnership <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Achievements%20and%20exploitation%20of%20the%20%20%20AUTOSAR%20development%20partnership.pdf).
-- [AUTomotive Open System ARchitecture – An industry-wide initiative to manage the complexity of emerging Automotive E/E-Architectures (2004) <img src="media/icons/pdf.png" height="18"/>](http://www.dii.unimo.it/~zanasi/didattica/Veicolo_OLD/AUTOSAR_Paper_Convergence_2004.pdf)
-- [AUTOSAR Runtime Environment and Virtual Function Bus (2009) <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/5f71/5e1b0192706de045b7d167b02441b90c2cbd.pdf?_ga=2.107492994.1632464626.1590175047-1154219747.1586112696)
-- [AUTOSAR Software Architecture (2009)<img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/b834/d611b20ba32f1cf7be3097f56449c4c350e4.pdf?_ga=2.64870191.1632464626.1590175047-1154219747.1586112696)
-- [Methodology and Templates in AUTOSAR (2009) <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/235d/35baee4cdea3033492625d96bdc32a51813e.pdf?_ga=2.70596240.1632464626.1590175047-1154219747.1586112696)
 - [Introduction to Autosar](https://elearning.vector.com/mod/page/view.php?id=437) - Vector Informatik, e-learning module.
 - <details>
   <summary>Suppliers of AUTOSAR standard software - Click to expand <img src="media/icons/warning.png" height="18"/>
@@ -83,23 +77,34 @@
 
 <div><sup>Tools</sup></div>
 
-- [How the concepts of the Automotive standard "AUTOSAR" are realized in new seamless tool-chains <img src="media/icons/pdf.png" height="18"/>](http://web1.see.asso.fr/erts2010/Site/0ANDGY78/Fichier/PAPIERS%20ERTS%202010/ERTS2010_0002_final.pdf)
-- [Tool support for seamless system development based on AUTOSAR timing extensions (2012) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/ToolSupportforSeamlessSystemDevelopmentBasedonAUTOSARTimingExtensions.pdf)
+- [AUTOSAR Development Tools](https://www.renesas.com/us/en/solutions/automotive/manual-softtools.html) - Renesas Electronics, overview on toolset.
 - [Artop](https://www.artop.org/) - The **A**UTOSA**R** **T**ool **P**latform is an implementation of common base functionality for AUTOSAR development tools.
-- [Artop – An ecosystem approach for collaborative AUTOSAR tool development (2010) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Artop-AnEcosystemApproachforCollaborativeAUTOSARToolDevelopment.pdf)
-- [Interoperable AUTOSAR tooling with Artop (2010) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Interoperable%20AUTOSAR%20tooling%20with%20Artop.pdf)
-- [Co-simulation framework for AUTOSAR multi-core processors with message-based Network-on-Chips (2016) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-indin-2016.pdf)
-- [Enabling of AUTOSAR system design using Eclipse-based tooling (2008) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Enabling%20of%20AUTOSAR%20system%20design%20using%20Eclipse-based%20tooling.pdf)
 - [EB tresos®Studio documentation  <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf)
 
+<div><sup>Publications</sup></div>
 
-<div><sup>Other</sup></div>
+- [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor (2018) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf)
+- [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core (2017) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-pdp-2017.pdf)
+- [Co-simulation framework for AUTOSAR multi-core processors with message-based Network-on-Chips (2016) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-indin-2016.pdf)
+- [Multi-core architecture for AUTOSAR based on virtual Electronic Control Units (2015) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf)
+- [Tool support for seamless system development based on AUTOSAR timing extensions (2012) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/ToolSupportforSeamlessSystemDevelopmentBasedonAUTOSARTimingExtensions.pdf)
+- [Artop – An ecosystem approach for collaborative AUTOSAR tool development (2010) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Artop-AnEcosystemApproachforCollaborativeAUTOSARToolDevelopment.pdf)
+- [AUTOSAR Runtime Environment and Virtual Function Bus (2009) <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/5f71/5e1b0192706de045b7d167b02441b90c2cbd.pdf?_ga=2.107492994.1632464626.1590175047-1154219747.1586112696)
+- [AUTOSAR Software Architecture (2009)<img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/b834/d611b20ba32f1cf7be3097f56449c4c350e4.pdf?_ga=2.64870191.1632464626.1590175047-1154219747.1586112696)
+- [Methodology and Templates in AUTOSAR (2009) <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/235d/35baee4cdea3033492625d96bdc32a51813e.pdf?_ga=2.70596240.1632464626.1590175047-1154219747.1586112696)
+- [Interoperable AUTOSAR tooling with Artop (2010) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Interoperable%20AUTOSAR%20tooling%20with%20Artop.pdf)
+- [AUTomotive Open System ARchitecture – An industry-wide initiative to manage the complexity of emerging Automotive E/E-Architectures (2004) <img src="media/icons/pdf.png" height="18"/>](http://www.dii.unimo.it/~zanasi/didattica/Veicolo_OLD/AUTOSAR_Paper_Convergence_2004.pdf)
+- [How timing interfaces in AUTOSAR can improve distributed development of real-time software (2008) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/How%20Timing%20Interfaces%20in%20AUTOSAR%20can%20Improve%20%20Distributed%20Development%20of%20Real-Time%20Software.pdf)
+- [Enabling of AUTOSAR system design using Eclipse-based tooling (2008) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Enabling%20of%20AUTOSAR%20system%20design%20using%20Eclipse-based%20tooling.pdf)
+- [How the concepts of the Automotive standard "AUTOSAR" are realized in new seamless tool-chains <img src="media/icons/pdf.png" height="18"/>](http://web1.see.asso.fr/erts2010/Site/0ANDGY78/Fichier/PAPIERS%20ERTS%202010/ERTS2010_0002_final.pdf)
+- [Achievements and exploitation of the AUTOSAR development partnership <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Achievements%20and%20exploitation%20of%20the%20%20%20AUTOSAR%20development%20partnership.pdf)
+
+<div><sup>Miscellaneous</sup></div>
 
 - [automotive software(OSEK & AUTOSAR) and its tool-chain <img src="media/icons/github.png" height="18"/>](https://github.com/autoas/as)
-- [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core (2017) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-pdp-2017.pdf)
-- [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor (2018) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf)
-- [How timing interfaces in AUTOSAR can improve distributed development of real-time software (2008) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/How%20Timing%20Interfaces%20in%20AUTOSAR%20can%20Improve%20%20Distributed%20Development%20of%20Real-Time%20Software.pdf)
-- [Multi-core architecture for AUTOSAR based on virtual Electronic Control Units (2015) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf)
+- [autosar-framework <img src="media/icons/github.png" height="18"/>](https://github.com/myGiter/autosar-framework) ﻿Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
+
+
 
 ## Automotive SPICE
 
