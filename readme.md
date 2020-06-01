@@ -321,6 +321,7 @@ Vector Informatik GmbH, 2016.
 - [just auto](https://www.just-auto.com/) - Global automotive industry news, data and analysis. Recent information about OEMs and suppliers.
 - [automotivetechis](https://automotivetechis.wordpress.com/) -  From engineer with 10 years in automotive domain.
 - [automotive wiki](https://automotive.wiki/index.php/Main_Page) - From [SCHEID automotive GmbH](https://www.scheid-automotive.com/).
+- [AUTOSAR tutorials](https://autosartutorials.com)
 
 ## Books
 - [Technical Papers on the Development of Embedded Electronics <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/><img src="media/icons/warning.png" height="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf) - Vector Informatik GmbH, 2018
