@@ -60,7 +60,7 @@
 <!--lint disable awesome-list-item-->
 ## Autosar
 
-<img align="right" width="290" src="media/collage_02.png">
+<img align="right" width="300" src="media/autosar.png">
 
 - [AUTOSAR](https://www.autosar.org/) - (**AUT**omotive **O**pen **S**ystem **AR**chitecture) is a worldwide development partnership of vehicle manufacturers, suppliers, service providers and companies from the automotive electronics, semiconductor and software industry.
 
@@ -101,9 +101,9 @@
 
 <div><sup>Miscellaneous</sup></div>
 
-- [automotive software(OSEK & AUTOSAR) and its tool-chain <img src="media/icons/github.png" height="18"/>](https://github.com/autoas/as)
-- [autosar-framework <img src="media/icons/github.png" height="18"/>](https://github.com/myGiter/autosar-framework) ﻿Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
-
+- [as <img src="media/icons/github.png" height="18"/>](https://github.com/autoas/as) - automotive software(OSEK & AUTOSAR) and its tool-chain [here](http://autoas.github.io/as/).
+- [autosar-framework <img src="media/icons/github.png" height="18"/>](https://github.com/myGiter/autosar-framework) - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
+- [autosar <img src="media/icons/github.png" height="18"/>](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files.
 
 
 ## Automotive SPICE
@@ -301,9 +301,10 @@ Vector Informatik GmbH, 2016.
 
 <div><sup>Timing analysis</sup></div>
 
+- [GLIWA](https://www.gliwa.com/) - Worldwide leading provider for timing related analysis, optimization and verification of embedded software, [resources](https://www.gliwa.com/index.php?page=papers&lang=eng).
 - [Timing Simulation of Interconnected AUTOSAR Software-Components <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.659.7962&rep=rep1&type=pdf) - Unknown Authors
 - [Runtime Analysis of AUTOSAR Embedded Projects <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=C2NFKwUOpMk&list=PLLUr1-D7UabianTZOBIPKH1sA4M4nKhTw&index=2&t=5767s) - Florian Sommer, Sebastian Ziegler.
-- [TA Tool Suite - Managing the Timing Behavior of AUTOSAR Multi-Core ECUs](https://www.vector.com/int/en/products/products-a-z/software/ta-tool-suite/) - From Vector Informatik.
+- [TA Tool Suite - Managing the Timing Behavior of AUTOSAR Multi-Core ECUs](https://www.vector.com/int/en/products/products-a-z/software/ta-tool-suite/) - Vector Informatik.
 
 ### Functional Test
 
