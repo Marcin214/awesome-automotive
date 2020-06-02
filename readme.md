@@ -83,21 +83,21 @@
 
 <div><sup>Publications</sup></div>
 
-- [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor (2018) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf)
-- [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core (2017) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-pdp-2017.pdf)
-- [Co-simulation framework for AUTOSAR multi-core processors with message-based Network-on-Chips (2016) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-indin-2016.pdf)
-- [Multi-core architecture for AUTOSAR based on virtual Electronic Control Units (2015) <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf)
-- [Tool support for seamless system development based on AUTOSAR timing extensions (2012) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/ToolSupportforSeamlessSystemDevelopmentBasedonAUTOSARTimingExtensions.pdf)
-- [Artop – An ecosystem approach for collaborative AUTOSAR tool development (2010) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Artop-AnEcosystemApproachforCollaborativeAUTOSARToolDevelopment.pdf)
-- [AUTOSAR Runtime Environment and Virtual Function Bus (2009) <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/5f71/5e1b0192706de045b7d167b02441b90c2cbd.pdf?_ga=2.107492994.1632464626.1590175047-1154219747.1586112696)
-- [AUTOSAR Software Architecture (2009)<img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/b834/d611b20ba32f1cf7be3097f56449c4c350e4.pdf?_ga=2.64870191.1632464626.1590175047-1154219747.1586112696)
-- [Methodology and Templates in AUTOSAR (2009) <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/235d/35baee4cdea3033492625d96bdc32a51813e.pdf?_ga=2.70596240.1632464626.1590175047-1154219747.1586112696)
-- [Interoperable AUTOSAR tooling with Artop (2010) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Interoperable%20AUTOSAR%20tooling%20with%20Artop.pdf)
-- [AUTomotive Open System ARchitecture – An industry-wide initiative to manage the complexity of emerging Automotive E/E-Architectures (2004) <img src="media/icons/pdf.png" height="18"/>](http://www.dii.unimo.it/~zanasi/didattica/Veicolo_OLD/AUTOSAR_Paper_Convergence_2004.pdf)
-- [How timing interfaces in AUTOSAR can improve distributed development of real-time software (2008) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/How%20Timing%20Interfaces%20in%20AUTOSAR%20can%20Improve%20%20Distributed%20Development%20of%20Real-Time%20Software.pdf)
-- [Enabling of AUTOSAR system design using Eclipse-based tooling (2008) <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Enabling%20of%20AUTOSAR%20system%20design%20using%20Eclipse-based%20tooling.pdf)
-- [How the concepts of the Automotive standard "AUTOSAR" are realized in new seamless tool-chains <img src="media/icons/pdf.png" height="18"/>](http://web1.see.asso.fr/erts2010/Site/0ANDGY78/Fichier/PAPIERS%20ERTS%202010/ERTS2010_0002_final.pdf)
-- [Achievements and exploitation of the AUTOSAR development partnership <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Achievements%20and%20exploitation%20of%20the%20%20%20AUTOSAR%20development%20partnership.pdf)
+- [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf) - H. Ahmadian, R. Obermaisser, 2018.
+- [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-pdp-2017.pdf) - 2017.
+- [Co-simulation framework for AUTOSAR multi-core processors with message-based Network-on-Chips <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-indin-2016.pdf) - M. Urbina, R. Obermaisser, 2016.
+- [Multi-core architecture for AUTOSAR based on virtual Electronic Control Units <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf) - M. Urbina, R. Obermaisser, 2015.
+- [Tool support for seamless system development based on AUTOSAR timing extensions <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/04c8/ba5319986e246f96df2be8307eb09bd1690f.pdf?_ga=2.65429098.519889738.1591091523-1154219747.1586112696) - Oliver Scheickl, Christoph Ainhauser, Peter Gliwa, 2012.
+- [Artop – An ecosystem approach for collaborative AUTOSAR tool development <img src="media/icons/pdf.png" height="18"/>](https://hal.archives-ouvertes.fr/hal-02267845/document) - Christian Knüchel, +5 authors, 2010.
+- [AUTOSAR Runtime Environment and Virtual Function Bus <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/5f71/5e1b0192706de045b7d167b02441b90c2cbd.pdf?_ga=2.107492994.1632464626.1590175047-1154219747.1586112696) - N. A. Naumann, 2009.
+- [AUTOSAR Software Architecture <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/b834/d611b20ba32f1cf7be3097f56449c4c350e4.pdf?_ga=2.64870191.1632464626.1590175047-1154219747.1586112696) - Robert Warschofsky, 2009.
+- [Methodology and Templates in AUTOSAR <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/235d/35baee4cdea3033492625d96bdc32a51813e.pdf?_ga=2.70596240.1632464626.1590175047-1154219747.1586112696) - Regina Hebig, 2009.
+- [Interoperable AUTOSAR tooling with Artop <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/aef4/8c42d5252dbacb0aebd4491bb866289b8013.pdf?_ga=2.52826860.519889738.1591091523-1154219747.1586112696) - Sebastian Benz, Michael Rudorfer, Christian Knuechel, 2010.
+- [AUTomotive Open System ARchitecture – An industry-wide initiative to manage the complexity of emerging Automotive E/E-Architectures <img src="media/icons/pdf.png" height="18"/>](http://www.dii.unimo.it/~zanasi/didattica/Veicolo_OLD/AUTOSAR_Paper_Convergence_2004.pdf) - 2004.
+- [How timing interfaces in AUTOSAR can improve distributed development of real-time software <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/1dfb/79ea35a11a96ee199ec3017cf14513fa8aaa.pdf?_ga=2.223182175.519889738.1591091523-1154219747.1586112696) - Kai Richter, +4 authors, 2008.
+- [Enabling of AUTOSAR system design using Eclipse-based tooling <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/98ab/00c6e83cab79e9983785b211b15f5c350ded.pdf?_ga=2.224811742.519889738.1591091523-1154219747.1586112696) - Oliver Scheickl, +4 authors, 2008.
+- [How the concepts of the Automotive standard "AUTOSAR" are realized in new seamless tool-chains <img src="media/icons/pdf.png" height="18"/>](http://web1.see.asso.fr/erts2010/Site/0ANDGY78/Fichier/PAPIERS%20ERTS%202010/ERTS2010_0002_final.pdf) - Dr. Stefan Voget, P. Favrais.
+- [Achievements and exploitation of the AUTOSAR development partnership <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.5164&rep=rep1&type=pdf) - H Fennel, +23 authors, 2006.
 
 <div><sup>Miscellaneous</sup></div>
 
@@ -126,7 +126,7 @@
 - [Introduction to Automotive Ethernet](https://elearning.vector.com/mod/page/view.php?id=149) - Vector Informatik, e-learning module.
 - [Vector Automotive Ethernet Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://elearning.vector.com/mod/page/view.php?id=149) -  In 7 presentations - by Infineon, NXP, TÜV-Nord and Vector - the speakers showed the current status and solutions for the upcoming challenges, 2019
 - [A TCP/IP Tutorial <img src="media/icons/student.png" height="18"/>](https://tools.ietf.org/html/rfc1180) - RFC 1180, short overview on ethernet.
-- [Automotive Grade Linux](http://opensig.org/about/specifications/) - Open software stack for the connected car.
+- [Automotive Grade Linux](https://www.automotivelinux.org/) - Open source ethernet stack for automotive.
 - [OPEN Alliance. "Automotive Ethernet Specifications"](http://opensig.org/about/specifications/)
 - [SOME/IP specification](http://some-ip.com/papers.shtml)
 - [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) - Introduction to SOME/IP based on GENIVI implementation.
@@ -171,7 +171,7 @@
 ## Functional Safety
 - [ISO 26262-1:2011 Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - ISO Online Browsing Platform (OBP).
 - [IEC 61508-1:2010 <img src="media/icons/github.png" height="18"/>](https://github.com/wangdong412/Consen-SIS/tree/master/IEC61508) - Functional safety of electrical/electronic/programmable electronic safety-related systems.
-- [exida <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - Webinars from world’s leading company for certification, safety, alarm management, cybersecurity.
+- [exida <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - Webinars from worlds leading company for certification, safety, alarm management, cybersecurity.
 - [Matrickz <img src="media/icons/podcast.png" height="18"/>](https://www.matrickz.de/en/podcasts.html) - Podcasts mainly related to ASPICE, Security and ISO26262.
 - [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - National Instruments, white paper.
 - [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" height="18"/>](https://web1.see.asso.fr/erts2012/Site/0P2RUC89/1A-1.pdf) - ERTS2 Congress.
@@ -187,7 +187,7 @@
 - [Vector Cybersecurity Symposium 2016: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHdtX4Vmw8n8DBFuDlmQCQy) - From official Vector Informatik YouTube channel. On 23rd June 2016.
 - [Vector Cybersecurity Symposium 2017: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJGvyWfoPaTMw0QN3306wTPm) - From official Vector Informatik YouTube channel.
 - [Vector Cybersecurity Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHxvK3v0sRYO9Kpnpb-Thz9) - From official Vector Informatik YouTube channel. On April 3rd 2019.
-- [Vehicle Control Unit Security using Open Source AUTOSAR <img src="media/icons/pdf.png" height="18"/>](http://publications.lib.chalmers.se/records/fulltext/219822/219822.pdf) - Master’s Thesis in Software Engineering.
+- [Vehicle Control Unit Security using Open Source AUTOSAR <img src="media/icons/pdf.png" height="18"/>](http://publications.lib.chalmers.se/records/fulltext/219822/219822.pdf) - Masters Thesis in Software Engineering.
 - [Awesome Vehicle Security <img src="media/icons/awesome.png" height="14"/>](https://github.com/jaredthecoder/awesome-vehicle-security) - Books, hardware, software, applications, people to follow, car hacking and tinkering. 
 
 ## Measurement and Calibration
@@ -203,8 +203,9 @@ Vector Informatik GmbH, 2016.
 - [ISO 13400-2:2012 <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf) - Road vehicles - Diagnostic communication over Internet Protoco (DoIP).
 - [Information Posters](https://automotive.softing.com/en/service/order-of-information-poster.html) - Softing Automotive, about UDS, ODX, OTX, DoIP.
 - [Diagnostics and Flashing <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFZ0ueLgYRZfSa6l-eTcwBh) - Official Vector Informatik YouTube channel, more [here](https://vctr.it/2B8hbJh).
-- [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/UsageofAUTOSARDiagnosticModulesinaMOSTElectronicControlUnit.pdf) - Paul Hoser, 2008
-- [Remote Vehicle Diagnostics over the Internet using the DoIP Protocol <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.5332&rep=rep1&type=pdf) - Mathias Johanson , Pål Dahle , Andreas Söderberg
+- [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/85e2/1a2e7778443f7b113b58b9f9ada812959757.pdf?_ga=2.266760778.519889738.1591091523-1154219747.1586112696) - Paul Hoser, 2008.
+- [Unified Diagnostic Services Protocol Implementation in an Engine Control Unit <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/f58e/dbc2c2faf010f03f7fc64798996adc160727.pdf?_ga=2.26818169.519889738.1591091523-1154219747.1586112696) - Panuwat Assawinjaipetch, Michael Heeg, Daniel Gross, Stefan Kowalewski, 2013.
+- [Remote Vehicle Diagnostics over the Internet using the DoIP Protocol <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.5332&rep=rep1&type=pdf) - Mathias Johanson, Pål Dahle, Andreas Söderberg
 
 ## Software Development Process
 ### Requirements
@@ -232,7 +233,7 @@ Vector Informatik GmbH, 2016.
 <div><sup>General</sup></div>
 
 - [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core Platform <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf) - M. Urbina and R. Obermaisser, 2016
-- [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](http://www.bmw-carit.com/downloads/publications/Automotive%20Real%20Time%20Development%20Using%20a%20Timing-augmented%20%20AUTOSAR%20Specification.pdf) - Oliver Scheickl, Michael Rudorfer, 2008
+- [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/ca8c/6d82300061c0ad31d7717fc00e0875cbd96e.pdf?_ga=2.190666095.519889738.1591091523-1154219747.1586112696) - Oliver Scheickl, Michael Rudorfer, 2008
 - [Enterprise Architect](https://sparxsystems.com/products/ea/) - Official tool vendor Sparx Systems website. Contains demo, tutorials and more.
 - [Awesome Software Architecture <img src="media/icons/awesome.png" height="14"/>](https://github.com/simskij/awesome-software-architecture)
 
