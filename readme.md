@@ -81,7 +81,7 @@
 - [Artop](https://www.artop.org/) - The **A**UTOSA**R** **T**ool **P**latform is an implementation of common base functionality for AUTOSAR development tools.
 - [EB tresos®Studio documentation  <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf)
 
-<div><sup>Publications</sup></div>
+<div><sup>Papers</sup></div>
 
 - [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf) - H. Ahmadian, R. Obermaisser, 2018.
 - [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-pdp-2017.pdf) - 2017.
@@ -175,10 +175,16 @@
 - [Matrickz <img src="media/icons/podcast.png" height="18"/>](https://www.matrickz.de/en/podcasts.html) - Podcasts mainly related to ASPICE, Security and ISO26262.
 - [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - National Instruments, white paper.
 - [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" height="18"/>](https://web1.see.asso.fr/erts2012/Site/0P2RUC89/1A-1.pdf) - ERTS2 Congress.
-- [Tools and Methods for Validation and Verification as requested by ISO26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.1932&rep=rep1&type=pdf) - Markus Gebhardt , Axel Kaske , Etas Gmbh
-- [A Reference Example on the Specification of Safety Requirements using ISO 26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.372.2716&rep=rep1&type=pdf) - Jonas Westman , Mattias Nyberg, 2013
-- [Early Safety Evaluation of Design Decisions in E/E Architecture according to ISO 26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.666.8479&rep=rep1&type=pdf) - Vladimir Rupanov Alois , Technische Universität , Ludger Fiege Michael , Armbruster Gernot , Christian Buckl.
-
+- [Tools and Methods for Validation and Verification as requested by ISO26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.1932&rep=rep1&type=pdf) - Markus Gebhardt, Axel Kaske, 2014.
+- [A Reference Example on the Specification of Safety Requirements using ISO 26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.372.2716&rep=rep1&type=pdf) - Jonas Westman, Mattias Nyberg, 2013.
+- [Early Safety Evaluation of Design Decisions in E/E Architecture according to ISO 26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.666.8479&rep=rep1&type=pdf) - Vladimir Rupanov Alois, +4authors, 2012.
+- [Safety Critical Systems: Challenges and Directions <img src="media/icons/pdf.png" height="18"/>](http://users.encs.concordia.ca/~ymzhang/courses/reliability/ICSE02Knight.pdf) - J.C. Knight, 2002.
+- [A Case Study of Toyota Unintended Acceleration and Software Safety <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - Philip Koopman, and [slides <img src="media/icons/pdf.png" height="18"/>](https://users.ece.cmu.edu/~koopman/pubs/koopman14_toyota_ua_slides.pdf).
+- [Webinar: Results of 2017 Embedded Systems Safety & Security Survey <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=EMrgTOoRARE&feature=youtu.be&t=1) - Barr Group - Software Experts, and list of all [webinars <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLjjaR7ZI1lwO6GqCAgWh003f834InzdUa).
+- [NASA Software Safety Guidebook](https://standards.nasa.gov/standard/nasa/nasa-gb-871913) - NASA, 2004.
+- [Sudden unintended acceleration (SUA)](https://en.wikipedia.org/wiki/Sudden_unintended_acceleration#Sudden_acceleration_in_Toyota_vehicles) - Wikipedia, The US NHTSA estimates 16,000 accidents per year in USA, when drivers intend to apply the brake but mistakenly apply the accelerator.
+- [Talk on safety-critical systems and criticisms of the standards <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=EMrgTOoRARE&feature=youtu.be&t=1) - Professor Martyn Thomas CBE.
+- [Talk on correctness by construction techniques <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=03mUs5NlT6U&feature=youtu.be&t=1) - Professor Martyn Thomas CBE.
 
 ## Cyber Security
 - [Automotive Cybersecurity Overview](https://www.nhtsa.gov/crash-avoidance/automotive-cybersecurity) - From NHTSA (United States Department of Transportation), set of articles.
@@ -324,6 +330,7 @@ Vector Informatik GmbH, 2016.
 - [automotivetechis](https://automotivetechis.wordpress.com/) -  From engineer with 10 years in automotive domain.
 - [automotive wiki](https://automotive.wiki/index.php/Main_Page) - From [SCHEID automotive GmbH](https://www.scheid-automotive.com/).
 - [AUTOSAR tutorials](https://autosartutorials.com)
+- [Small Business Programming](https://smallbusinessprogramming.com/) - A set of great articles on every programmers topic.
 
 ## Books
 - [Technical Papers on the Development of Embedded Electronics <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/><img src="media/icons/warning.png" height="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf) - Vector Informatik GmbH, 2018
