@@ -111,7 +111,7 @@
 
 - [ASPICE](http://www.automotivespice.com/download/) - Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM).
 - [Automotive SPICE: Ensuring ASPICE Compliance <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL5VAskozuQ3DwQIE3A8dGKWIRKPeNBTCG) - 321 Gang, Continuous Engineering Experts.
-- [A Seamless Model-Based Development Process for Automotive Systems <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.600.1988&rep=rep1&type=pdf) - Jan Meyer , Matthias Meyer
+- [A Seamless Model-Based Development Process for Automotive Systems <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.600.1988&rep=rep1&type=pdf) - Jan Meyer, Matthias Meyer, 2011.
 
 ## Autonomous Driving
 - [Awesome Autonomous Driving <img src="media/icons/awesome.png" height="14"/>](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving)
@@ -239,33 +239,33 @@ Vector Informatik GmbH, 2016.
 
 <div><sup>General</sup></div>
 
-- [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core Platform <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf) - M. Urbina and R. Obermaisser, 2016
-- [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/ca8c/6d82300061c0ad31d7717fc00e0875cbd96e.pdf?_ga=2.190666095.519889738.1591091523-1154219747.1586112696) - Oliver Scheickl, Michael Rudorfer, 2008
-- [Enterprise Architect](https://sparxsystems.com/products/ea/) - Official tool vendor Sparx Systems website. Contains demo, tutorials and more.
+- [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core Platform <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf) - M. Urbina and R. Obermaisser, 2016.
+- [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/ca8c/6d82300061c0ad31d7717fc00e0875cbd96e.pdf?_ga=2.190666095.519889738.1591091523-1154219747.1586112696) - O. Scheickl, M. Rudorfer, 2008.
+- [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
 - [Awesome Software Architecture <img src="media/icons/awesome.png" height="14"/>](https://github.com/simskij/awesome-software-architecture)
 
 <div><sup>SysML</sup></div>
 
-- [SysML for embedded automotive Systems : a practical approach <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/732a/11ca70fb34e05e47276500594c48f83e93d7.pdf?_ga=2.233208222.1632464626.1590175047-1154219747.1586112696) - E. Andrianarison, J-D. Piques, 2010
-- [SysML for embedded automotive Systems: lessons lear ned <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/8b50/8115cf085b6ec71c32bba83c553801ac8985.pdf?_ga=2.228990748.1632464626.1590175047-1154219747.1586112696) - J-D. Piques, E. Andrianarison, 2011
-- [Model synchronization at work: keeping SysML and AUTOSAR models consistent <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.455.7330&rep=rep1&type=pdf) - Holger Giese , Stephan Hildebr , Stefan Neumann, 2010
+- [SysML for embedded automotive Systems: lessons lear ned <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/8b50/8115cf085b6ec71c32bba83c553801ac8985.pdf?_ga=2.228990748.1632464626.1590175047-1154219747.1586112696) - J-D. Piques, E. Andrianarison, 2011.
+- [SysML for embedded automotive Systems : a practical approach <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/732a/11ca70fb34e05e47276500594c48f83e93d7.pdf?_ga=2.233208222.1632464626.1590175047-1154219747.1586112696) - E. Andrianarison, J-D. Piques, 2010.
+- [Model synchronization at work: keeping SysML and AUTOSAR models consistent <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.455.7330&rep=rep1&type=pdf) - H. Giese , S. Hildebr , S. Neumann, 2010.
 
 
 ### Implementation
 
 <div><sup>General</sup></div>
 
-- [Software engineering for automotive systems: A roadmap <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6142&rep=rep1&type=pdf) - Alexander Pretschner , Manfred Broy , Ingolf H. Krüger , Thomas Stauner, 2007
+- [Software engineering for automotive systems: A roadmap <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6142&rep=rep1&type=pdf) - Alexander Pretschner, +3authors, 2007.
 
 <div><sup>Code</sup></div>
 
-- [Driving Into the Future With Modern C++: A Look at Adaptive Autosar <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=YzyGgZ_RClw&feature=emb_title) - From CppCon 2017, Jan Babst.
+- [Driving Into the Future With Modern C++: A Look at Adaptive Autosar <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=YzyGgZ_RClw&feature=emb_title) - Jan Babst, CppCon, 2017.
 - [Guidelines for the use of the C++14 language in critical and safety-related systems <img src="media/icons/pdf.png" height="18"/>](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-03/AUTOSAR_RS_CPP14Guidelines.pdf) - AUTOSAR standard.
 - [MISRA](https://www.misra.org.uk/Publications/tabid/57/Default.aspx) - Publications from world-leading best practice guidelines for the safe and secure application.
 - [Modern Embedded Systems Programming <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - Series of hands-on lessons about embedded microcontrollers in C.
-- [Safe Software for Autonomous Mobility With Modern C++ <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=5WbdLUc9Jls) - From CppCon, Andreas Pasternak.
+- [Safe Software for Autonomous Mobility With Modern C++ <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=5WbdLUc9Jls) - Andreas Pasternak, CppCon.
 - [SEI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - Languages such as C, C++, Java, and Perl, and the Android™ platform.
-- [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=F4GzsA00s5I) - From CppCon, Michael Wong.
+- [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=F4GzsA00s5I) - Michael Wong, CppCon.
 - [Awesome C <img src="media/icons/awesome.png" height="14"/>](https://github.com/aleksandar-todorovic/awesome-c)
 - [Awesome C++ <img src="media/icons/awesome.png" height="14"/>](https://github.com/fffaraz/awesome-cpp#readme)
 - [Awesome Embedded <img src="media/icons/awesome.png" height="14"/>](https://github.com/nhivp/Awesome-Embedded)
@@ -285,8 +285,8 @@ Vector Informatik GmbH, 2016.
 
 <div><sup>Genral</sup></div>
 
-- [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR ECUs <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf) - M. Urbina, Z. Owda and R. Obermaisser, 2015
-- [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) - From official Vector Informatik YouTube channel.
+- [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR ECUs <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf) - M. Urbina, Z. Owda, R. Obermaisser, 2015.
+- [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) - Official Vector Informatik YouTube channel.
 - [Awesome Software Quality <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme)
 
 <div><sup>MC/DC</sup></div>
@@ -322,7 +322,7 @@ Vector Informatik GmbH, 2016.
 
 <div><sup>CANoe</sup></div>
 
-- [CANoe: Product Videos <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL9EA087B9E8301D23) - From official Vector Informatik YouTube channel.
+- [CANoe: Product Videos <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL9EA087B9E8301D23) - Official Vector Informatik YouTube channel.
 - [Programming with CAPL <img src="media/icons/pdf.png" height="18"/>](https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf)
 - [Tips and Tricks for the Use of CAPL](https://kb.vector.com/entry/875/) - Three consecutive articles, for all levels of user knowledge [Part One](https://kb.vector.com/upload_551/file/CAPL_1_CANNewsletter_201406_PressArticle_EN.pdf), [Part Two](https://kb.vector.com/upload_551/file/CAPL_2_CANNewsletter_201409_PressArticle_EN.pdf), [Part Three](https://kb.vector.com/upload_551/file/CAPL_3_CANNewsletter_201411_PressArticle_EN.pdf).
 
@@ -382,7 +382,7 @@ Vector Informatik GmbH, 2016.
 - [BMW Car IT](https://www.bmw-carit.de/) - Software company focused on the design and development of software for BMW Group, numbers of publications and other materials.
 - [Vector Support & Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Over 1000 great materials: webinars, articles and more.
 - [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products.
-- [TOP 100 OEM suppliers <img src="media/icons/pdf.png" height="18"/>](https://www.autonews.com/assets/PDF/CA89220617.PDF) - Suplement to Automotive News magazine, June 17 2013
+- [TOP 100 OEM suppliers <img src="media/icons/pdf.png" height="18"/>](https://www.autonews.com/assets/PDF/CA89220617.PDF) - Suplement to Automotive News magazine, 2013.
 - [Awesome Indexed <img src="media/icons/awesome.png" height="14"/><img src="media/icons/search.png" height="18"/>](https://awesome-indexed.mathew-davies.co.uk/) - Search the Awesome dataset.
 - [Awesome Search <img src="media/icons/awesome.png" height="14"/><img src="media/icons/search.png" height="18"/>](https://awesomelists.top/) - Quick search for Awesome lists.
 <!--lint enable awesome-list-item-->
