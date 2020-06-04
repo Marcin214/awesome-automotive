@@ -84,20 +84,19 @@
 <div><sup>Papers</sup></div>
 
 - [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf) - H. Ahmadian, R. Obermaisser, 2018.
-- [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-pdp-2017.pdf) - 2017.
+- [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-pdp-2017.pdf) -M.Urbina, R. Obermaisser, 2017.
 - [Co-simulation framework for AUTOSAR multi-core processors with message-based Network-on-Chips <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-indin-2016.pdf) - M. Urbina, R. Obermaisser, 2016.
 - [Multi-core architecture for AUTOSAR based on virtual Electronic Control Units <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf) - M. Urbina, R. Obermaisser, 2015.
-- [Tool support for seamless system development based on AUTOSAR timing extensions <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/04c8/ba5319986e246f96df2be8307eb09bd1690f.pdf?_ga=2.65429098.519889738.1591091523-1154219747.1586112696) - Oliver Scheickl, Christoph Ainhauser, Peter Gliwa, 2012.
 - [Artop – An ecosystem approach for collaborative AUTOSAR tool development <img src="media/icons/pdf.png" height="18"/>](https://hal.archives-ouvertes.fr/hal-02267845/document) - Christian Knüchel, +5 authors, 2010.
+- [Interoperable AUTOSAR tooling with Artop <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/aef4/8c42d5252dbacb0aebd4491bb866289b8013.pdf?_ga=2.52826860.519889738.1591091523-1154219747.1586112696) - Sebastian Benz, Michael Rudorfer, Christian Knuechel, 2010.
+- [How the concepts of the Automotive standard "AUTOSAR" are realized in new seamless tool-chains <img src="media/icons/pdf.png" height="18"/>](http://web1.see.asso.fr/erts2010/Site/0ANDGY78/Fichier/PAPIERS%20ERTS%202010/ERTS2010_0002_final.pdf) - Dr. Stefan Voget, P. Favrais, 2010.
 - [AUTOSAR Runtime Environment and Virtual Function Bus <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/5f71/5e1b0192706de045b7d167b02441b90c2cbd.pdf?_ga=2.107492994.1632464626.1590175047-1154219747.1586112696) - N. A. Naumann, 2009.
 - [AUTOSAR Software Architecture <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/b834/d611b20ba32f1cf7be3097f56449c4c350e4.pdf?_ga=2.64870191.1632464626.1590175047-1154219747.1586112696) - Robert Warschofsky, 2009.
 - [Methodology and Templates in AUTOSAR <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/235d/35baee4cdea3033492625d96bdc32a51813e.pdf?_ga=2.70596240.1632464626.1590175047-1154219747.1586112696) - Regina Hebig, 2009.
-- [Interoperable AUTOSAR tooling with Artop <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/aef4/8c42d5252dbacb0aebd4491bb866289b8013.pdf?_ga=2.52826860.519889738.1591091523-1154219747.1586112696) - Sebastian Benz, Michael Rudorfer, Christian Knuechel, 2010.
-- [AUTomotive Open System ARchitecture – An industry-wide initiative to manage the complexity of emerging Automotive E/E-Architectures <img src="media/icons/pdf.png" height="18"/>](http://www.dii.unimo.it/~zanasi/didattica/Veicolo_OLD/AUTOSAR_Paper_Convergence_2004.pdf) - 2004.
 - [How timing interfaces in AUTOSAR can improve distributed development of real-time software <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/1dfb/79ea35a11a96ee199ec3017cf14513fa8aaa.pdf?_ga=2.223182175.519889738.1591091523-1154219747.1586112696) - Kai Richter, +4 authors, 2008.
 - [Enabling of AUTOSAR system design using Eclipse-based tooling <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/98ab/00c6e83cab79e9983785b211b15f5c350ded.pdf?_ga=2.224811742.519889738.1591091523-1154219747.1586112696) - Oliver Scheickl, +4 authors, 2008.
-- [How the concepts of the Automotive standard "AUTOSAR" are realized in new seamless tool-chains <img src="media/icons/pdf.png" height="18"/>](http://web1.see.asso.fr/erts2010/Site/0ANDGY78/Fichier/PAPIERS%20ERTS%202010/ERTS2010_0002_final.pdf) - Dr. Stefan Voget, P. Favrais.
-- [Achievements and exploitation of the AUTOSAR development partnership <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.5164&rep=rep1&type=pdf) - H Fennel, +23 authors, 2006.
+- [Achievements and exploitation of the AUTOSAR development partnership <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.5164&rep=rep1&type=pdf) - H. Fennel, +23 authors, 2006.
+- [AUTomotive Open System ARchitecture – An industry-wide initiative to manage the complexity of emerging Automotive E/E-Architectures <img src="media/icons/pdf.png" height="18"/>](http://www.dii.unimo.it/~zanasi/didattica/Veicolo_OLD/AUTOSAR_Paper_Convergence_2004.pdf) - Harald Heinecke, +8 authors, 2004.
 
 <div><sup>Miscellaneous</sup></div>
 
@@ -308,9 +307,10 @@
 <div><sup>Timing analysis</sup></div>
 
 - [GLIWA](https://www.gliwa.com/) - Worldwide leading provider for timing analysis, optimization and verification, [resources](https://www.gliwa.com/index.php?page=papers&lang=eng).
-- [Timing Simulation of Interconnected AUTOSAR Software-Components <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.659.7962&rep=rep1&type=pdf) - Unknown Authors
 - [Runtime Analysis of AUTOSAR Embedded Projects <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=C2NFKwUOpMk&list=PLLUr1-D7UabianTZOBIPKH1sA4M4nKhTw&index=2&t=5767s) - Florian Sommer, Sebastian Ziegler.
 - [TA Tool Suite - Managing the Timing Behavior of AUTOSAR Multi-Core ECUs](https://www.vector.com/int/en/products/products-a-z/software/ta-tool-suite/) - Vector Informatik.
+- [Tool support for seamless system development based on AUTOSAR timing extensions <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/04c8/ba5319986e246f96df2be8307eb09bd1690f.pdf?_ga=2.65429098.519889738.1591091523-1154219747.1586112696) - Oliver Scheickl, Christoph Ainhauser, Peter Gliwa, 2012.
+- [Timing Simulation of Interconnected AUTOSAR Software-Components <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.659.7962&rep=rep1&type=pdf) - Matthias Krause, +4 authors, 2007.
 
 ### Functional Test
 
