@@ -182,7 +182,7 @@
 - [A Case Study of Toyota Unintended Acceleration and Software Safety <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - Philip Koopman, and [slides <img src="media/icons/pdf.png" height="18"/>](https://users.ece.cmu.edu/~koopman/pubs/koopman14_toyota_ua_slides.pdf).
 - [Webinar: Results of 2017 Embedded Systems Safety & Security Survey <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=EMrgTOoRARE&feature=youtu.be&t=1) - Barr Group - Software Experts, and list of all [webinars <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLjjaR7ZI1lwO6GqCAgWh003f834InzdUa).
 - [NASA Software Safety Guidebook](https://standards.nasa.gov/standard/nasa/nasa-gb-871913) - NASA, 2004.
-- [Sudden unintended acceleration (SUA)](https://en.wikipedia.org/wiki/Sudden_unintended_acceleration#Sudden_acceleration_in_Toyota_vehicles) - Wikipedia, The US NHTSA estimates 16,000 accidents per year in USA, when drivers intend to apply the brake but mistakenly apply the accelerator.
+- [Sudden unintended acceleration (SUA)](https://en.wikipedia.org/wiki/Sudden_unintended_acceleration#Sudden_acceleration_in_Toyota_vehicles) - Wikipedia, The US NHTSA estimates 16,000 accidents per year in USA !
 - [Talk on safety-critical systems and criticisms of the standards <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=EMrgTOoRARE&feature=youtu.be&t=1) - Professor Martyn Thomas CBE.
 - [Talk on correctness by construction techniques <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=03mUs5NlT6U&feature=youtu.be&t=1) - Professor Martyn Thomas CBE.
 
