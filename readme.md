@@ -250,7 +250,7 @@
 
 
 ### Implementation
-<img align="right" width="350" src="media/line_of_code.png">
+<img align="right" width="350" src="media/line_code.png">
 
 <div><sup>General</sup></div>
 
