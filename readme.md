@@ -168,6 +168,8 @@
 - [MOST Cooperation Website](https://www.mostcooperation.com/) - Technology overview and specifications.
 
 ## Functional Safety
+<img align="right" width="250" src="media/safety.png">
+
 - [ISO 26262-1:2011 Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - ISO Online Browsing Platform (OBP).
 - [IEC 61508-1:2010 <img src="media/icons/github.png" height="18"/>](https://github.com/wangdong412/Consen-SIS/tree/master/IEC61508) - Functional safety of electrical/electronic/programmable electronic safety-related systems.
 - [exida Recorded Webinars <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - exida worlds leading company for certification, safety, alarm management, cybersecurity.
@@ -250,7 +252,7 @@
 
 
 ### Implementation
-<img align="right" width="350" src="media/line_code.png">
+<img align="right" width="400" src="media/line_code.png">
 
 <div><sup>General</sup></div>
 
