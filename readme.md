@@ -33,6 +33,7 @@
 - [Autosar](#autosar)
 - [Automotive SPICE](#automotive-spice)
 - [Autonomous Driving](#autonomous-driving)
+- [Agile](#agile)
 - [Bus Systems](#bus-systems)
   - [Automotive Ethernet](#automotive-ethernet)
   - [CAN](#can)
@@ -115,6 +116,12 @@
 - [Awesome Autonomous Driving <img src="media/icons/awesome.png" height="14"/>](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving)
 - [Awesome Autonomous Vehicles <img src="media/icons/awesome.png" height="14"/>](https://github.com/manfreddiaz/awesome-autonomous-vehicles)
 - [Awesome Self-Driving Cars <img src="media/icons/awesome.png" height="14"/>](https://github.com/philbort/awesome-self-driving-cars)
+
+## Agile
+- [Scaled Agile Framework](https://www.scaledagileframework.com/) - (**SAFe**) is a set of organization and workflow patterns intended to guide enterprises in scaling lean and agile practices.
+- [Agile practices when developing safety systems <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/94ee/8799144ed97fa53aa3c9806e2db68d2cc22e.pdf?_ga=2.230015071.23004512.1592854073-1154219747.1586112696) - Thor Myklebusta, Narve Lyngbya, Tor Stålhanec, 2018.
+- [An Assessment of Avionics Software Development Practice: Justifications for an Agile Development Process <img src="media/icons/pdf.png" height="18"/>](https://link.springer.com/content/pdf/10.1007%2F978-3-319-57633-6_14.pdf) - Geir Kjetil Hanssen, Gosse Wedzinga, Martijn Stuip, 2017.
+- [Scrum , documentation and the IEC 61508-3 : 2010 software standard <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/0819/fc97fac7e95e4f85d905be5f485fba2f5a54.pdf?_ga=2.37078499.23004512.1592854073-1154219747.1586112696) - Thor Myklebust, Tor Stålhaneb, Børge Haugseta, 2014.
 
 
 ## Bus Systems
@@ -355,7 +362,7 @@
 
 ## Podcasts
 
-- [SAE Tomorrow Today <img src="media/icons/podcast.png" height="18"/>](https://www.sae.org/podcasts) - SAE International, provides unique and dynamic perspectives from innovative industry leaders on the challenges of tomorrow.
+- [SAE Tomorrow Today <img src="media/icons/podcast.png" height="18"/>](https://www.sae.org/podcasts) - SAE International, provides unique and dynamic perspectives from innovative industry leaders.
 - [Matrickz TechTalk <img src="media/icons/podcast.png" height="18"/>](https://www.matrickz.de/en/podcasts.html) - Matrickz, about ASPICE, Security and Safety (ISO26262).
 - [Embedded.fm <img src="media/icons/podcast.png" height="18"/>](https://embedded.fm/) - A site dedicated to the many aspects of engineering.
 
