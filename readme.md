@@ -225,6 +225,7 @@
 
 <div><sup>General</sup></div>
 
+- [IEEE Std 1233 <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/4018/ea1263f10052e3197c4d2a866b62fde83167.pdf) - IEEE Guide for Developing System Requirements Specifications, 1998.
 - [Requirements Engineering in Automotive Development: Experiences and Challenges <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.1707&rep=rep1&type=pdf) - M. Weber, J. Weisbrod, 2002.
 
 <div><sup>Polarion Software</sup></div>
@@ -245,6 +246,8 @@
 
 <div><sup>General</sup></div>
 
+- [ISO/IEC/IEEE42010 <img src="media/icons/pdf.png" height="18"/>](https://nanopdf.com/download/iso-iec-ieee-420102011e-systems-and-software-engineering_pdf) - Systems and software engineering — Architecture description, 2011.
+- [IEEE Std 1016 <img src="media/icons/pdf.png" height="18"/>](http://ccftp.scu.edu.cn:8090/Download/b4994628-e3e2-450f-882b-488939cecf30.pdf) - IEEE Recommended Practice for Software Design Descriptions, 1998.
 - [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core Platform <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf) - M. Urbina and R. Obermaisser, 2016.
 - [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/ca8c/6d82300061c0ad31d7717fc00e0875cbd96e.pdf?_ga=2.190666095.519889738.1591091523-1154219747.1586112696) - O. Scheickl, M. Rudorfer, 2008.
 - [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
@@ -262,6 +265,9 @@
 
 <div><sup>General</sup></div>
 
+- [IEEE Std 830 <img src="media/icons/pdf.png" height="18"/>](http://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf) - IEEE Recommended Practice for
+Software Requirements Specifications, 1998.
+- [IEEE Std 730 <img src="media/icons/pdf.png" height="18"/>](http://mazure.fr/attic/IEEE7301989.pdf) - IEEE Standard for Software Quality Assurance Plans, 1998.
 - [Software engineering for automotive systems: A roadmap <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6142&rep=rep1&type=pdf) - Alexander Pretschner, +3authors, 2007.
 
 <div><sup>Code</sup></div>
