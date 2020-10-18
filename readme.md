@@ -122,6 +122,7 @@
 - [Agile practices when developing safety systems <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/94ee/8799144ed97fa53aa3c9806e2db68d2cc22e.pdf?_ga=2.230015071.23004512.1592854073-1154219747.1586112696) - Thor Myklebusta, Narve Lyngbya, Tor Stålhanec, 2018.
 - [An Assessment of Avionics Software Development Practice: Justifications for an Agile Development Process <img src="media/icons/pdf.png" height="18"/>](https://link.springer.com/content/pdf/10.1007%2F978-3-319-57633-6_14.pdf) - Geir Kjetil Hanssen, Gosse Wedzinga, Martijn Stuip, 2017.
 - [Scrum , documentation and the IEC 61508-3 : 2010 software standard <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/0819/fc97fac7e95e4f85d905be5f485fba2f5a54.pdf?_ga=2.37078499.23004512.1592854073-1154219747.1586112696) - Thor Myklebust, Tor Stålhaneb, Børge Haugseta, 2014.
+- [VDA - Agile Collaboration v1.0 Online Document<img src="media/icons/pdf.png" height="18"/>](https://vda-qmc.de/fileadmin/redakteur/Publikationen/Gelbdrucke/VDA_Yellow_Volume_Agile_Collaboration_EN_1_edition_2020.pdf) - This is the free Yellow Print for the Agile Collaboration July 2020.
 
 
 ## Bus Systems
