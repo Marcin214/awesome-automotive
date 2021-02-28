@@ -1,5 +1,4 @@
-# Awesome Automotive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+<!--lint disable awesome-heading-->
 <div align="center">
   <br>
 	<img width="500" src="media/logo/new.svg" alt="Awesome">
@@ -24,8 +23,6 @@
   <hr>
 </div>
 
-
-<!--lint disable list-item-bullet-indent-->
 ## Contents
 
 - [RTOS](#rtos) 
@@ -58,8 +55,8 @@
 - [Press releases](#press-releases)
 - [Videos](#videos)
 - [Miscellaneous](#miscellaneous)
+- [Contribute](#contribute)
 
-<!--lint enable list-item-bullet-indent-->
 <!--lint disable awesome-list-item-->
 
 ## RTOS
@@ -152,7 +149,7 @@
 
 ### Automotive Ethernet
 - [Introduction to Automotive Ethernet](https://elearning.vector.com/mod/page/view.php?id=149) - Vector Informatik, e-learning module.
-- [Vector Automotive Ethernet Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://elearning.vector.com/mod/page/view.php?id=149) -  In 7 presentations - by Infineon, NXP, TÜV-Nord and Vector - the speakers showed the current status and solutions for the upcoming challenges, 2019
+- [Vector Automotive Ethernet Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFaUFtXGcJX72EURLY8PWA9) -  In 7 presentations - by Infineon, NXP, TÜV-Nord and Vector - the speakers showed the current status and solutions for the upcoming challenges, 2019
 - [A TCP/IP Tutorial <img src="media/icons/student.png" height="18"/>](https://tools.ietf.org/html/rfc1180) - RFC 1180, short overview on ethernet.
 - [Automotive Grade Linux](https://www.automotivelinux.org/) - Open source ethernet stack for automotive.
 - [OPEN Alliance. "Automotive Ethernet Specifications"](http://opensig.org/about/specifications/)
@@ -174,7 +171,7 @@
 - [Controller Area Network <img src="media/icons/pdf.png" height="18"/>](https://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus1.pdf) - UC Berkeley, presentation.
 - [Understanding and Using the Controller Area Network <img src="media/icons/pdf.png" height="18"/>](https://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) - UC Berkeley, CAN 2.0b.
 - [CAN Protocol <img src="media/icons/student.png" height="18"/>](https://www.kvaser.com/course/can-protocol-tutorial/) - Kvaser, tutorial.
-- [CAN magazine](https://can-newsletter.org/magazine) - CiA publications.
+- [CAN magazine](https://can-newsletter.org) - CiA publications.
 
 
 ### FlexRay
@@ -200,15 +197,15 @@
 
 - [ISO 26262-1:2011 Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - ISO Online Browsing Platform (OBP).
 - [IEC 61508-1:2010 <img src="media/icons/github.png" height="18"/>](https://github.com/wangdong412/Consen-SIS/tree/master/IEC61508) - Functional safety of electrical/electronic/programmable electronic safety-related systems.
-- [exida Recorded Webinars <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - exida worlds leading company for certification, safety, alarm management, cybersecurity.
-- [Matrickz TechTalk <img src="media/icons/podcast.png" height="18"/>](https://www.matrickz.de/en/podcasts.html) - Matrickz, about ASPICE, Security and Safety (ISO26262).
+- [exida Recorded Webinars <img src="media/icons/video.png" height="18"/>](https://www.exida.com) - exida worlds leading company for certification, safety, alarm management, cybersecurity.
+- [Matrickz](https://www.matrickz.de/en/home.html) - Software development partner in the Automotive specialized in ASPICE, Security and Safety.
 - [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - National Instruments.
 - [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" height="18"/>](http://bricque.free.fr/docs/Publications/ERTS2012_Criticality_categories_across_safety_standards.pdf) - ERTS2 Congress.
 - [A Case Study of Toyota Unintended Acceleration and Software Safety <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - Philip Koopman, and [slides <img src="media/icons/pdf.png" height="18"/>](https://users.ece.cmu.edu/~koopman/pubs/koopman14_toyota_ua_slides.pdf).
 - `2004` [NASA Software Safety Guidebook](https://standards.nasa.gov/standard/nasa/nasa-gb-871913)
 - [Sudden unintended acceleration (SUA)](https://en.wikipedia.org/wiki/Sudden_unintended_acceleration#Sudden_acceleration_in_Toyota_vehicles) - Wikipedia, the US NHTSA estimates 16,000 accidents per year in USA.
 - [Results of 2017 Embedded Systems Safety & Security Survey <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=EMrgTOoRARE&feature=youtu.be&t=1) - Barr Group, list of all [webinars <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLjjaR7ZI1lwO6GqCAgWh003f834InzdUa).
-- [Talk on safety-critical systems and criticisms of the standards <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=EMrgTOoRARE&feature=youtu.be&t=1) - Professor Martyn Thomas CBE.
+- [Talk on safety-critical systems and criticisms of the standards <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=E0igfLcilSk) - Professor Martyn Thomas CBE.
 - [Talk on correctness by construction techniques <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=03mUs5NlT6U&feature=youtu.be&t=1) - Professor Martyn Thomas CBE.
 - [Knowledge Bank of technical articles, presentations and talks](https://www.risktec.tuv.com/knowledge-bank/) - Risktec - TÜV Rheinland.
 - `2014` [Tools and Methods for Validation and Verification as requested by ISO26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.1932&rep=rep1&type=pdf)
@@ -219,15 +216,14 @@
 ## Cyber Security
 - [Automotive Cybersecurity Overview](https://www.nhtsa.gov/crash-avoidance/automotive-cybersecurity) - From NHTSA (United States Department of Transportation), set of articles.
 - [Cyber Security - SIG](https://site.ieee.org/ocs-cssig/?page_id=736) - From IEEE.org, numbers of great resources. 
-- [The Car Hacker's Handbook - A Guide for the Penetration Tester <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://docs.alexomar.com/biblioteca/thecarhackershandbook.pdf) - Craig Smith, 2016.
-- [Vector Cybersecurity Symposium 2016: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHdtX4Vmw8n8DBFuDlmQCQy) - From official Vector Informatik YouTube channel. On 23rd June 2016.
-- [Vector Cybersecurity Symposium 2017: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJGvyWfoPaTMw0QN3306wTPm) - From official Vector Informatik YouTube channel.
-- [Vector Cybersecurity Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHxvK3v0sRYO9Kpnpb-Thz9) - From official Vector Informatik YouTube channel. On April 3rd 2019.
 - [Vehicle Control Unit Security using Open Source AUTOSAR <img src="media/icons/pdf.png" height="18"/>](http://publications.lib.chalmers.se/records/fulltext/219822/219822.pdf) - Masters Thesis in Software Engineering.
+- `2019` [Vector Cybersecurity Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHxvK3v0sRYO9Kpnpb-Thz9) - Vector Informatik.
+- `2017` [Vector Cybersecurity Symposium 2017: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJGvyWfoPaTMw0QN3306wTPm) - Vector Informatik.
+- `2016` [Vector Cybersecurity Symposium 2016: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHdtX4Vmw8n8DBFuDlmQCQy) - Vector Informatik.
 - [Awesome Vehicle Security <img src="media/icons/awesome.png" height="14"/>](https://github.com/jaredthecoder/awesome-vehicle-security) - Books, hardware, software, applications, people to follow, car hacking and tinkering. 
 
 ## Hardware
-- [AEC Component Technical Committee](https://site.ieee.org/ocs-cssig/?page_id=736) - standardization body for establishing standards for reliable, high quality electronic components. Components meeting these specifications are suitable for use in the harsh automotive environment without additional component-level qualification testing. This web site makes available the technical documents developed by the AEC Component Technical Committee. These documents can be downloaded directly.
+- [AEC Component Technical Committee](http://www.aecouncil.com/) - standardization body for establishing standards for reliable, high quality electronic components. Components meeting these specifications are suitable for use in the harsh automotive environment without additional component-level qualification testing. This web site makes available the technical documents developed by the AEC Component Technical Committee. These documents can be downloaded directly.
 
 ## Measurement and Calibration
 - [ASAM MCD-1 XCP](https://www.asam.net/standards/detail/mcd-1-xcp/wiki/) - ASAM (Association for Standardisation of Automation and Measuring Systems) standard description.
@@ -256,7 +252,7 @@
 <div><sup>&nbsp;&nbsp;Polarion Software</sup></div>
 
 - [Polarion Tutorial Videoss <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://polarion.plm.automation.siemens.com/tutorials) - From tool vendor - Siemens Industry Software.
-- [Vector Polarion Connection Utility <img src="media/icons/video.png" height="18"/>](https://elearning.vector.com/mod/page/view.php?id=149) - Add-on tool for Vector vTESTstudio that serves to integrate Siemens Polarion ALM into the Vector testing tool chain.
+- [Vector Polarion Connection Utility <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=_nX4FiX92_A) - Add-on tool for Vector vTESTstudio that serves to integrate Siemens Polarion ALM into the Vector testing tool chain.
 
 <div><sup>&nbsp;&nbsp;Rational DOORS</sup></div>
 
@@ -323,7 +319,7 @@
 
 <div><sup>&nbsp;&nbsp;Genral</sup></div>
 
-- `2015` [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR ECUs <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf)
+- `2015` [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR ECUs <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-cit-2015.pdf)
 - [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) - Official Vector Informatik YouTube channel.
 - [Awesome Software Quality <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme)
 
@@ -334,7 +330,7 @@
 
 <div><sup>&nbsp;&nbsp;Unit test</sup></div>
 
-- [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components, [Artop](https://www.artop.org) sub-project.
+- [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 - [Google Test <img src="media/icons/github.png" height="18"/>](https://github.com/google/googletest) - Google's C++ test framework.
 - [Googletest Mocking (gMock) Framework <img src="media/icons/github.png" height="18"/>](https://github.com/google/googletest/tree/master/googlemock) - Google's framework for writing and using C++ mock classes.
 - [Fake Function Framework (fff) <img src="media/icons/github.png" height="18"/>](https://github.com/meekrosoft/fff) - Micro-framework for creating fake C functions for tests. 
@@ -381,9 +377,8 @@
 - [engineeringbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engineeringbookspdf.com/automobile-engineering/) - Free access to about 150 automotive books.
 - [engbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engbookspdf.com/Automobile/) - Free access to about 35 automotive books.
 - [engbookspdf <img src="media/icons/search.png" height="18"/>](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) - Free access to about 5 automotive books.
-- [eBooks-IT.org <img src="media/icons/search.png" height="18"/>](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) - Online library for IT ebooks.
-- [Free Programming Books <img src="media/icons/awesome.png" height="14"/>](https://github.com/sindresorhus/awesome) 
-- [Free Software Testing Books <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme) 
+- [eBooks-IT.org <img src="media/icons/search.png" height="18"/>](https://ebooks-it.org/) - Online library for IT ebooks.
+- [Free Programming Books <img src="media/icons/awesome.png" height="14"/>](https://github.com/sindresorhus/awesome)
 
 ## Magazines
 
@@ -405,7 +400,7 @@
 - [OPEN Alliance](http://opensig.org/news/press-releases/)
 - [SAE International](https://www.sae.org/news/press-room)
 - [Softing Automotive Electronics GmbH](https://automotive.softing.com/en/service/press-publications/press-releases.html)
-- [Vector Informatik GmbH](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10)
+- [Vector Informatik GmbH](https://www.vector.com/int/en/)
 
 ## Videos
 
