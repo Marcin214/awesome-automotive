@@ -77,7 +77,7 @@
 <div><sup>&nbsp;&nbsp;Tools</sup></div>
 
 - [AUTOSAR Development Tools](https://www.renesas.com/us/en/solutions/automotive/manual-softtools.html) - Renesas Electronics, overview on toolset.
-- [Artop](https://www.artop.org/) - The **A**UTOSA**R** **T**ool **P**latform is an implementation of common base functionality for AUTOSAR development tools.
+- [Artop](https://www.artop.org/) - The **A**UTOSA**R** **T**ool **P**latform is an implementation of development tools for AUTOSAR.
 <!-- DEAD - [EB tresos®Studio documentation  <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf) -->
 
 <div><sup>&nbsp;&nbsp;Papers</sup></div>
@@ -196,9 +196,9 @@
 - [A Case Study of Toyota Unintended Acceleration and Software Safety <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - Philip Koopman, and [slides <img src="media/icons/pdf.png" height="18"/>](https://users.ece.cmu.edu/~koopman/pubs/koopman14_toyota_ua_slides.pdf).
 - [Sudden unintended acceleration (SUA)](https://en.wikipedia.org/wiki/Sudden_unintended_acceleration#Sudden_acceleration_in_Toyota_vehicles) - Wikipedia, the US NHTSA estimates 16,000 accidents per year in USA.
 - [Results of 2017 Embedded Systems Safety & Security Survey <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=EMrgTOoRARE&feature=youtu.be&t=1) - Barr Group, list of all [webinars <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLjjaR7ZI1lwO6GqCAgWh003f834InzdUa).
-- [Talk on safety-critical systems and criticisms of the standards <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=E0igfLcilSk) - Professor Martyn Thomas CBE.
-- [Talk on correctness by construction techniques <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=03mUs5NlT6U&feature=youtu.be&t=1) - Professor Martyn Thomas CBE.
 - [Knowledge Bank of technical articles, presentations and talks](https://www.risktec.tuv.com/knowledge-bank/) - Risktec - TÜV Rheinland.
+- `2017` [Talk on safety-critical systems and criticisms of the standards <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=E0igfLcilSk) - Professor Martyn Thomas CBE.
+- `2017` [Talk on correctness by construction techniques <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=03mUs5NlT6U&feature=youtu.be&t=1) - Professor Martyn Thomas CBE.
 - `2014` [Tools and Methods for Validation and Verification as requested by ISO26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.1932&rep=rep1&type=pdf)
 - `2013` [A Reference Example on the Specification of Safety Requirements using ISO 26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.372.2716&rep=rep1&type=pdf)
 - `2012` [Early Safety Evaluation of Design Decisions in E/E Architecture according to ISO 26262 <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.666.8479&rep=rep1&type=pdf)
@@ -218,7 +218,7 @@
 - [AEC Component Technical Committee](http://www.aecouncil.com/) - standardization body for establishing standards for reliable, high quality electronic components. Components meeting these specifications are suitable for use in the harsh automotive environment without additional component-level qualification testing. This web site makes available the technical documents developed by the AEC Component Technical Committee. These documents can be downloaded directly.
 
 ## Measurement and Calibration
-- [ASAM MCD-1 XCP](https://www.asam.net/standards/detail/mcd-1-xcp/wiki/) - ASAM (Association for Standardisation of Automation and Measuring Systems) standard description.
+- [ASAM MCD-1 XCP](https://www.asam.net/standards/detail/mcd-1-xcp/wiki/) - ASAM (Association for Standardisation of Automation and Measuring Systems) standard.
 - `2017` [XCP fundamentals: measuring, calibrating and bypassing based on the ASAM standard <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=Fo3S3vKn1dk) - Vector Informatik.
 - `2016` [XCP – The Standard Protocol for ECU Development <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://assets.vector.com/cms/content/application-areas/ecu-calibration/xcp/XCP_ReferenceBook_V3.0_EN.pdf)
 
@@ -228,9 +228,9 @@
 - [ISO 13400-2:2012 <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf) - Road vehicles - Diagnostic communication over Internet Protoco (DoIP).-->
 - [Information Posters](https://automotive.softing.com/en/service/order-of-information-poster.html) - Softing Automotive, about UDS, ODX, OTX, DoIP.
 - [Diagnostics and Flashing <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFZ0ueLgYRZfSa6l-eTcwBh) - Official Vector Informatik YouTube channel, more [here](https://vctr.it/2B8hbJh).
-- [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/85e2/1a2e7778443f7b113b58b9f9ada812959757.pdf?_ga=2.266760778.519889738.1591091523-1154219747.1586112696) - Paul Hoser, 2008.
-- [Unified Diagnostic Services Protocol Implementation in an Engine Control Unit <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/f58e/dbc2c2faf010f03f7fc64798996adc160727.pdf?_ga=2.26818169.519889738.1591091523-1154219747.1586112696) - Panuwat Assawinjaipetch, Michael Heeg, Daniel Gross, Stefan Kowalewski, 2013.
-- [Remote Vehicle Diagnostics over the Internet using the DoIP Protocol <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.5332&rep=rep1&type=pdf) - Mathias Johanson, Pål Dahle, Andreas Söderberg
+- `2013` [Unified Diagnostic Services Protocol Implementation in an Engine Control Unit <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/f58e/dbc2c2faf010f03f7fc64798996adc160727.pdf?_ga=2.26818169.519889738.1591091523-1154219747.1586112696)
+- `2011` [Remote Vehicle Diagnostics over the Internet using the DoIP Protocol <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.5332&rep=rep1&type=pdf) 
+- `2008` [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/85e2/1a2e7778443f7b113b58b9f9ada812959757.pdf?_ga=2.266760778.519889738.1591091523-1154219747.1586112696)
 
 ## Software Development Process
 ### Requirements
