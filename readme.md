@@ -28,6 +28,7 @@
 - [RTOS](#rtos) 
   - [Autosar](#autosar)
   - [OSEK/VDX](#osekvdx)
+  - [SafeRTOS](#safertos)
 - [Automotive SPICE](#automotive-spice)
 - [Autonomous Driving](#autonomous-driving)
 - [Agile](#agile)
@@ -125,6 +126,11 @@
 - [PICOS18](https://web.archive.org/web/20120707172307/http://www.picos18.com:80/) - Implementation (GPL license) with support for Microchip PIC18.
 - [Trampoline <img src="media/icons/github.png" height="18"/>](https://github.com/TrampolineRTOS/trampoline) - Implementation (LGPL license).
 - [Trioz OSEK RTOS](https://web.archive.org/web/20101128083753/http://www.trioztech.com/RTOS.htm) - Commercial implementation.
+
+### SafeRTOS
+- [freertos.org](https://www.freertos.org/FreeRTOS-Plus/Safety_Critical_Certified/SafeRTOS.html) - Main page. SafeRTOS is a functional safety, pre-certified RTOS.
+- [FreeRTOS](http://www.aosabook.org/en/freertos.html) - overiview.
+- `2011` [An Introduction to Software Development for Functional Safety on TI Processors <img src="media/icons/pdf.png" height="18"/>](https://web.archive.org/web/20130704175730/http://www.ti.com/lit/wp/spry180/spry180.pdf)
 
 
 ## Automotive SPICE
