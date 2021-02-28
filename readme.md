@@ -30,7 +30,10 @@
 <!--lint disable list-item-bullet-indent-->
 ## Contents
 
-- [Autosar](#autosar)
+- [Contents](#contents)
+- [RTOS](#rtos)
+  - [Autosar](#autosar)
+  - [OSEK/VDX](#osekvdx)
 - [Automotive SPICE](#automotive-spice)
 - [Autonomous Driving](#autonomous-driving)
 - [Agile](#agile)
@@ -42,6 +45,7 @@
   - [MOST](#most)
 - [Functional Safety](#functional-safety)
 - [Cyber Security](#cyber-security)
+- [Hardware](#hardware)
 - [Measurement and Calibration](#measurement-and-calibration)
 - [Vehicle Diagnostics](#vehicle-diagnostics)
 - [Software Development Process](#software-development-process)
@@ -57,14 +61,14 @@
 - [Press releases](#press-releases)
 - [Videos](#videos)
 - [Miscellaneous](#miscellaneous)
+- [Contribute](#contribute)
 <!--lint enable list-item-bullet-indent-->
 <!--lint disable awesome-list-item-->
-## Autosar
 
-<img align="right" width="350" src="media/autosar_architecture.png">
+## RTOS
+### Autosar
 
 - [AUTOSAR](https://www.autosar.org/) - (**AUT**omotive **O**pen **S**ystem **AR**chitecture) is a worldwide development partnership of vehicle manufacturers, suppliers, service providers and companies from the automotive electronics, semiconductor and software industry.
-
 
 <div><sup>Overview</sup></div>
 
@@ -84,7 +88,7 @@
 
 <div><sup>Papers</sup></div>
 
-- [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf) - H. Ahmadian, R. Obermaisser, 2018.
+- `2016` [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf) - H. Ahmadian, R. Obermaisser, 2018.
 - [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-pdp-2017.pdf) -M.Urbina, R. Obermaisser, 2017.
 - [Co-simulation framework for AUTOSAR multi-core processors with message-based Network-on-Chips <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-indin-2016.pdf) - M. Urbina, R. Obermaisser, 2016.
 - [Multi-core architecture for AUTOSAR based on virtual Electronic Control Units <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-etfa-2015.pdf) - M. Urbina, R. Obermaisser, 2015.
@@ -104,6 +108,28 @@
 - [as <img src="media/icons/github.png" height="18"/>](https://github.com/autoas/as) - automotive software(OSEK & AUTOSAR) and its tool-chain [here](http://autoas.github.io/as/).
 - [autosar-framework <img src="media/icons/github.png" height="18"/>](https://github.com/myGiter/autosar-framework) - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
 - [autosar <img src="media/icons/github.png" height="18"/>](https://github.com/cogu/autosar) - A set of python modules for working with AUTOSAR XML files.
+
+### OSEK/VDX
+- [OSEK VDX Portal](https://web.archive.org/web/20160307021413/http://osek-vdx.org/) - down since 2017 due to the working group has been disbanded in favor of AUTOSAR.
+- [OIL <img src="media/icons/pdf.png" height="18"/>](http://trampolinebin.rts-software.org/oil25.pdf) - OSEK Implementation Language, specification version 2.5.
+- [OS <img src="media/icons/pdf.png" height="18"/>](http://trampolinebin.rts-software.org/os223.pdf) - Operating System, specification version 2.2.3.
+- [COM <img src="media/icons/pdf.png" height="18"/>](http://trampolinebin.rts-software.org/OSEKCOM303.pdf) - Communication, specification version 3.0.3.
+- [ORTI A <img src="media/icons/pdf.png" height="18"/>](http://trampolinebin.rts-software.org/orti-a-22.pdf) and [ORTI B <img src="media/icons/pdf.png" height="18"/>](http://trampolinebin.rts-software.org/orti-b-22.pdf) - OSEK Run Time Interface (ORTI), specification version 2.2.
+- [OS Test Plan <img src="media/icons/pdf.png" height="18"/>](http://trampolinebin.rts-software.org/ostestplan20.pdf) - specification version 2.0.
+- [OS Test Procedure <img src="media/icons/pdf.png" height="18"/>](http://trampolinebin.rts-software.org/ostestproc20.pdf)- specification version 2.0.
+- [COM Test Plan <img src="media/icons/pdf.png" height="18"/>](http://trampolinebin.rts-software.org/comtestplan20.pdf)- specification version 2.0.
+- [COM Test Procedure <img src="media/icons/pdf.png" height="18"/>](http://trampolinebin.rts-software.org/comtestproc20.pdf)- specification version 2.0.
+- [Chalandi Amine OSEK 2.2.3 <img src="media/icons/github.png" height="18"/>](https://github.com/Chalandi/OSEK) -  Implementation for ARM Cortex M3.
+- [Elektrobit tresos](https://www.elektrobit.com/products/ecu/eb-tresos/osekcore/) - Commercial implementation of an OSEK RTOS
+- [ERIKA Enterprise](http://www.erika-enterprise.com/) - Royalty free automotive OSEK/VDX certified Hard Real Time Operating System (RTOS)
+- [ev3OSEK <img src="media/icons/github.png" height="18"/>](https://github.com/ev3osek/ev3osek) - Implementation for the Mindstorms EV3 robots.
+- [FreeOSEK <img src="media/icons/github.png" height="18"/>](https://github.com/ciaa/firmware_v1) - Implementation (BSD license).
+- [mKernel ](https://sourceforge.net/projects/mkernel/) - Implementation (GPL license) with Partially OSEK/VDX compliant oil generator supporting only the Microchip PIC18F4550.
+- [nxtOSEK](http://lejos-osek.sourceforge.net/) - Implementation for the Mindstorms NXT robots.
+- [openOSEK](https://sourceforge.net/projects/openosek/) - Implementation (LGPL license).
+- [PICOS18](https://web.archive.org/web/20120707172307/http://www.picos18.com:80/) - Implementation (GPL license) with support for Microchip PIC18.
+- [Trampoline <img src="media/icons/github.png" height="18"/>](https://github.com/TrampolineRTOS/trampoline) - Implementation (LGPL license).
+- [Trioz OSEK RTOS](https://web.archive.org/web/20101128083753/http://www.trioztech.com/RTOS.htm) - Commercial implementation.
 
 
 ## Automotive SPICE
@@ -175,7 +201,6 @@
 - [MOST Cooperation Website](https://www.mostcooperation.com/) - Technology overview and specifications.
 
 ## Functional Safety
-<img align="right" width="250" src="media/safety.png">
 
 - [ISO 26262-1:2011 Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - ISO Online Browsing Platform (OBP).
 - [IEC 61508-1:2010 <img src="media/icons/github.png" height="18"/>](https://github.com/wangdong412/Consen-SIS/tree/master/IEC61508) - Functional safety of electrical/electronic/programmable electronic safety-related systems.
@@ -204,6 +229,9 @@
 - [Vector Cybersecurity Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHxvK3v0sRYO9Kpnpb-Thz9) - From official Vector Informatik YouTube channel. On April 3rd 2019.
 - [Vehicle Control Unit Security using Open Source AUTOSAR <img src="media/icons/pdf.png" height="18"/>](http://publications.lib.chalmers.se/records/fulltext/219822/219822.pdf) - Masters Thesis in Software Engineering.
 - [Awesome Vehicle Security <img src="media/icons/awesome.png" height="14"/>](https://github.com/jaredthecoder/awesome-vehicle-security) - Books, hardware, software, applications, people to follow, car hacking and tinkering. 
+
+## Hardware
+- [AEC Component Technical Committee](https://site.ieee.org/ocs-cssig/?page_id=736) - standardization body for establishing standards for reliable, high quality electronic components. Components meeting these specifications are suitable for use in the harsh automotive environment without additional component-level qualification testing. This web site makes available the technical documents developed by the AEC Component Technical Committee. These documents can be downloaded directly.
 
 ## Measurement and Calibration
 - [ASAM MCD-1 XCP](https://www.asam.net/standards/detail/mcd-1-xcp/wiki/) - ASAM (Association for Standardisation of Automation and Measuring Systems) standard description.
@@ -263,7 +291,6 @@
 
 
 ### Implementation
-<img align="right" width="400" src="media/line_code.png">
 
 <div><sup>General</sup></div>
 
