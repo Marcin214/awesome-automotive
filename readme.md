@@ -1,6 +1,4 @@
-<!--lint disable no-unused-definitions-->
-[comment]:<img src="https://badgen.net/badge/icon/awesome list/51A8E0?icon=awesome&label" height="18"/>
-<!--lint enable no-unused-definitions-->
+# Awesome Automotive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
   <br>
@@ -30,8 +28,7 @@
 <!--lint disable list-item-bullet-indent-->
 ## Contents
 
-- [Contents](#contents)
-- [RTOS](#rtos)
+- [RTOS](#rtos) 
   - [Autosar](#autosar)
   - [OSEK/VDX](#osekvdx)
 - [Automotive SPICE](#automotive-spice)
@@ -61,7 +58,7 @@
 - [Press releases](#press-releases)
 - [Videos](#videos)
 - [Miscellaneous](#miscellaneous)
-- [Contribute](#contribute)
+
 <!--lint enable list-item-bullet-indent-->
 <!--lint disable awesome-list-item-->
 
@@ -84,7 +81,7 @@
 
 - [AUTOSAR Development Tools](https://www.renesas.com/us/en/solutions/automotive/manual-softtools.html) - Renesas Electronics, overview on toolset.
 - [Artop](https://www.artop.org/) - The **A**UTOSA**R** **T**ool **P**latform is an implementation of common base functionality for AUTOSAR development tools.
-- [EB tresos®Studio documentation  <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf)
+<!-- DEAD - [EB tresos®Studio documentation  <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf) -->
 
 <div><sup>&nbsp;&nbsp;Papers</sup></div>
 
@@ -125,7 +122,7 @@
 - [ERIKA Enterprise](http://www.erika-enterprise.com/) - Royalty free automotive OSEK/VDX certified Hard Real Time Operating System (RTOS)
 - [ev3OSEK <img src="media/icons/github.png" height="18"/>](https://github.com/ev3osek/ev3osek) - Implementation for the Mindstorms EV3 robots.
 - [FreeOSEK <img src="media/icons/github.png" height="18"/>](https://github.com/ciaa/firmware_v1) - Implementation (BSD license).
-- [mKernel ](https://sourceforge.net/projects/mkernel/) - Implementation (GPL license) with Partially OSEK/VDX compliant oil generator supporting only the Microchip PIC18F4550.
+- [mKernel](https://sourceforge.net/projects/mkernel/) - Implementation (GPL license) with Partially OSEK/VDX compliant oil generator supporting only the Microchip PIC18F4550.
 - [nxtOSEK](http://lejos-osek.sourceforge.net/) - Implementation for the Mindstorms NXT robots.
 - [openOSEK](https://sourceforge.net/projects/openosek/) - Implementation (LGPL license).
 - [PICOS18](https://web.archive.org/web/20120707172307/http://www.picos18.com:80/) - Implementation (GPL license) with support for Microchip PIC18.
@@ -146,7 +143,7 @@
 
 ## Agile
 - [Scaled Agile Framework](https://www.scaledagileframework.com/) - (**SAFe**) set of organization and workflow patterns intended to guide enterprises in scaling lean and agile practices.
-- `2020` [VDA - Agile Collaboration v1.0 Online Document<img src="media/icons/pdf.png" height="18"/>](https://vda-qmc.de/fileadmin/redakteur/Publikationen/Gelbdrucke/VDA_Yellow_Volume_Agile_Collaboration_EN_1_edition_2020.pdf) - Free Yellow Print for the Agile Collaboration.
+<!-- DEAD  - `2020` [VDA - Agile Collaboration v1.0 Online Document<img src="media/icons/pdf.png" height="18"/>](https://vda-qmc.de/fileadmin/redakteur/Publikationen/Gelbdrucke/VDA_Yellow_Volume_Agile_Collaboration_EN_1_edition_2020.pdf) - Free Yellow Print for the Agile Collaboration. -->
 - `2018` [Agile practices when developing safety systems <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/94ee/8799144ed97fa53aa3c9806e2db68d2cc22e.pdf?_ga=2.230015071.23004512.1592854073-1154219747.1586112696)
 - `2017` [An Assessment of Avionics Software Development Practice: Justifications for an Agile Development Process <img src="media/icons/pdf.png" height="18"/>](https://link.springer.com/content/pdf/10.1007%2F978-3-319-57633-6_14.pdf)
 - `2014` [Scrum , documentation and the IEC 61508-3 : 2010 software standard <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/0819/fc97fac7e95e4f85d905be5f485fba2f5a54.pdf?_ga=2.37078499.23004512.1592854073-1154219747.1586112696)
@@ -185,7 +182,7 @@
 - [FlexRay Specification <img src="media/icons/pdf.png" height="18"/>](https://svn.ipd.kit.edu/nlrp/public/FlexRay/FlexRay%E2%84%A2%20Protocol%20Specification%20Version%203.0.1.pdf)
 - [FlexRay Overview](https://www.ni.com/pl-pl/innovations/white-papers/06/flexray-automotive-communication-bus-overview.html) - National Instruments.
 - [Introduction to FlexRay](https://elearning.vector.com/mod/page/view.php?id=371) - Vector Informatik, e-learning module.
-- [The FlexRay Electrical Physical Layer Evolution <img src="media/icons/pdf.png" height="18"/>](https://web.archive.org/web/20150216112537/http://www.hanser-automotive.de/fileadmin/heftarchiv/FLEX_10_ONL_NXP-Y.pdf) - Lorenz Steffen, magazine Automotive 2010.
+- `2010` [The FlexRay Electrical Physical Layer Evolution <img src="media/icons/pdf.png" height="18"/>](https://web.archive.org/web/20150216112537/http://www.hanser-automotive.de/fileadmin/heftarchiv/FLEX_10_ONL_NXP-Y.pdf) - Lorenz Steffen, magazine Automotive.
 
 
 ### LIN
@@ -206,9 +203,9 @@
 - [exida Recorded Webinars <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - exida worlds leading company for certification, safety, alarm management, cybersecurity.
 - [Matrickz TechTalk <img src="media/icons/podcast.png" height="18"/>](https://www.matrickz.de/en/podcasts.html) - Matrickz, about ASPICE, Security and Safety (ISO26262).
 - [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - National Instruments.
-- [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" height="18"/>](https://web1.see.asso.fr/erts2012/Site/0P2RUC89/1A-1.pdf) - ERTS2 Congress.
+- [Criticality categories across safety standards in different domains <img src="media/icons/pdf.png" height="18"/>](http://bricque.free.fr/docs/Publications/ERTS2012_Criticality_categories_across_safety_standards.pdf) - ERTS2 Congress.
 - [A Case Study of Toyota Unintended Acceleration and Software Safety <img src="media/icons/video.png" height="18"/>](https://www.exida.com/Webinars/Recordings) - Philip Koopman, and [slides <img src="media/icons/pdf.png" height="18"/>](https://users.ece.cmu.edu/~koopman/pubs/koopman14_toyota_ua_slides.pdf).
-- [NASA Software Safety Guidebook](https://standards.nasa.gov/standard/nasa/nasa-gb-871913) - NASA, 2004.
+- `2004` [NASA Software Safety Guidebook](https://standards.nasa.gov/standard/nasa/nasa-gb-871913)
 - [Sudden unintended acceleration (SUA)](https://en.wikipedia.org/wiki/Sudden_unintended_acceleration#Sudden_acceleration_in_Toyota_vehicles) - Wikipedia, the US NHTSA estimates 16,000 accidents per year in USA.
 - [Results of 2017 Embedded Systems Safety & Security Survey <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=EMrgTOoRARE&feature=youtu.be&t=1) - Barr Group, list of all [webinars <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLjjaR7ZI1lwO6GqCAgWh003f834InzdUa).
 - [Talk on safety-critical systems and criticisms of the standards <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=EMrgTOoRARE&feature=youtu.be&t=1) - Professor Martyn Thomas CBE.
@@ -234,14 +231,14 @@
 
 ## Measurement and Calibration
 - [ASAM MCD-1 XCP](https://www.asam.net/standards/detail/mcd-1-xcp/wiki/) - ASAM (Association for Standardisation of Automation and Measuring Systems) standard description.
-- [XCP – The Standard Protocol for ECU Development <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://assets.vector.com/cms/content/application-areas/ecu-calibration/xcp/XCP_ReferenceBook_V3.0_EN.pdf) - Andreas Patzer, Rainer Zaiser, Vector Informatik GmbH, 2016.
+- `2016` [XCP – The Standard Protocol for ECU Development <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://assets.vector.com/cms/content/application-areas/ecu-calibration/xcp/XCP_ReferenceBook_V3.0_EN.pdf)
 - [XCP fundamentals: measuring, calibrating and bypassing based on the ASAM standard <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=Fo3S3vKn1dk) - Official Vector Informatik YouTube channel.
 
 
 ## Vehicle Diagnostics
-
+<!-- DEAD 
 - [ISO 14229-1:2006 <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads191/doc/899044/ISO+14229+(2006).pdf) - Unified Diagnostic Services (UDS) specification, superseded by the standard [ISO 14229-1:2013](https://www.iso.org/standard/55283.html).
-- [ISO 13400-2:2012 <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf) - Road vehicles - Diagnostic communication over Internet Protoco (DoIP).
+- [ISO 13400-2:2012 <img src="media/icons/pdf.png" height="18"/>](http://read.pudn.com/downloads721/ebook/2887987/BS%20ISO%2013400-2-2012.pdf) - Road vehicles - Diagnostic communication over Internet Protoco (DoIP).-->
 - [Information Posters](https://automotive.softing.com/en/service/order-of-information-poster.html) - Softing Automotive, about UDS, ODX, OTX, DoIP.
 - [Diagnostics and Flashing <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFZ0ueLgYRZfSa6l-eTcwBh) - Official Vector Informatik YouTube channel, more [here](https://vctr.it/2B8hbJh).
 - [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/85e2/1a2e7778443f7b113b58b9f9ada812959757.pdf?_ga=2.266760778.519889738.1591091523-1154219747.1586112696) - Paul Hoser, 2008.
@@ -377,8 +374,8 @@
 
 ## Books
 - `2018` [Technical Papers on the Development of Embedded Electronics <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/><img src="media/icons/warning.png" height="18"/>](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf) - Vector Informatik GmbH.
-- `2017` [Understanding Automotive Electronics Eighth Edition <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://www.engbookspdf.com/uploads/pdf-books/UnderstandingAutomotiveElectronics8theditionbyWilliamB.Ribbens-1.pdf) - William B. Ribbens.
 - `2016` [The Car Hacker's Handbook - A Guide for the Penetration Tester <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://docs.alexomar.com/biblioteca/thecarhackershandbook.pdf) - Craig Smith.
+- `2012` [Understanding Automotive Electronics Eighth Edition <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://www.etf.ues.rs.ba/~slubura/Mehatronicki%20sistemi%20kod%20motora%20i%20vozila/Literatura/understanding%20automative%20electronics.pdf) - William B. Ribbens.
 - `2011` [FMEA Handbook <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://fsp.portal.covisint.com/documents/106025/14555722/FMEA%20Handbook%20v4.2/4c14da5c-0842-4e60-a88b-75c18e143cf7) - Ford.
 - `2009` [Automotive Embedded Systems Handbook <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Nicolas Navet.
 - [engineeringbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engineeringbookspdf.com/automobile-engineering/) - Free access to about 150 automotive books.
