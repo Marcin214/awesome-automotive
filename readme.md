@@ -68,9 +68,6 @@
 ### Autosar
 
 - [AUTOSAR](https://www.autosar.org/) - (**AUT**omotive **O**pen **S**ystem **AR**chitecture) is a worldwide development partnership of vehicle manufacturers, suppliers, service providers and companies from the automotive electronics, semiconductor and software industry.
-
-<div><sup>&nbsp;&nbsp;Overview</sup></div>
-
 - [AUTOSAR Technical Overview](https://web.archive.org/web/20161201222022/http://www.autosar.org/about/technical-overview/) - Official AUTOSAR website, 2016.
 - [About AUTomotive Open System ARchitecture](https://www.renesas.com/us/en/solutions/automotive/technology/autosar.html) - Renesas Electronics.
 - [Introduction to Autosar](https://elearning.vector.com/mod/page/view.php?id=437) - Vector Informatik, e-learning module.
@@ -244,8 +241,6 @@
 ## Software Development Process
 ### Requirements
 
-<div><sup>&nbsp;&nbsp;General</sup></div>
-
 - `2002` [Requirements Engineering in Automotive Development: Experiences and Challenges <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.1707&rep=rep1&type=pdf)
 - `1998` [IEEE Std 1233 <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/4018/ea1263f10052e3197c4d2a866b62fde83167.pdf) - IEEE Guide for Developing System Requirements Specifications.
 
@@ -267,7 +262,7 @@
 
 - [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
 - [Gaphor](https://gaphor.org) - Open source modeling tool supporting UML and SysML.
-- `2016` [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core Platform <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf)
+- `2016` [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf)
 - `2011` [ISO/IEC/IEEE42010 <img src="media/icons/pdf.png" height="18"/>](https://nanopdf.com/download/iso-iec-ieee-420102011e-systems-and-software-engineering_pdf) - Systems and software engineering - Architecture description.
 - `2008` [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/ca8c/6d82300061c0ad31d7717fc00e0875cbd96e.pdf?_ga=2.190666095.519889738.1591091523-1154219747.1586112696) 
 - `1998` [IEEE Std 1016 <img src="media/icons/pdf.png" height="18"/>](http://ccftp.scu.edu.cn:8090/Download/b4994628-e3e2-450f-882b-488939cecf30.pdf) - IEEE Recommended Practice for Software Design Descriptions.
@@ -281,8 +276,6 @@
 
 
 ### Implementation
-
-<div><sup>&nbsp;&nbsp;General</sup></div>
 
 - `2007` [Software engineering for automotive systems: A roadmap <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6142&rep=rep1&type=pdf)
 - `1998` [IEEE Std 830 <img src="media/icons/pdf.png" height="18"/>](http://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf) - IEEE Recommended Practice for Software Requirements Specifications.
@@ -314,10 +307,9 @@
 
 ### Software Test
 
-<div><sup>&nbsp;&nbsp;Genral</sup></div>
 
 - `2018` [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) - Vector Informatik.
-- `2015` [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR ECUs <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-cit-2015.pdf)
+- `2015` [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-cit-2015.pdf)
 - [Awesome Software Quality <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme)
 
 <div><sup>&nbsp;&nbsp;MC/DC</sup></div>
@@ -346,8 +338,6 @@
 - `2007` [Timing Simulation of Interconnected AUTOSAR Software-Components <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.659.7962&rep=rep1&type=pdf)
 
 ### Functional Test
-
-<div><sup>&nbsp;&nbsp;Genral</sup></div>
 
 - [Vector Testing Symposium 2017: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJEpfR5iAZBNjpl1NIpRA7Gw) - Official Vector Informatik YouTube channel.
 - [Vector Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFxt_WSazEXShViv_jnlu0K) - Official Vector Informatik YouTube channel.
