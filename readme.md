@@ -262,10 +262,8 @@
 
 ### Design
 
-<div><sup>&nbsp;&nbsp;General</sup></div>
-
 - [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
-- [Gaphor](https://gaphor.org) - Simple open source modeling tool supporting UML and SysML.
+- [Gaphor](https://gaphor.org) - Open source modeling tool supporting UML and SysML.
 - `2016` [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core Platform <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-ame-2016.pdf)
 - `2011` [ISO/IEC/IEEE42010 <img src="media/icons/pdf.png" height="18"/>](https://nanopdf.com/download/iso-iec-ieee-420102011e-systems-and-software-engineering_pdf) - Systems and software engineering - Architecture description.
 - `2008` [Automotive real time development using a timing-augmented AUTOSAR specification <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/ca8c/6d82300061c0ad31d7717fc00e0875cbd96e.pdf?_ga=2.190666095.519889738.1591091523-1154219747.1586112696) 
@@ -289,13 +287,13 @@
 
 <div><sup>&nbsp;&nbsp;Code</sup></div>
 
-- [Driving Into the Future With Modern C++: A Look at Adaptive Autosar <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=YzyGgZ_RClw&feature=emb_title) - Jan Babst, CppCon, 2017.
 - [Guidelines for the use of the C++14 language in critical and safety-related systems <img src="media/icons/pdf.png" height="18"/>](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-03/AUTOSAR_RS_CPP14Guidelines.pdf) - AUTOSAR standard.
 - [MISRA](https://www.misra.org.uk/Publications/tabid/57/Default.aspx) - Publications from world-leading best practice guidelines for the safe and secure application.
-- [Modern Embedded Systems Programming <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - Series of hands-on lessons about embedded microcontrollers in C.
-- [Safe Software for Autonomous Mobility With Modern C++ <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=5WbdLUc9Jls) - Andreas Pasternak, CppCon.
 - [SEI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - Languages such as C, C++, Java, and Perl, and the Android™ platform.
-- [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=F4GzsA00s5I) - Michael Wong, CppCon.
+- [Modern Embedded Systems Programming <img src="media/icons/student.png" height="18"/><img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) - Hands-on lessons about embedded microcontrollers in C.
+- `2019` [Safe Software for Autonomous Mobility With Modern C++ <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=5WbdLUc9Jls) - Andreas Pasternak, CppCon.
+- `2019` [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=F4GzsA00s5I) - Michael Wong, CppCon.
+- `2017` [Driving Into the Future With Modern C++: A Look at Adaptive Autosar <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=YzyGgZ_RClw&feature=emb_title) - Jan Babst, CppCon.
 - [Awesome C <img src="media/icons/awesome.png" height="14"/>](https://github.com/aleksandar-todorovic/awesome-c)
 - [Awesome C++ <img src="media/icons/awesome.png" height="14"/>](https://github.com/fffaraz/awesome-cpp#readme)
 - [Awesome Embedded <img src="media/icons/awesome.png" height="14"/>](https://github.com/nhivp/Awesome-Embedded)
@@ -315,8 +313,8 @@
 
 <div><sup>&nbsp;&nbsp;Genral</sup></div>
 
+- `2018` [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) - Vector Informatik.
 - `2015` [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR ECUs <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-cit-2015.pdf)
-- [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) - Official Vector Informatik YouTube channel.
 - [Awesome Software Quality <img src="media/icons/awesome.png" height="14"/>](https://github.com/ligurio/awesome-software-quality#readme)
 
 <div><sup>&nbsp;&nbsp;MC/DC</sup></div>
@@ -339,8 +337,8 @@
 <div><sup>&nbsp;&nbsp;Timing analysis</sup></div>
 
 - [GLIWA](https://www.gliwa.com/) - Worldwide leading provider for timing analysis, optimization and verification, [resources](https://www.gliwa.com/index.php?page=papers&lang=eng).
-- [Runtime Analysis of AUTOSAR Embedded Projects <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=C2NFKwUOpMk&list=PLLUr1-D7UabianTZOBIPKH1sA4M4nKhTw&index=2&t=5767s) - Florian Sommer, Sebastian Ziegler.
 - [TA Tool Suite - Managing the Timing Behavior of AUTOSAR Multi-Core ECUs](https://www.vector.com/int/en/products/products-a-z/software/ta-tool-suite/) - Vector Informatik.
+-  `2020` [Runtime Analysis of AUTOSAR Embedded Projects <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=C2NFKwUOpMk&list=PLLUr1-D7UabianTZOBIPKH1sA4M4nKhTw&index=2&t=5767s) - Florian Sommer, Sebastian Ziegler.
 - `2012` [Tool support for seamless system development based on AUTOSAR timing extensions <img src="media/icons/pdf.png" height="18"/>](https://pdfs.semanticscholar.org/04c8/ba5319986e246f96df2be8307eb09bd1690f.pdf?_ga=2.65429098.519889738.1591091523-1154219747.1586112696)
 - `2007` [Timing Simulation of Interconnected AUTOSAR Software-Components <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.659.7962&rep=rep1&type=pdf)
 
@@ -384,9 +382,11 @@
 
 ## Podcasts
 
-- [SAE Tomorrow Today <img src="media/icons/podcast.png" height="18"/>](https://www.sae.org/podcasts) - SAE International, provides unique and dynamic perspectives from innovative industry leaders.
+- [SAE Tomorrow Today <img src="media/icons/podcast.png" height="18"/>](https://www.sae.org/podcasts) - SAE International, provides perspectives from innovative industry leaders.
 - [Matrickz TechTalk <img src="media/icons/podcast.png" height="18"/>](https://www.matrickz.de/en/podcasts.html) - Matrickz, about ASPICE, Security and Safety (ISO26262).
 - [Embedded.fm <img src="media/icons/podcast.png" height="18"/>](https://embedded.fm/) - A site dedicated to the many aspects of engineering.
+- [InsideEVs <img src="media/icons/podcast.png" height="18"/>](https://www.spreaker.com/show/insideevs-podcast) - Electric Vehicle News.
+- [EV News Daily <img src="media/icons/podcast.png" height="18"/>](https://www.evnewsdaily.com/) - A daily podcast about electric cars, hybrids and sustainable transport news.
 
 ## Press releases
 
@@ -405,6 +405,7 @@
 - [Official Elektrobit <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/user/EBAutomotiveSoftware/featured)
 - [MATLAB Videos and Webinars <img src="media/icons/video.png" height="18"/>](https://www.mathworks.com/videos.html)
 - [Official Vector Informatik YouTube channel <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/channel/UC7P-ggVSMhM28LmVzwf2BQw)
+- [Automotive World <img src="media/icons/video.png" height="18"/>](https://vimeo.com/automotiveworld) - Company, which has been educating automotive and commercial vehicle industry stakeholders since 1992.
 
 ## Miscellaneous
 
