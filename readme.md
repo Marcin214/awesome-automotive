@@ -59,6 +59,9 @@
 - [Contribute](#contribute)
 
 <!--lint disable awesome-list-item-->
+## OS
+- [Automotive Grade Linux](https://www.automotivelinux.org/) - Open source project to build Linux-based platforms for automotive applications.
+- `2017` [Development Trend of Operating System Technology for Smart Car <img src="media/icons/pdf.png" height="18"/>](https://www.ijrter.com/papers/volume-3/issue-1/development-trend-of-operating-system-technology.pdf)
 
 ## RTOS
 ### Autosar
@@ -156,7 +159,6 @@
 - [Introduction to Automotive Ethernet](https://elearning.vector.com/mod/page/view.php?id=149) - Vector Informatik, e-learning module.
 - [Vector Automotive Ethernet Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFaUFtXGcJX72EURLY8PWA9) -  In 7 presentations - by Infineon, NXP, TÜV-Nord and Vector - the speakers showed the current status and solutions for the upcoming challenges, 2019
 - [A TCP/IP Tutorial <img src="media/icons/student.png" height="18"/>](https://tools.ietf.org/html/rfc1180) - RFC 1180, short overview on ethernet.
-- [Automotive Grade Linux](https://www.automotivelinux.org/) - Open source ethernet stack for automotive.
 - [OPEN Alliance. "Automotive Ethernet Specifications"](http://opensig.org/about/specifications/)
 - [SOME/IP specification](http://some-ip.com/papers.shtml)
 - [vsomeip in 10 minutes](https://github.com/GENIVI/vsomeip/wiki/vsomeip-in-10-minutes) - Introduction to SOME/IP based on GENIVI implementation.
@@ -218,7 +220,7 @@
 - `2019` [Vector Cybersecurity Symposium 2019: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHxvK3v0sRYO9Kpnpb-Thz9) - Vector Informatik.
 - `2017` [Vector Cybersecurity Symposium 2017: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJGvyWfoPaTMw0QN3306wTPm) - Vector Informatik.
 - `2016` [Vector Cybersecurity Symposium 2016: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHdtX4Vmw8n8DBFuDlmQCQy) - Vector Informatik.
-- [Awesome Vehicle Security <img src="media/icons/awesome.png" height="14"/>](https://github.com/jaredthecoder/awesome-vehicle-security) - Books, hardware, software, applications, people to follow, car hacking and tinkering. 
+- [Awesome Vehicle Security <img src="media/icons/awesome.png" height="14"/>](https://github.com/jaredthecoder/awesome-vehicle-security) - Books, hardware, software, applications, car hacking and more. 
 
 ## Hardware
 - [AEC Component Technical Committee](http://www.aecouncil.com/) - standardization body for establishing standards for reliable, high quality electronic components. Components meeting these specifications are suitable for use in the harsh automotive environment without additional component-level qualification testing. This web site makes available the technical documents developed by the AEC Component Technical Committee. These documents can be downloaded directly.
@@ -403,9 +405,9 @@
 - [Automotive Logistics <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/user/autologisticschannel)
 - [Embedded Meetup Egypt <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/channel/UC4iQ7Bz-3MKeMsfs3Bb4QjQ/featured) - Webinars related to software development for automotive embedded systems.
 - [Official Elektrobit <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/user/EBAutomotiveSoftware/featured)
-- [MATLAB Videos and Webinars <img src="media/icons/video.png" height="18"/>](https://www.mathworks.com/videos.html)
-- [Official Vector Informatik YouTube channel <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/channel/UC7P-ggVSMhM28LmVzwf2BQw)
-- [Automotive World <img src="media/icons/video.png" height="18"/>](https://vimeo.com/automotiveworld) - Company, which has been educating automotive and commercial vehicle industry stakeholders since 1992.
+- [MATLAB <img src="media/icons/video.png" height="18"/>](https://www.mathworks.com/videos.html) - Videos and Webinars.
+- [Vector Informatik <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/channel/UC7P-ggVSMhM28LmVzwf2BQw) - YouTube channel.
+- [Automotive World <img src="media/icons/video.png" height="18"/>](https://vimeo.com/automotiveworld) - Company, educating automotive and vehicle industry stakeholders since 1992.
 
 ## Miscellaneous
 
