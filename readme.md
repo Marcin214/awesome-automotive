@@ -290,11 +290,12 @@
 - `2019` [Safe Software for Autonomous Mobility With Modern C++ <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=5WbdLUc9Jls) - Andreas Pasternak, CppCon.
 - `2019` [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=F4GzsA00s5I) - Michael Wong, CppCon.
 - `2017` [Driving Into the Future With Modern C++: A Look at Adaptive Autosar <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/watch?v=YzyGgZ_RClw&feature=emb_title) - Jan Babst, CppCon.
+- `2008` [MISRA-C:2004 : guidelines for the use of the C language in critical systems <img src="media/icons/book.png" height="18"/><img src="media/icons/pdf.png" height="18"/>](http://caxapa.ru/thumbs/468328/misra-c-2004.pdf) - Motor Industry Software Reliability Association.
+- `2008` [Guidelines for the use of the C++ language in critical systems : MISRA C++ 2008 <img src="media/icons/book.png" height="18"/><img src="media/icons/pdf.png" height="18"/>](http://www.tlemp.com/download/rule/MISRA-CPP-2008-STANDARD.pdf) - Motor Industry Software Reliability Association.
 - [Awesome C <img src="media/icons/awesome.png" height="14"/>](https://github.com/aleksandar-todorovic/awesome-c)
 - [Awesome C++ <img src="media/icons/awesome.png" height="14"/>](https://github.com/fffaraz/awesome-cpp#readme)
 - [Awesome Embedded <img src="media/icons/awesome.png" height="14"/>](https://github.com/nhivp/Awesome-Embedded)
 - [Awesome MATLAB <img src="media/icons/awesome.png" height="14"/>](https://github.com/mikecroucher/awesome-MATLAB)
-
 
 <div><sup>&nbsp;&nbsp;Debug</sup></div>
 
@@ -304,9 +305,7 @@
 - [Trace32: Debug your embedded systems <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) - Nohau Solutions.
 - [iSYSTEM AG](https://www.isystem.com/products/id-3rd-party-software-support/autosar.html) - Debugging tools supplier WinIDEA, iC5000 Base Unit, testIDEA.
 
-
 ### Software Test
-
 
 - `2018` [Software Testing Symposium 2018: Lectures <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) - Vector Informatik.
 - `2015` [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR <img src="media/icons/pdf.png" height="18"/>](https://networked-embedded.de/paper/urbina-cit-2015.pdf)
@@ -361,6 +360,7 @@
 - `2012` [Understanding Automotive Electronics Eighth Edition <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://www.etf.ues.rs.ba/~slubura/Mehatronicki%20sistemi%20kod%20motora%20i%20vozila/Literatura/understanding%20automative%20electronics.pdf) - William B. Ribbens.
 - `2011` [FMEA Handbook <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://fsp.portal.covisint.com/documents/106025/14555722/FMEA%20Handbook%20v4.2/4c14da5c-0842-4e60-a88b-75c18e143cf7) - Ford.
 - `2009` [Automotive Embedded Systems Handbook <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](https://d1.amobbs.com/bbs_upload782111/files_38/ourdev_629261ASTZIF.pdf) - Nicolas Navet.
+- `2003` [Automotive software engineering : principles, processes, methods, and tools <img src="media/icons/pdf.png" height="18"/><img src="media/icons/book.png" height="18"/>](http://docshare02.docshare.tips/files/27605/276056254.pdf) - Jörg Schäuffele, Thomas Zurawka.
 - [engineeringbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engineeringbookspdf.com/automobile-engineering/) - Free access to about 150 automotive books.
 - [engbookspdf <img src="media/icons/search.png" height="18"/>](https://www.engbookspdf.com/Automobile/) - Free access to about 35 automotive books.
 - [engbookspdf <img src="media/icons/search.png" height="18"/>](http://www.engineering108.com/pages/Automobile_Engineering/Automobile-engineering-ebooks-free-download.html) - Free access to about 5 automotive books.
