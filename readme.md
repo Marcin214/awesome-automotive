@@ -59,6 +59,10 @@
 - [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
 
+![video]
+
+[video]: media/icons/video.png "video"
+
 <!--lint disable awesome-list-item-->
 ## OS
 - [Automotive Grade Linux](https://www.automotivelinux.org/) - Open source project to build Linux-based platforms for automotive applications.
@@ -136,7 +140,7 @@
 
 ## Automotive SPICE
 - [ASPICE](http://www.automotivespice.com/download/) - Automotive SPICE® Process Assessment Model (PAM) and Process Reference Model (PRM).
-- [Automotive SPICE: Ensuring ASPICE Compliance <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL5VAskozuQ3DwQIE3A8dGKWIRKPeNBTCG) - 321 Gang, Continuous Engineering Experts.
+- [Automotive SPICE: Ensuring ASPICE Compliance <img src="media/icons/video.png" height="18"/>](https://www.youtube.com/playlist?list=PL5VAskozuQ3DwQIE3A8dGKWIRKPeNBTCG)![video] - 321 Gang, Continuous Engineering Experts.
 - `2011` [A Seamless Model-Based Development Process for Automotive Systems <img src="media/icons/pdf.png" height="18"/>](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.600.1988&rep=rep1&type=pdf)
 
 ## Autonomous Driving
