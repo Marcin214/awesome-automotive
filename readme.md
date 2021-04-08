@@ -52,7 +52,7 @@
   - [SysML](#sysml)
 - [Software Development](#software-development)
   - [Coding guidelines](#coding-guidelines)
-  - [Debuging](#debuging)
+  - [Debugging](#debugging)
 - [Testing](#testing)
   - [Unit tests](#unit-tests)
   - [MC/DC](#mcdc)
@@ -197,6 +197,7 @@
 - [ISO 26262-1:2011 Road vehicles — Functional safety — Part 1: Vocabulary](https://www.iso.org/obp/ui/#iso:std:iso:26262:-1:ed-1:v1:en) - ISO Online Browsing Platform.
 - [The 61508 Association](https://www.61508.org/index.php) - Group of companies with an interest in gaining the full benefits of the successful implementation of IEC 61508 and related standards.
 - [IEC 61508-1:2010](https://github.com/wangdong412/Consen-SIS/tree/master/IEC61508) ![github] - Functional safety of electrical/electronic/programmable electronic safety-related systems.
+- [SCSC - Publications](https://scsc.uk/publications) - Professional network for sharing knowledge about system safety.
 - [exida](https://www.exida.com) - Worlds leading company for certification, safety, alarm management, cybersecurity.
 - [Matrickz](https://www.matrickz.de/en/home.html) - Software development partner in the Automotive specialized in ASPICE, Security and Safety.
 - [What is the ISO 26262 Functional Safety Standard ?](https://www.ni.com/pl-pl/innovations/white-papers/11/what-is-the-iso-26262-functional-safety-standard-.html#toc2) - National Instruments.
@@ -220,6 +221,8 @@
 - `2019` [Vector Cybersecurity Symposium 2019: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHxvK3v0sRYO9Kpnpb-Thz9) ![video] - Vector Informatik.
 - `2017` [Vector Cybersecurity Symposium 2017: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJGvyWfoPaTMw0QN3306wTPm) ![video] - Vector Informatik.
 - `2016` [Vector Cybersecurity Symposium 2016: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHdtX4Vmw8n8DBFuDlmQCQy) ![video] - Vector Informatik.
+- `2010` [Cryptography Engineering: Design Principles and Practical Applications](https://gateway.pinata.cloud/ipfs/QmNjLoag9KseUKqqCqJhdcDSDuB1zmRZJSJDy5UimpWfEk) ![pdf]![book] - Niels Ferguson, Bruce Schneier, Tadayoshi Kohno.
+- `2008` [Security Engineering: A Guide to Building Dependable Distributed Systems](https://img1.wsimg.com/blobby/go/ee806800-06e9-4f1e-bd18-64422d491bcb/downloads/1cfn0trka_845432.pdf) ![pdf]![book] - Ross J. Anderson.
 - [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ![awesome] - Books, hardware, software, applications, car hacking and more. 
 
 ## Hardware
@@ -275,6 +278,7 @@
 
 ### SysML
 
+- [Architecture modelling](https://github.com/spacekitteh/zephyrgc/tree/master/Architecture%20modelling) ![github] - Set of SysML related books, available in pdf.
 - `2011` [SysML for embedded automotive Systems: lessons lear ned](https://pdfs.semanticscholar.org/8b50/8115cf085b6ec71c32bba83c553801ac8985.pdf?_ga=2.228990748.1632464626.1590175047-1154219747.1586112696) ![pdf]
 - `2010` [SysML for embedded automotive Systems : a practical approach](https://pdfs.semanticscholar.org/732a/11ca70fb34e05e47276500594c48f83e93d7.pdf?_ga=2.233208222.1632464626.1590175047-1154219747.1586112696) ![pdf]
 - `2010` [Model synchronization at work: keeping SysML and AUTOSAR models consistent](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.455.7330&rep=rep1&type=pdf) ![pdf]
@@ -302,7 +306,7 @@
 - [SEI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - Languages such as C, C++, Java, and Perl, and the Android™ platform.
 - `2008` [MISRA-C:2004 : guidelines for the use of the C language in critical systems](http://caxapa.ru/thumbs/468328/misra-c-2004.pdf) ![book]![pdf]
 - `2008` [Guidelines for the use of the C++ language in critical systems : MISRA C++ 2008](http://www.tlemp.com/download/rule/MISRA-CPP-2008-STANDARD.pdf) ![pdf] 
-### Debuging
+### Debugging
 
 - [MULTI Integrated Development Environment](https://www.ghs.com/products/MULTI_IDE.html)
 - [Trace32 Lauterbach GmbH](https://www.lauterbach.com/frames.html?home.html) - High-tech company for microprocessor development tools. 
@@ -331,7 +335,7 @@
 
 - [A Practical Tutorial on Modified Condition/Decision Coverage](https://shemesh.larc.nasa.gov/fm/papers/Hayhurst-2001-tm210876-MCDC.pdf) ![pdf]
 - [The Effect of Program and Model Structure on MC⁄DC Test Adequacy Coverage](http://se.inf.ethz.ch/old/teaching/2009-S/0276/slides/fiva.pdf) ![pdf]
-- 
+
 ### Static analysis
 
 - [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
@@ -411,7 +415,8 @@
 - [Universität Siegen](https://networked-embedded.de/es/index.php/PublicationList.html) - Publication list about critical safety and AUTOSAR projects.
 - [Vector Support & Downloads](https://www.vector.com/int/en/search/?tx_solr%5Bfilter%5D%5B0%5D=contentType%3Atx_solr_file&tx_solr%5Bsort%5D=datetime+desc&tx_solr%5BresultsPerPage%5D=10) - Over 1000 great materials: webinars, articles and more.
 - [Vector Knowledge Base](https://kb.vector.com/) - Vector platform with examples and solutions for problems related to offered products.
-- [TOP 100 OEM suppliers](https://www.autonews.com/assets/PDF/CA89220617.PDF) ![pdf] - Suplement to Automotive News magazine, 2013.
+- `2018` [TOP 100 OEM suppliers](https://www.autonews.com/assets/pdf/ca116090622.pdf) ![pdf] - Suplement to Automotive News magazine.
+- `2013` [TOP 100 OEM suppliers](https://www.autonews.com/assets/PDF/CA89220617.PDF) ![pdf] - Suplement to Automotive News magazine.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/) ![awesome]![search] - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top/) ![awesome]![search]  - Quick search for Awesome lists.
 <!--lint enable awesome-list-item-->
