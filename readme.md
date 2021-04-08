@@ -244,6 +244,7 @@
 
 - [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
 - [Gaphor](https://gaphor.org) - Open source modeling tool supporting UML and SysML.
+- `2018` [Clean Architecture: A Craftsman's Guide to Software Structure and Design](http://prof.mau.ac.ir/images/Uploaded_files/Clean%20Architecture_%20A%20Craftsman%E2%80%99s%20Guide%20to%20Software%20Structure%20and%20Design-Pearson%20Education%20(2018)[7615523].PDF) ![pdf]![book] - Robert C. Martin.
 - `2016` [A Gateway Core between On-chip and Off-chip Networks for an AUTOSAR Message-based Multi-core](https://networked-embedded.de/paper/urbina-ame-2016.pdf) ![pdf]
 - `2011` [ISO/IEC/IEEE42010](https://nanopdf.com/download/iso-iec-ieee-420102011e-systems-and-software-engineering_pdf) ![pdf] - Systems and software engineering - Architecture description.
 - `2008` [Automotive real time development using a timing-augmented AUTOSAR specification](https://pdfs.semanticscholar.org/ca8c/6d82300061c0ad31d7717fc00e0875cbd96e.pdf?_ga=2.190666095.519889738.1591091523-1154219747.1586112696) ![pdf]
@@ -252,6 +253,9 @@
 
 ## Requirements engineering
 
+- `2011` [Systems Engineering Principles and Practice](https://industrialeblog.files.wordpress.com/2016/07/systems-engineering-principles-and-practice-2nd-edition.pdf) ![pdf]![book] - Alexander Kossiakof, William N. Sweet, Samuel J. Seymour, Steven M. Biemer.
+- `2007` [Systems Engineering Handbook](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook.pdf) ![pdf]![book] - NASA/SP-2007-6105 Rev1.
+- `2005` [Requirements Engineering](https://staff.agu.edu.vn/hphai/wp-content/uploads/2015/08/Springer-Requirements-Engineering-2nd-Edition-Plantilla-req-pag-85.pdf) ![pdf]![book] - Elizabeth Hull, Ken Jackson and Jeremy Dick.
 - `2002` [Requirements Engineering in Automotive Development: Experiences and Challenges](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.1707&rep=rep1&type=pdf) ![pdf]
 - `1998` [IEEE Std 1233](https://pdfs.semanticscholar.org/4018/ea1263f10052e3197c4d2a866b62fde83167.pdf) ![pdf]- IEEE Guide for Developing System Requirements Specifications.
 
@@ -281,6 +285,8 @@
 - `2019` [Safe Software for Autonomous Mobility With Modern C++](https://www.youtube.com/watch?v=5WbdLUc9Jls) ![video] - Andreas Pasternak, CppCon.
 - `2019` [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware](https://www.youtube.com/watch?v=F4GzsA00s5I) ![video] - Michael Wong, CppCon.
 - `2017` [Driving Into the Future With Modern C++: A Look at Adaptive Autosar](https://www.youtube.com/watch?v=YzyGgZ_RClw&feature=emb_title) ![video] - Jan Babst, CppCon.
+- `2011` [The Clean Coder: A Code of Conduct for Professional Programmers](https://github.com/mofrubel/books-1/blob/master/software-development/clean-coder-conduct-professional-programmers.pdf) ![book]![github] - Robert C. Martin.
+- `2008` [Clean Code: A Handbook of Agile Software Craftsmanship](https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf) ![book]![pdf] - Robert C. Martin.
 - `2007` [Software engineering for automotive systems: A roadmap](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6142&rep=rep1&type=pdf) ![pdf]
 - `1998` [IEEE Std 830](http://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf) ![pdf] - IEEE Recommended Practice for Software Requirements Specifications.
 - `1998` [IEEE Std 730](http://mazure.fr/attic/IEEE7301989.pdf) ![pdf] - IEEE Standard for Software Quality Assurance Plans.
