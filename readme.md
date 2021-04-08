@@ -226,7 +226,7 @@
 - [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ![awesome] - Books, hardware, software, applications, car hacking and more. 
 
 ## Hardware
-- [AEC Component Technical Committee](http://www.aecouncil.com/) - standardization body for establishing standards for reliable, high quality electronic components. Components meeting these specifications are suitable for use in the harsh automotive environment without additional component-level qualification testing. This web site makes available the technical documents developed by the AEC Component Technical Committee. These documents can be downloaded directly.
+- [AEC Component Technical Committee](http://www.aecouncil.com/) - Standardization body for high quality electronic components standards, documents can be downloaded directly.
 
 ## Measurement and Calibration
 - [ASAM MCD-1 XCP](https://www.asam.net/standards/detail/mcd-1-xcp/wiki/) - ASAM (Association for Standardisation of Automation and Measuring Systems) standard.
