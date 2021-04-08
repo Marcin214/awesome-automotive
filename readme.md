@@ -22,11 +22,11 @@
   </p>
   <hr>
 </div>
-
 ## Contents
 
-- [OS](#os) 
-- [RTOS](#rtos) 
+- [Contents](#contents)
+- [OS](#os)
+- [RTOS](#rtos)
   - [Autosar](#autosar)
   - [OSEK/VDX](#osekvdx)
   - [SafeRTOS](#safertos)
@@ -44,12 +44,20 @@
 - [Hardware](#hardware)
 - [Measurement and Calibration](#measurement-and-calibration)
 - [Vehicle Diagnostics](#vehicle-diagnostics)
-- [Software Development Process](#software-development-process)
-  - [Requirements](#requirements)
-  - [Design](#design)
-  - [Implementation](#implementation)
-  - [Software Test](#software-test)
-  - [Functional Test](#functional-test)
+- [Architecture](#architecture)
+- [Requirements engineering](#requirements-engineering)
+  - [Polarion Software](#polarion-software)
+  - [Rational DOORS](#rational-doors)
+  - [SysML](#sysml)
+- [Software Development](#software-development)
+  - [Coding guidelines](#coding-guidelines)
+  - [Debuging](#debuging)
+- [Testing](#testing)
+  - [Unit tests](#unit-tests)
+  - [MC/DC](#mcdc)
+  - [Static analysis](#static-analysis)
+  - [Timing analysis](#timing-analysis)
+  - [CANoe](#canoe)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Magazines](#magazines)
@@ -58,18 +66,6 @@
 - [Videos](#videos)
 - [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
-
-[video]: media/icons/video.png "video"
-[awesome]: media/icons/awesome.png "awesome"
-[blog]: media/icons/blog.png "blog"
-[book]: media/icons/book.png "book"
-[github]: media/icons/github.png "github"
-[pdf]: media/icons/pdf.png "pdf"
-[podcast]: media/icons/podcast.png "podcast"
-[search]: media/icons/search.png "search"
-[stackoverflow]: media/icons/stackoverflow.png "stackoverflow"
-[student]: media/icons/student.png "student"
-[warning]: media/icons/warning.png "warning"
 
 <!--lint disable awesome-list-item-->
 ## OS
@@ -82,19 +78,18 @@
 - [AUTOSAR](https://www.autosar.org/) - (**AUT**omotive **O**pen **S**ystem **AR**chitecture) is a worldwide development partnership of vehicle manufacturers, suppliers, service providers and companies from the automotive electronics, semiconductor and software industry.
 - [AUTOSAR Technical Overview](https://web.archive.org/web/20161201222022/http://www.autosar.org/about/technical-overview/) - Official AUTOSAR website, 2016.
 - [About AUTomotive Open System ARchitecture](https://www.renesas.com/us/en/solutions/automotive/technology/autosar.html) - Renesas Electronics.
+- [AUTOSAR Development Tools](https://www.renesas.com/us/en/solutions/automotive/manual-softtools.html) - Renesas Electronics, overview on toolset.
+- [Artop](https://www.artop.org/) - The **A**UTOSA**R** **T**ool **P**latform is an implementation of development tools for AUTOSAR.
+<!-- DEAD - [EB tresos®Studio documentation ](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf) ![pdf] -->
+- [as](https://github.com/autoas/as) ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
+- [autosar-framework](https://github.com/myGiter/autosar-framework) ![github] - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
+- [autosar](https://github.com/cogu/autosar) ![github] - A set of python modules for working with AUTOSAR XML files.
+- [Arctic Core](https://github.com/Depthkernelcore/Arccore) ![github] - Open source AUTOSAR embedded platform.
 - [Introduction to Autosar](https://elearning.vector.com/mod/page/view.php?id=437) - Vector Informatik, e-learning module.
 - <details>
   <summary>Suppliers of AUTOSAR standard software - Click to expand <img src="media/icons/warning.png" height="18"/>
   </summary><div><table><thead><tr><th>Supplier</th><th>MCAL</th><th>BSW/OS/RTE</th><th>Tools</th></tr></thead><tbody><tr><td><a href="https://www.comasso.org/" target="_blank" rel="noopener noreferrer">COMASSO</a></td><td></td><td><a href="https://www.comasso.org/comasso_downloads" target="_blank" rel="noopener noreferrer">BSW</a></td><td><a href="https://www.comasso.org/comasso_downloads" target="_blank" rel="noopener noreferrer">BSWDT</a></td></tr><tr><td><a href="https://www.elektrobit.com/" target="_blank" rel="noopener noreferrer">Elektrobit</a></td><td></td><td><a href="https://www.elektrobit.com/products/ecu/eb-tresos/autocore/" target="_blank" rel="noopener noreferrer">EB tresos AutoCore</a> <br></td><td><a href="https://www.elektrobit.com/products/ecu/eb-tresos/studio/" target="_blank" rel="noopener noreferrer">EB tresos Studio</a></td></tr><tr><td><a href="https://www.etas.com/" target="_blank" rel="noopener noreferrer">ETAS</a></td><td></td><td><a href="https://www.etas.com/en/products/rta_software_products.php" target="_blank" rel="noopener noreferrer">RTA</a></td><td><a href="https://www.etas.com/en/products/ascet-developer.php" target="_blank" rel="noopener noreferrer">ACET</a><br><a href="https://www.etas.com/en/products/isolar.php" target="_blank" rel="noopener noreferrer">ISOLAR</a><br><a href="https://www.etas.com/en/products/software_products.php" target="_blank" rel="noopener noreferrer">and more ...</a></td></tr><tr><td><a href="https://www.hitex.com/" target="_blank" rel="noopener noreferrer">Hitex</a></td><td><a href="https://www.hitex.com/tools-components/software-components/mcal-and-complex-drivers/mcal-drivers-for-autosar-projects/" target="_blank" rel="noopener noreferrer">MC-ISAR</a></td><td></td><td></td></tr><tr><td><a href="https://www.infineon.com/cms/en/" target="_blank" rel="noopener noreferrer">Infineon Technologies AG</a></td><td><a href="https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/" target="_blank" rel="noopener noreferrer">MCAL</a></td><td></td><td></td></tr><tr><td><a href="https://www.kpit.com/" target="_blank" rel="noopener noreferrer">KPIT</a></td><td></td><td><a href="https://www.kpit.com/solutions/autosar/" target="_blank" rel="noopener noreferrer">K-SAR Suite</a></td><td><a href="https://www.kpit.com/workimpact/with-k-sar-editor-tool-engineers-configure-complete-ecus-intuitively-and-comfortably/" target="_blank" rel="noopener noreferrer">K-SAR Editor</a></td></tr><tr><td><a href="https://mentor.com/" target="_blank" rel="noopener noreferrer">Mentor</a></td><td></td><td><a href="https://www.mentor.com/embedded-software/autosar/software" target="_blank" rel="noopener noreferrer">VSTAR</a><br></td><td><a href="https://www.mentor.com/embedded-software/autosar/tools" target="_blank" rel="noopener noreferrer">VSTAR Tools</a></td></tr><tr><td><a href="https://www.nxp.com/" target="_blank" rel="noopener noreferrer">NXP Semiconductors</a></td><td><a href="https://www.nxp.com/design/automotive-software-and-tools/autosar-:AUTOSAR-HOME#developer" target="_blank" rel="noopener noreferrer">MCAL</a></td><td><a href="https://www.nxp.com/design/automotive-software-and-tools/autosar-:AUTOSAR-HOME#developer" target="_blank" rel="noopener noreferrer">OS</a></td><td></td></tr><tr><td><a href="https://www.opensynergy.com/" target="_blank" rel="noopener noreferrer">OpenSynergy</a></td><td></td><td><a href="https://www.opensynergy.com/autosar/" target="_blank" rel="noopener noreferrer">COQOS</a></td><td><a href="https://www.opensynergy.com/autosar/" target="_blank" rel="noopener noreferrer">COQOSAReasy</a><br></td></tr><tr><td><a href="https://www.renesas.com/us/en/" target="_blank" rel="noopener noreferrer">Renesas Electronics</a></td><td><a href="https://www.renesas.com/us/en/solutions/automotive/technology/autosar.html" target="_blank" rel="noopener noreferrer">MCAL</a></td><td></td><td></td></tr><tr><td><a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noopener noreferrer">STMicroelectronics</a></td><td><a href="https://www.st.com/en/embedded-software/spc5-autosar-mcal.html" target="_blank" rel="noopener noreferrer">MCAL</a></td><td></td><td></td></tr><tr><td><a href="https://www.vector.com/" target="_blank" rel="noopener noreferrer">Vector Informatik</a></td><td></td><td><a href="https://www.vector.com/pl/en/products/products-a-z/embedded-components/microsar/" target="_blank" rel="noopener noreferrer">MICROSAR</a></td><td><a href="https://www.vector.com/pl/en/products/products-a-z/software/davinci-developer/" target="_blank" rel="noopener noreferrer">DaVinci Developer</a><br><a href="https://www.vector.com/pl/en/products/products-a-z/software/davinci-configurator-pro/" target="_blank" rel="noopener noreferrer">DaVinci Configurator</a><br><a href="https://www.vector.com/pl/en/products/products-a-z/software/" target="_blank" rel="noopener noreferrer">and more ...</a><br></td></tr></tbody></table><sup></sup></div>
 </details>
-
-<div><sup>&nbsp;&nbsp;Tools</sup></div>
-
-- [AUTOSAR Development Tools](https://www.renesas.com/us/en/solutions/automotive/manual-softtools.html) - Renesas Electronics, overview on toolset.
-- [Artop](https://www.artop.org/) - The **A**UTOSA**R** **T**ool **P**latform is an implementation of development tools for AUTOSAR.
-<!-- DEAD - [EB tresos®Studio documentation ](http://read.pudn.com/downloads263/doc/1209805/EB_tresos_Studio_documentation_en.pdf) ![pdf] -->
-
-<div><sup>&nbsp;&nbsp;Papers</sup></div>
 
 - `2018` [Evaluation of Performance and Fault Containment in AUTOSAR Micro-ECUs on a Multi-Core Processor](https://networked-embedded.de/paper/urbina-mcsoc-2018.pdf) ![pdf]
 - `2017` [Efficient Multi-core AUTOSAR-Platform Based on an Input/Output Gateway Core](https://networked-embedded.de/paper/urbina-pdp-2017.pdf) ![pdf]
@@ -111,12 +106,6 @@
 - `2006` [Achievements and exploitation of the AUTOSAR development partnership](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.5164&rep=rep1&type=pdf) ![pdf]
 - `2004` [AUTomotive Open System ARchitecture – An industry-wide initiative to manage the complexity of emerging Automotive E/E-Architectures](http://www.dii.unimo.it/~zanasi/didattica/Veicolo_OLD/AUTOSAR_Paper_Convergence_2004.pdf) ![pdf]
 
-<div><sup>&nbsp;&nbsp;Miscellaneous</sup></div>
-
-- [as](https://github.com/autoas/as) ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
-- [autosar-framework](https://github.com/myGiter/autosar-framework) ![github] - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
-- [autosar](https://github.com/cogu/autosar) ![github] - A set of python modules for working with AUTOSAR XML files.
-- [Arctic Core](https://github.com/Depthkernelcore/Arccore) ![github] - Open source AUTOSAR embedded platform.
 
 ### OSEK/VDX
 - [OSEK VDX Portal](https://web.archive.org/web/20160307021413/http://osek-vdx.org/) - down since 2017 due to the working group has been disbanded in favor of AUTOSAR.
@@ -250,27 +239,7 @@
 - `2011` [Remote Vehicle Diagnostics over the Internet using the DoIP Protocol](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.5332&rep=rep1&type=pdf) ![pdf]
 - `2008` [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit](https://pdfs.semanticscholar.org/85e2/1a2e7778443f7b113b58b9f9ada812959757.pdf?_ga=2.266760778.519889738.1591091523-1154219747.1586112696) ![pdf]
 
-## Software Development Process
-### Requirements
-
-- `2002` [Requirements Engineering in Automotive Development: Experiences and Challenges](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.1707&rep=rep1&type=pdf) ![pdf]
-- `1998` [IEEE Std 1233](https://pdfs.semanticscholar.org/4018/ea1263f10052e3197c4d2a866b62fde83167.pdf) ![pdf]- IEEE Guide for Developing System Requirements Specifications.
-
-<div><sup>&nbsp;&nbsp;Polarion Software</sup></div>
-
-- [Polarion Tutorial Videoss](https://polarion.plm.automation.siemens.com/tutorials) ![video]![student] - From tool vendor - Siemens Industry Software.
-- [Vector Polarion Connection Utility](https://www.youtube.com/watch?v=_nX4FiX92_A) ![video] - Add-on tool for Vector vTESTstudio that serves to integrate Siemens Polarion ALM into the Vector testing tool chain.
-
-<div><sup>&nbsp;&nbsp;Rational DOORS</sup></div>
-
-- [Getting started](https://www.ibm.com/developerworks/rational/library/getting-started-ibm-rational-doors/index.html) ![student] - Tutorial for IBM Rational DOORS and IBM Rational DOORS Web Access.
-- [Documentation](https://www.ibm.com/support/pages/node/594725) - Library pages contain documentation for earlier versions of Rational products.
-- [Essentials](https://www.youtube.com/playlist?list=PLFB5C518530CFEC93) ![video] - Hands-on examples.
-- [IBM Rational Rhapsody tips and tricks](https://www.youtube.com/playlist?list=PLaBR7gZA1IOjxthOjpG3aAKeyRt04Wlhd) ![video] - Hands-on examples.
-- [Using DXL](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.configuring.doc/topics/c_dxl.html) - The Rational DOORS eXtension Language (DXL), scripting language, used to control DOORS.
-- [The DXL Reference Manual](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.requirements.doc/topics/dxl_reference_manual.pdf?view=kc)
-
-### Design
+## Architecture
 
 - [Enterprise Architect](https://sparxsystems.com/products/ea/) - Sparx Systems - tool vendor, contains demo, tutorials and more.
 - [Gaphor](https://gaphor.org) - Open source modeling tool supporting UML and SysML.
@@ -280,36 +249,53 @@
 - `1998` [IEEE Std 1016](http://ccftp.scu.edu.cn:8090/Download/b4994628-e3e2-450f-882b-488939cecf30.pdf) ![pdf] - IEEE Recommended Practice for Software Design Descriptions.
 - [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture) ![awesome]
 
-<div><sup>&nbsp;&nbsp;SysML</sup></div>
+## Requirements engineering
+
+- `2002` [Requirements Engineering in Automotive Development: Experiences and Challenges](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.1707&rep=rep1&type=pdf) ![pdf]
+- `1998` [IEEE Std 1233](https://pdfs.semanticscholar.org/4018/ea1263f10052e3197c4d2a866b62fde83167.pdf) ![pdf]- IEEE Guide for Developing System Requirements Specifications.
+
+### Polarion Software
+
+- [Polarion Tutorial Videoss](https://polarion.plm.automation.siemens.com/tutorials) ![video]![student] - From tool vendor - Siemens Industry Software.
+- [Vector Polarion Connection Utility](https://www.youtube.com/watch?v=_nX4FiX92_A) ![video] - Add-on tool for Vector vTESTstudio that serves to integrate Siemens Polarion ALM into the Vector testing tool chain.
+
+### Rational DOORS
+
+- [Getting started](https://www.ibm.com/developerworks/rational/library/getting-started-ibm-rational-doors/index.html) ![student] - Tutorial for IBM Rational DOORS and IBM Rational DOORS Web Access.
+- [Documentation](https://www.ibm.com/support/pages/node/594725) - Library pages contain documentation for earlier versions of Rational products.
+- [Essentials](https://www.youtube.com/playlist?list=PLFB5C518530CFEC93) ![video] - Hands-on examples.
+- [IBM Rational Rhapsody tips and tricks](https://www.youtube.com/playlist?list=PLaBR7gZA1IOjxthOjpG3aAKeyRt04Wlhd) ![video] - Hands-on examples.
+- [Using DXL](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.configuring.doc/topics/c_dxl.html) - The Rational DOORS eXtension Language (DXL), scripting language, used to control DOORS.
+- [The DXL Reference Manual](https://www.ibm.com/support/knowledgecenter/SSYQBZ_9.5.0/com.ibm.doors.requirements.doc/topics/dxl_reference_manual.pdf?view=kc)
+
+### SysML
 
 - `2011` [SysML for embedded automotive Systems: lessons lear ned](https://pdfs.semanticscholar.org/8b50/8115cf085b6ec71c32bba83c553801ac8985.pdf?_ga=2.228990748.1632464626.1590175047-1154219747.1586112696) ![pdf]
 - `2010` [SysML for embedded automotive Systems : a practical approach](https://pdfs.semanticscholar.org/732a/11ca70fb34e05e47276500594c48f83e93d7.pdf?_ga=2.233208222.1632464626.1590175047-1154219747.1586112696) ![pdf]
 - `2010` [Model synchronization at work: keeping SysML and AUTOSAR models consistent](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.455.7330&rep=rep1&type=pdf) ![pdf]
 
+## Software Development
 
-### Implementation
-
-- `2007` [Software engineering for automotive systems: A roadmap](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6142&rep=rep1&type=pdf) ![pdf]
-- `1998` [IEEE Std 830](http://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf) ![pdf] - IEEE Recommended Practice for Software Requirements Specifications.
-- `1998` [IEEE Std 730](http://mazure.fr/attic/IEEE7301989.pdf) ![pdf] - IEEE Standard for Software Quality Assurance Plans.
-
-<div><sup>&nbsp;&nbsp;Code</sup></div>
-
-- [Guidelines for the use of the C++14 language in critical and safety-related systems](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-03/AUTOSAR_RS_CPP14Guidelines.pdf) ![pdf] - AUTOSAR standard.
-- [MISRA](https://www.misra.org.uk/Publications/tabid/57/Default.aspx) - Publications from world-leading best practice guidelines for the safe and secure application.
-- [SEI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - Languages such as C, C++, Java, and Perl, and the Android™ platform.
 - [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) ![video]![student] - Hands-on lessons about embedded microcontrollers in C.
 - `2019` [Safe Software for Autonomous Mobility With Modern C++](https://www.youtube.com/watch?v=5WbdLUc9Jls) ![video] - Andreas Pasternak, CppCon.
 - `2019` [Writing Safety Critical Automotive C++ Software for High Performance AI Hardware](https://www.youtube.com/watch?v=F4GzsA00s5I) ![video] - Michael Wong, CppCon.
 - `2017` [Driving Into the Future With Modern C++: A Look at Adaptive Autosar](https://www.youtube.com/watch?v=YzyGgZ_RClw&feature=emb_title) ![video] - Jan Babst, CppCon.
-- `2008` [MISRA-C:2004 : guidelines for the use of the C language in critical systems](http://caxapa.ru/thumbs/468328/misra-c-2004.pdf) ![book]![pdf] - Motor Industry Software Reliability Association.
-- `2008` [Guidelines for the use of the C++ language in critical systems : MISRA C++ 2008](http://www.tlemp.com/download/rule/MISRA-CPP-2008-STANDARD.pdf) ![pdf] - Motor Industry Software Reliability Association.
+- `2007` [Software engineering for automotive systems: A roadmap](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.6142&rep=rep1&type=pdf) ![pdf]
+- `1998` [IEEE Std 830](http://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf) ![pdf] - IEEE Recommended Practice for Software Requirements Specifications.
+- `1998` [IEEE Std 730](http://mazure.fr/attic/IEEE7301989.pdf) ![pdf] - IEEE Standard for Software Quality Assurance Plans.
 - [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ![awesome]
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp#readme) ![awesome]
 - [Awesome Embedded](https://github.com/nhivp/Awesome-Embedded) ![awesome]
 - [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ![awesome]
 
-<div><sup>&nbsp;&nbsp;Debug</sup></div>
+### Coding guidelines
+
+- [Guidelines for the use of the C++14 language in critical and safety-related systems](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-03/AUTOSAR_RS_CPP14Guidelines.pdf) ![pdf] - AUTOSAR standard.
+- [MISRA](https://www.misra.org.uk/Publications/tabid/57/Default.aspx) - Motor Industry Software Reliability Association, publications.
+- [SEI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - Languages such as C, C++, Java, and Perl, and the Android™ platform.
+- `2008` [MISRA-C:2004 : guidelines for the use of the C language in critical systems](http://caxapa.ru/thumbs/468328/misra-c-2004.pdf) ![book]![pdf]
+- `2008` [Guidelines for the use of the C++ language in critical systems : MISRA C++ 2008](http://www.tlemp.com/download/rule/MISRA-CPP-2008-STANDARD.pdf) ![pdf] 
+### Debuging
 
 - [MULTI Integrated Development Environment](https://www.ghs.com/products/MULTI_IDE.html)
 - [Trace32 Lauterbach GmbH](https://www.lauterbach.com/frames.html?home.html) - High-tech company for microprocessor development tools. 
@@ -317,18 +303,16 @@
 - [Trace32: Debug your embedded systems](https://www.youtube.com/playlist?list=PL1sbHjUq1DdqQSBlk-uM-EJ3O1iof0-IN) ![video] - Nohau Solutions.
 - [iSYSTEM AG](https://www.isystem.com/products/id-3rd-party-software-support/autosar.html) - Debugging tools supplier WinIDEA, iC5000 Base Unit, testIDEA.
 
-### Software Test
+## Testing
 
+- [Vector Testing Symposium 2017: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJEpfR5iAZBNjpl1NIpRA7Gw) ![video] - Official Vector Informatik YouTube channel.
+- [Vector Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFxt_WSazEXShViv_jnlu0K) ![video] - Official Vector Informatik YouTube channel.
 - `2018` [Software Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) ![video] - Vector Informatik.
 - `2015` [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR](https://networked-embedded.de/paper/urbina-cit-2015.pdf) ![pdf]
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ![awesome]
 
-<div><sup>&nbsp;&nbsp;MC/DC</sup></div>
 
-- [A Practical Tutorial on Modified Condition/Decision Coverage](https://shemesh.larc.nasa.gov/fm/papers/Hayhurst-2001-tm210876-MCDC.pdf) ![pdf]
-- [The Effect of Program and Model Structure on MC⁄DC Test Adequacy Coverage](http://se.inf.ethz.ch/old/teaching/2009-S/0276/slides/fiva.pdf) ![pdf]
-
-<div><sup>&nbsp;&nbsp;Unit test</sup></div>
+### Unit tests
 
 - [ARUnit](https://www.artop.org/arunit/) - Unit Testing of AUTOSAR Software Components.
 - [Google Test](https://github.com/google/googletest) ![github] - Google's C++ test framework.
@@ -336,14 +320,19 @@
 - [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ![github] - Micro-framework for creating fake C functions for tests. 
 - [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
 
-<div><sup>&nbsp;&nbsp;Static analysis</sup></div>
+### MC/DC
+
+- [A Practical Tutorial on Modified Condition/Decision Coverage](https://shemesh.larc.nasa.gov/fm/papers/Hayhurst-2001-tm210876-MCDC.pdf) ![pdf]
+- [The Effect of Program and Model Structure on MC⁄DC Test Adequacy Coverage](http://se.inf.ethz.ch/old/teaching/2009-S/0276/slides/fiva.pdf) ![pdf]
+- 
+### Static analysis
 
 - [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 - [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
 - [LDRA](https://ldra.com/aerospace-defence/capabilities/code-quality-review/) - Sets of Code Quality Review Tools.
 - [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ![awesome]
 
-<div><sup>&nbsp;&nbsp;Timing analysis</sup></div>
+### Timing analysis
 
 - [GLIWA](https://www.gliwa.com/) - Worldwide leading provider for timing analysis, optimization and verification, [resources](https://www.gliwa.com/index.php?page=papers&lang=eng).
 - [TA Tool Suite - Managing the Timing Behavior of AUTOSAR Multi-Core ECUs](https://www.vector.com/int/en/products/products-a-z/software/ta-tool-suite/) - Vector Informatik.
@@ -351,12 +340,7 @@
 - `2012` [Tool support for seamless system development based on AUTOSAR timing extensions](https://pdfs.semanticscholar.org/04c8/ba5319986e246f96df2be8307eb09bd1690f.pdf?_ga=2.65429098.519889738.1591091523-1154219747.1586112696) ![pdf]
 - `2007` [Timing Simulation of Interconnected AUTOSAR Software-Components](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.659.7962&rep=rep1&type=pdf) ![pdf]
 
-### Functional Test
-
-- [Vector Testing Symposium 2017: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJEpfR5iAZBNjpl1NIpRA7Gw) ![video] - Official Vector Informatik YouTube channel.
-- [Vector Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJFxt_WSazEXShViv_jnlu0K) ![video] - Official Vector Informatik YouTube channel.
-
-<div><sup>&nbsp;&nbsp;CANoe</sup></div>
+### CANoe
 
 - [CANoe: Product Videos](https://www.youtube.com/playlist?list=PL9EA087B9E8301D23) ![video] - Official Vector Informatik YouTube channel.
 - [Programming with CAPL](https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf) ![pdf]
@@ -428,3 +412,15 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+[video]: media/icons/video.png "video"
+[awesome]: media/icons/awesome.png "awesome"
+[blog]: media/icons/blog.png "blog"
+[book]: media/icons/book.png "book"
+[github]: media/icons/github.png "github"
+[pdf]: media/icons/pdf.png "pdf"
+[podcast]: media/icons/podcast.png "podcast"
+[search]: media/icons/search.png "search"
+[stackoverflow]: media/icons/stackoverflow.png "stackoverflow"
+[student]: media/icons/student.png "student"
+[warning]: media/icons/warning.png "warning"
