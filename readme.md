@@ -341,6 +341,7 @@
 - [Astrée](https://www.absint.com/astree/index.htm) -  Code RuleChecker for compliance with MISRA, CWE, ISO/IEC, AUTOSAR, and SEI CERT C coding rules. Usage of Astrée can be qualified according to DO-178B/C, ISO 26262, IEC 61508, EN-50128, the FDA Principles of Software Validation, and other safety standards.
 - [Helix QAC](https://www.perforce.com/products/helix-qac) - Code analyzer verifying compliance with coding standards such as MISRA and AUTOSAR. Certified for functional safety compliance.
 - [LDRA](https://ldra.com/aerospace-defence/capabilities/code-quality-review/) - Sets of Code Quality Review Tools.
+- [NaiveSystems Analyze](https://github.com/naivesystems/analyze) - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 - [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ![awesome]
 
 ### Timing analysis
