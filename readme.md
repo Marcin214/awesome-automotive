@@ -25,7 +25,6 @@
 
 ## Contents
 
-- [Contents](#contents)
 - [OS](#os)
 - [RTOS](#rtos)
   - [Autosar](#autosar)
@@ -348,7 +347,7 @@
 
 - [GLIWA](https://www.gliwa.com/) - Worldwide leading provider for timing analysis, optimization and verification, [resources](https://www.gliwa.com/index.php?page=papers&lang=eng).
 - [TA Tool Suite - Managing the Timing Behavior of AUTOSAR Multi-Core ECUs](https://www.vector.com/int/en/products/products-a-z/software/ta-tool-suite/) - Vector Informatik.
--  `2020` [Runtime Analysis of AUTOSAR Embedded Projects](https://www.youtube.com/watch?v=C2NFKwUOpMk&list=PLLUr1-D7UabianTZOBIPKH1sA4M4nKhTw&index=2&t=5767s) ![video] - Florian Sommer, Sebastian Ziegler.
+- `2020` [Runtime Analysis of AUTOSAR Embedded Projects](https://www.youtube.com/watch?v=C2NFKwUOpMk&list=PLLUr1-D7UabianTZOBIPKH1sA4M4nKhTw&index=2&t=5767s) ![video] - Florian Sommer, Sebastian Ziegler.
 - `2012` [Tool support for seamless system development based on AUTOSAR timing extensions](https://pdfs.semanticscholar.org/04c8/ba5319986e246f96df2be8307eb09bd1690f.pdf?_ga=2.65429098.519889738.1591091523-1154219747.1586112696) ![pdf]
 - `2007` [Timing Simulation of Interconnected AUTOSAR Software-Components](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.659.7962&rep=rep1&type=pdf) ![pdf]
 
@@ -426,14 +425,14 @@
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-[video]: media/icons/video.png "video"
-[awesome]: media/icons/awesome.png "awesome"
-[blog]: media/icons/blog.png "blog"
-[book]: media/icons/book.png "book"
-[github]: media/icons/github.png "github"
-[pdf]: media/icons/pdf.png "pdf"
-[podcast]: media/icons/podcast.png "podcast"
-[search]: media/icons/search.png "search"
-[stackoverflow]: media/icons/stackoverflow.png "stackoverflow"
-[student]: media/icons/student.png "student"
-[warning]: media/icons/warning.png "warning"
+[video]: media/icons/video.png 'video'
+[awesome]: media/icons/awesome.png 'awesome'
+<!-- [blog]: media/icons/blog.png 'blog' -->
+[book]: media/icons/book.png 'book'
+[github]: media/icons/github.png 'github'
+[pdf]: media/icons/pdf.png 'pdf'
+[podcast]: media/icons/podcast.png 'podcast'
+[search]: media/icons/search.png 'search'
+[stackoverflow]: media/icons/stackoverflow.png 'stackoverflow'
+[student]: media/icons/student.png 'student'
+[warning]: media/icons/warning.png 'warning'
