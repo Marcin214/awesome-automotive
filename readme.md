@@ -329,6 +329,7 @@
 - [Googletest Mocking (gMock) Framework](https://github.com/google/googletest/tree/master/googlemock) ![github] - Google's framework for writing and using C++ mock classes.
 - [Fake Function Framework (fff)](https://github.com/meekrosoft/fff) ![github] - Micro-framework for creating fake C functions for tests. 
 - [Unit Testing C Code](https://stackoverflow.com/questions/65820/unit-testing-c-code?page=1&tab=votes#tab-top) ![stackoverflow] - Discussion with overview on available C unit test frameworks.
+- [Vectorcast](https://www.mathworks.com/products/connections/product_detail/vectorcast.html) - Unit Testing tool to cover modules with boundary, fault injection and requirement testcases.
 
 ### MC/DC
 
@@ -342,7 +343,8 @@
 - [LDRA](https://ldra.com/aerospace-defence/capabilities/code-quality-review/) - Sets of Code Quality Review Tools.
 - [NaiveSystems Analyze](https://github.com/naivesystems/analyze) - A static analysis tool for code security and compliance. Its community edition is open-source which supports MISRA C:2012, MISRA C++:2008 and AUTOSAR C++14.
 - [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis) ![awesome]
-
+- [Cert C](https://wiki.sei.cmu.edu/confluence/display/c](https://wiki.sei.cmu.edu/confluence/display/c)) List of Cert C rules used for Static Analysis.
+- [MISRA C](https://www.mathworks.com/help/bugfinder/misra-c-2023-reference.html). MISRA C Ruleset.
 ### Timing analysis
 
 - [GLIWA](https://www.gliwa.com/) - Worldwide leading provider for timing analysis, optimization and verification, [resources](https://www.gliwa.com/index.php?page=papers&lang=eng).
