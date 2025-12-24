@@ -64,6 +64,7 @@
 - [Podcasts](#podcasts)
 - [Press releases](#press-releases)
 - [Videos](#videos)
+- [Vehicle Data & APIs](#vehicle-data--apis)
 - [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
 
@@ -177,6 +178,7 @@
 - [Understanding and Using the Controller Area Network](https://inst.cs.berkeley.edu/~ee249/fa08/Lectures/handout_canbus2.pdf) ![pdf] - UC Berkeley, CAN 2.0b.
 - [CAN Protocol](https://www.kvaser.com/course/can-protocol-tutorial/) ![student] - Kvaser, tutorial.
 - [CAN magazine](https://can-newsletter.org) - CiA publications.
+- [Cabana](https://github.com/commaai/openpilot/tree/master/tools/cabana) ![github] - CAN visualizer and DBC editor from comma.ai. Tool for analyzing and reverse-engineering CAN bus data.
 
 ### FlexRay
 - [FlexRay Specification](https://svn.ipd.kit.edu/nlrp/public/FlexRay/FlexRay%E2%84%A2%20Protocol%20Specification%20Version%203.0.1.pdf) 
@@ -409,6 +411,11 @@
 - [MATLAB](https://www.mathworks.com/videos.html) ![video] - Videos and Webinars.
 - [Vector Informatik](https://www.youtube.com/channel/UC7P-ggVSMhM28LmVzwf2BQw) ![video] - YouTube channel.
 - [Automotive World](https://vimeo.com/automotiveworld) ![video] - Company, educating automotive and vehicle industry stakeholders since 1992.
+
+## Vehicle Data & APIs
+
+- [Cardog API](https://docs.cardog.ai) - Comprehensive automotive data API providing vehicle specifications, market data, pricing analytics, and recalls.
+- [Corgi](https://github.com/cardog-ai/corgi) ![github] - Blazing-fast, fully offline VIN decoder. 100x faster than NHTSA API, works in Node.js, browsers, and Cloudflare Workers. Optimized SQLite database reduces NHTSA's 1.5GB dataset to 21MB with sub-millisecond decode times.
 
 ## Miscellaneous
 
