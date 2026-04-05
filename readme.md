@@ -419,6 +419,7 @@
 - `2013` [TOP 100 OEM suppliers](https://www.autonews.com/assets/PDF/CA89220617.PDF) ![pdf] - Suplement to Automotive News magazine.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/) ![awesome]![search] - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top/) ![awesome]![search]  - Quick search for Awesome lists.
+- [Auto.dev](https://auto.dev) - Automotive data APIs for AI agents covering VIN decoding, vehicle listings, payments, recalls, and specifications.
 <!--lint enable awesome-list-item-->
 
 ## Contribute
