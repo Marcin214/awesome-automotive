@@ -363,6 +363,7 @@
 - [automotive wiki](https://automotive.wiki/index.php/Main_Page) - From [SCHEID automotive GmbH](https://www.scheid-automotive.com/).
 - [AUTOSAR tutorials](https://autosartutorials.com)
 - [Small Business Programming](https://smallbusinessprogramming.com/) - A set of great articles on every programmers topic.
+- [Miatafy](https://miatafy.com/) - Gen 6 Mazda Connect infotainment internals: boot chain, filesystem, services, UI architecture, and CAN-sourced sensor accuracy analysis.
 
 ## Books
 - `2018` [Technical Papers on the Development of Embedded Electronics](https://assets.vector.com/cms/content/know-how/_technical-articles/Pressbook_EN_2018.pdf) ![warning]![book]![pdf] - Vector Informatik GmbH.
