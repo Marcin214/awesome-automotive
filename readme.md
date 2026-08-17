@@ -410,6 +410,10 @@
 - [Vector Informatik](https://www.youtube.com/channel/UC7P-ggVSMhM28LmVzwf2BQw) ![video] - YouTube channel.
 - [Automotive World](https://vimeo.com/automotiveworld) ![video] - Company, educating automotive and vehicle industry stakeholders since 1992.
 
+## Open Data & APIs
+- [BoltPatternHQ](https://boltpatternhq.com) - The largest open database and widget for automotive wheel fitment, bolt patterns, and fastener specifications. ([Source Code](https://github.com/double2dev/bolt-pattern-calculator))
+- [BoltPatternHQ MCP Server](https://github.com/double2dev/boltpatternhq-mcp) - An open-source Model Context Protocol (MCP) server that allows LLMs to directly retrieve vehicle fastener data.
+
 ## Miscellaneous
 
 - [Universität Siegen](https://networked-embedded.de/es/index.php/PublicationList.html) - Publication list about critical safety and AUTOSAR projects.
