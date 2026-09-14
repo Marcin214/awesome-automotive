@@ -241,6 +241,7 @@
 - `2013` [Unified Diagnostic Services Protocol Implementation in an Engine Control Unit](https://pdfs.semanticscholar.org/f58e/dbc2c2faf010f03f7fc64798996adc160727.pdf?_ga=2.26818169.519889738.1591091523-1154219747.1586112696) ![pdf]
 - `2011` [Remote Vehicle Diagnostics over the Internet using the DoIP Protocol](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.5332&rep=rep1&type=pdf) ![pdf]
 - `2008` [Usage of AUTOSAR diagnostic modules in a MOST electronic control unit](https://pdfs.semanticscholar.org/85e2/1a2e7778443f7b113b58b9f9ada812959757.pdf?_ga=2.266760778.519889738.1591091523-1154219747.1586112696) ![pdf]
+- [Wheelwise](https://trothstone.com/) - Free UK used-car price analytics: 417,146 graded UK listings across 78 makes, an open [methodology](https://trothstone.com/methodology/) and a live lease-deal index. UK market data only - not financial advice.
 
 ## Architecture
 
