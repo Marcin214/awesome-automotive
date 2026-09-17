@@ -320,6 +320,7 @@
 - `2018` [Software Testing Symposium 2018: Lectures](https://www.youtube.com/playlist?list=PLLKv-zcGiHJHCmgtUcp5YOfmNkEgiXERd) ![video] - Vector Informatik.
 - `2015` [Simulation Environment based on SystemC and VEOS for Multi-Core Processors with Virtual AUTOSAR](https://networked-embedded.de/paper/urbina-cit-2015.pdf) ![pdf]
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality#readme) ![awesome]
+- [reqcov](https://github.com/Antoine005/reqcov) ![github] - Requirements-to-test coverage on every pull request; builds the traceability matrix from Markdown/YAML requirements and JUnit results (ISO 26262, IEC 61508).
 
 
 ### Unit tests
