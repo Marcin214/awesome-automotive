@@ -260,6 +260,8 @@
 - `2005` [Requirements Engineering](https://staff.agu.edu.vn/hphai/wp-content/uploads/2015/08/Springer-Requirements-Engineering-2nd-Edition-Plantilla-req-pag-85.pdf) ![pdf]![book] - Elizabeth Hull, Ken Jackson and Jeremy Dick.
 - `2002` [Requirements Engineering in Automotive Development: Experiences and Challenges](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.1707&rep=rep1&type=pdf) ![pdf]
 - `1998` [IEEE Std 1233](https://pdfs.semanticscholar.org/4018/ea1263f10052e3197c4d2a866b62fde83167.pdf) ![pdf]- IEEE Guide for Developing System Requirements Specifications.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
 
 ### Polarion Software
 
