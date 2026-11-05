@@ -84,6 +84,7 @@
 - [as](https://github.com/autoas/as) ![github] - Automotive software(OSEK & AUTOSAR) and its tool-chain.
 - [autosar-framework](https://github.com/myGiter/autosar-framework) ![github] - Master-Thesis - Framework für wiederverwendbare Autosar Basis-Software-Module.
 - [autosar](https://github.com/cogu/autosar) ![github] - A set of python modules for working with AUTOSAR XML files.
+- [autosar-agent-skills](https://github.com/autosar-skills/autosar-agent-skills) ![github] - Zero-dependency Python skills for AUTOSAR Classic engineering: a DBC communication matrix auditor (11 checks, revision diff, frame decoding) and an ARXML ECUC x DBC cross-validator (26 check codes).
 - [Arctic Core](https://github.com/Depthkernelcore/Arccore) ![github] - Open source AUTOSAR embedded platform.
 - [Introduction to Autosar](https://elearning.vector.com/mod/page/view.php?id=437) - Vector Informatik, e-learning module.
 - <details>
