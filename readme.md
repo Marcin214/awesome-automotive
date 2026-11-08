@@ -356,6 +356,8 @@
 - [CANoe: Product Videos](https://www.youtube.com/playlist?list=PL9EA087B9E8301D23) ![video] - Official Vector Informatik YouTube channel.
 - [Programming with CAPL](https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf) ![pdf]
 - [Tips and Tricks for the Use of CAPL](https://kb.vector.com/entry/875/) - Three consecutive articles, for all levels of user knowledge [Part One](https://kb.vector.com/upload_551/file/CAPL_1_CANNewsletter_201406_PressArticle_EN.pdf), [Part Two](https://kb.vector.com/upload_551/file/CAPL_2_CANNewsletter_201409_PressArticle_EN.pdf), [Part Three](https://kb.vector.com/upload_551/file/CAPL_3_CANNewsletter_201411_PressArticle_EN.pdf).
+- [CAPL Playground](https://github.com/oldrev/capl-playground) - An online playground for CAPL, built on an open-source compiler with WASM/C backends.
+
 
 ## Blogs
 - [just auto](https://www.just-auto.com/) - Global automotive industry news, data and analysis. Recent information about OEMs and suppliers.
